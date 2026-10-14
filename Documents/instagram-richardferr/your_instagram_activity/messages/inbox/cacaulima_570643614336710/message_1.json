@@ -1,0 +1,943 @@
+{
+  "participants": [
+    {
+      "name": "CACAU LIMA"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1684092554506,
+      "content": "vlwww \u00f0\u009f\u00a4\u0099\u00f0\u009f\u008f\u00bb\u00f0\u009f\u00a4\u0099\u00f0\u009f\u008f\u00bb\u00f0\u009f\u00a4\u0099\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1684090504077,
+      "content": "Feliz anivers\u00c3\u00a1rio \u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u0088\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1684090503840,
+      "content": "You shared a story.",
+      "share": {
+        "original_content_owner": "cacauliima"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667648232247,
+      "content": "\u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667604953063,
+      "content": "quase casando j\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667604946703,
+      "content": "parab\u00c3\u00a9ns \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667604938743,
+      "content": "ahh bom demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667601326685,
+      "content": "ai nois vai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667601324484,
+      "content": "tem 1 ano q to morando cm ele",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667601314422,
+      "content": "eu e meu namorido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667601310576,
+      "content": "ahaammm kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667599607386,
+      "content": "n\u00c3\u00a3o creio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667599603787,
+      "content": "NOVA SERRANA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667599599221,
+      "content": "Divinopolis?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667597499773,
+      "content": "\u00f0\u009f\u00a4\u00a6\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667597489767,
+      "content": "advinha pra onde vou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667597485338,
+      "content": "m\u00c3\u00aas q vem to mudando daqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667597474713,
+      "content": "miseric\u00c3\u00b3rdia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667592333937,
+      "content": "Kkkkkkkk realmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667592323598,
+      "content": "vim resolver uma parada na escola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667591734328,
+      "content": "nesse fim d mundo??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1667591730736,
+      "content": "q c ta fazendo aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667584527668,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655475203426,
+      "content": "Imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1655461953185,
+      "content": "custamos vim embora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1655461938632,
+      "content": "estava dms",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655446098910,
+      "content": "Tava um caos kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655446087285,
+      "content": "Eu passei na porta do mineir\u00c3\u00a3o quando o jogo acabou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655446059828,
+      "content": "sim kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1655436392519,
+      "content": "toop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1655436391312,
+      "content": "serio q c mora ai??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1655436387323,
+      "content": "mentira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655425649592,
+      "content": "Tava aqui perto de casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1642281556942,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642267267415,
+      "content": "Muito ruim o tratamento",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CACAU LIMA",
+          "timestamp": 1642281556
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642267261661,
+      "content": "Eu passei por isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642267255471,
+      "content": "Pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1642264551485,
+      "content": "\u00f0\u009f\u0098\u00a9\u00f0\u009f\u0098\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1642264547776,
+      "content": "agora s\u00c3\u00b3 \u00c3\u00a9 ladeira abaixo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1642264541986,
+      "content": "so daq uns meses q melhora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1642264533385,
+      "content": "\u00f0\u009f\u0098\u00a2\u00f0\u009f\u0098\u00a2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1642264528056,
+      "content": "pior q \u00c3\u00a9 sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1642264523216,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642262027493,
+      "content": "Se for com roacoutan, a pele destr\u00c3\u00b3i toda no in\u00c3\u00adcio, mas depois fica maravilhosa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CACAU LIMA",
+          "timestamp": 1642264523
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1598314521935,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1598307619317,
+      "content": "\u00f0\u009f\u0096\u0095\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0096\u0095\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1598307610397,
+      "content": "Porque a tela quebrou quando eu abri sua foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1598307601148,
+      "content": "Pra eu comprar um celular novo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1598307594764,
+      "content": "Pra voc\u00c3\u00aa mandar o dinheiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1598307586960,
+      "content": "Vou te passar minha conta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1598307547521,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1598307375467,
+      "content": "Se mudar n\u00c3\u00a3o vai ter como eu ver n\u00c3\u00a9 \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1598304880383,
+      "content": "vou sim, quer ver \u00f0\u009f\u0092\u0081\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1598304731769,
+      "content": "N\u00c3\u00a3o vai n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1578841790730,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/cacaulima_570643614336710/audio/257388982350958.mp4",
+          "creation_timestamp": 1602642649
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1576710252363,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1576709671212,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930538381,
+      "content": "kkkkkkkkkk concordo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575930535122,
+      "content": "Rave n\u00c3\u00a3o pode faltar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575930528802,
+      "content": "Esquisita \u00c3\u00a9 vc kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575930522604,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575930520211,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930345047,
+      "content": "eh nois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930343030,
+      "content": "mtas raves ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930340297,
+      "content": "tudibom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930336818,
+      "content": "brinks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930335138,
+      "content": "\u00f0\u009f\u0092\u0081\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0098\u008c\u00f0\u009f\u0098\u008c\u00f0\u009f\u0098\u00b9\u00f0\u009f\u0098\u00b9\u00f0\u009f\u0098\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930330110,
+      "content": "feliz niver seu esquisito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930324148,
+      "content": "se n me engano \u00c3\u00a9 hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575930320101,
+      "content": "hm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575241542583,
+      "content": "kkkkkkkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575241418208,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575241206400,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575240905451,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575240663236,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575238756601,
+      "content": "Kkkkk eu printo e posto isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575221289955,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575220844125,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1575220261956,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1574302719318,
+      "content": "\u00f0\u009f\u0098\u0092",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1574302316760,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1570149759970,
+      "content": "Menos mal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1570149756059,
+      "content": "Ahhhhhhhh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570149484010,
+      "content": "pra comemorar niver dela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570149480209,
+      "content": "talvez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570149478933,
+      "content": "mas devo ir semana q vem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570149474375,
+      "content": "\u00c3\u00a9 onde a foto foi tirada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570149470391,
+      "content": "qem dera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570149466599,
+      "content": "eu n to ai nao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1570148587844,
+      "content": "Nem avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1570148584606,
+      "content": "t\u00c3\u00a1 em bh aff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570148309847,
+      "content": "chato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570148309438,
+      "content": "o q",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1570148309032,
+      "content": "\u00f0\u009f\u0098\u0092\u00f0\u009f\u0098\u0092\u00f0\u009f\u0098\u0092",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1570148269831,
+      "content": "\u00f0\u009f\u0098\u0092\u00f0\u009f\u0098\u0092",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1570148269345,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1569806217072,
+      "content": "\u00f0\u009f\u00a4\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569805350855,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569805338201,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561947840420,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561942443529,
+      "content": "Se colocar Vegas e Chapeleiro tamb\u00c3\u00a9m, eu at\u00c3\u00a9 choro",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CACAU LIMA"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561942430808,
+      "content": "Nem fale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561942328456,
+      "content": "pra ser sucesso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561942325745,
+      "content": "s\u00c3\u00b3 falta o alok agr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561942305294,
+      "content": "Pqp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561942303341,
+      "content": "Eu j\u00c3\u00a1 t\u00c3\u00b4 coladoooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561942285128,
+      "content": "vao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561942283327,
+      "content": "meus xuxus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561942277574,
+      "content": "scrr",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2078044664335462931"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561942274874,
+      "content": "mds",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2078042436950549110"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561856370838,
+      "content": "Dmr kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561856319231,
+      "content": "\u00f0\u009f\u0092\u0081\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561856314800,
+      "content": "vo brotar ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561856312205,
+      "content": "se for os q eu gosto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561856309457,
+      "content": "vou esperar e ver os cantor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561855863162,
+      "content": "Vai vir gnt da badia nela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561855856745,
+      "content": "A menina que mora aqui? Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561855838558,
+      "content": "\u00f0\u009f\u0098\u0092",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561855836331,
+      "content": "ela gosta d pagode",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561855827896,
+      "content": "a rafaela n gosta mto dessas festas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561855545488,
+      "content": "Vc n\u00c3\u00a3o vai em nada tbm kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561855268966,
+      "content": "top",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561855267570,
+      "content": "mas eh too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561855264991,
+      "content": "bem prov\u00c3\u00a1vel q n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561855260881,
+      "content": "quem dera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561849165161,
+      "content": "Vc vai nesse?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACAU LIMA",
+      "timestamp_ms": 1561848684260,
+      "content": "ai ai \u00f0\u009f\u00a4\u00a4",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2077229473972716815"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CACAU LIMA",
+  "is_still_participant": true,
+  "thread_path": "inbox/cacaulima_570643614336710",
+  "magic_words": [
+    
+  ]
+}

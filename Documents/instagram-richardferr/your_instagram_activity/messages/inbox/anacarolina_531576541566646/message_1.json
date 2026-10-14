@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Ana Carolina"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ana Carolina",
+      "timestamp_ms": 1639920656612,
+      "content": "N\u00c3\u00a3o largo nunca \u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1639920526501,
+      "content": "Eu imagino, mas compensa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana Carolina",
+      "timestamp_ms": 1639916535827,
+      "content": "Da um trabalhinho viu kkk \nAl\u00c3\u00a9m de gastar muito dinheiro com ele mas eu amooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1639886753311,
+      "content": "Adorei \u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ana Carolina",
+      "timestamp_ms": 1639881796452,
+      "content": "Vc gostou ? \u00f0\u009f\u0098\u008d muito obrigada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1639881145340,
+      "content": "nossa, seu cabelo est\u00c3\u00a1 maravilhoso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ana Carolina",
+  "is_still_participant": true,
+  "thread_path": "inbox/anacarolina_531576541566646",
+  "magic_words": [
+    
+  ]
+}

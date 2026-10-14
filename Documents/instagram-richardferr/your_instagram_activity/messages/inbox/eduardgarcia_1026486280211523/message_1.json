@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Eduard Garcia"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eduard Garcia",
+      "timestamp_ms": 1786429828116,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduard Garcia",
+  "is_still_participant": true,
+  "thread_path": "inbox/eduardgarcia_1026486280211523",
+  "magic_words": [
+    
+  ]
+}

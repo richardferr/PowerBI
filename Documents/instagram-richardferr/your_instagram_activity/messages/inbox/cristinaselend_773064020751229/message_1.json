@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Cristina Selend"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651882414877,
+      "content": "Falei pra ela que era storie de casal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristina Selend",
+      "timestamp_ms": 1651882339224,
+      "content": "https://instagram.com/stories/nathaliacarooline/2832115102234570696?utm_source=ig_story_item_share&igshid=MDJmNzVkMjY=",
+      "share": {
+        "link": "https://instagram.com/stories/nathaliacarooline/2832115102234570696?utm_source=ig_story_item_share&igshid=MDJmNzVkMjY%3D"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646336938243,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristina Selend",
+      "timestamp_ms": 1646336368861,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristina Selend",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristinaselend_773064020751229",
+  "magic_words": [
+    
+  ]
+}

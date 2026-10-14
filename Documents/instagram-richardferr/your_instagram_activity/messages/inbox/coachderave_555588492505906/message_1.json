@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "COACH DE RAVE"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "COACH DE RAVE",
+      "timestamp_ms": 1624889225716,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1624837280919,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "COACH DE RAVE",
+          "timestamp": 1624889225
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "COACH DE RAVE",
+      "timestamp_ms": 1604678925911,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1604642503059,
+      "content": "O link est\u00c3\u00a1 na minha bio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1604642497930,
+      "content": "Comecei a postas alguns v\u00c3\u00addeos sobre raves no meu Tiktok em uma conta com aproximadamente 19k seguidores. Caso tenha interesse em fazer algum tipo de parceria, me disponibilizo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1604642495785,
+      "content": "Boa noite",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "COACH DE RAVE"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1604642493571,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "COACH DE RAVE",
+  "is_still_participant": true,
+  "thread_path": "inbox/coachderave_555588492505906",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Madrid, Comunidad de Madrid"
+        },
+        {
+          "value": "El Grao de Valencia, Comunidad Valenciana"
+        },
+        {
+          "value": "Ibiza, Balearic Islands"
+        },
+        {
+          "value": "Barcelona, Catalu\u00c3\u00b1a"
+        },
+        {
+          "value": "M\u00c3\u00a1laga, Andalusia"
+        },
+        {
+          "value": "Seville, Andalusia"
+        },
+        {
+          "value": "Comunidad de Madrid"
+        },
+        {
+          "value": "Andalusia"
+        },
+        {
+          "value": "Comunidad Valenciana"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Center."
+    }
+  ],
+  "fbid": "17841410129415609"
+}

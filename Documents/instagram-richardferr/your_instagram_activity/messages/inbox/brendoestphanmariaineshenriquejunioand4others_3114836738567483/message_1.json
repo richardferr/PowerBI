@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Brendo Estphan"
+    },
+    {
+      "name": "Maria In\u00c3\u00aas"
+    },
+    {
+      "name": "Henrique Junio"
+    },
+    {
+      "name": "Dener Aredes"
+    },
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Gabriela"
+    },
+    {
+      "name": "Renan Francisco"
+    },
+    {
+      "name": "Thyago Alves"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria In\u00c3\u00aas",
+      "timestamp_ms": 1584995039594,
+      "content": "Video chat ended",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria In\u00c3\u00aas",
+      "timestamp_ms": 1584994500337,
+      "content": "mari.ibatista added Henrique Junio to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria In\u00c3\u00aas",
+      "timestamp_ms": 1584994442694,
+      "content": "mari.ibatista added Thyago Alves to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria In\u00c3\u00aas",
+      "timestamp_ms": 1584994345414,
+      "content": "Maria In\u00c3\u00aas added you to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria In\u00c3\u00aas",
+      "timestamp_ms": 1584994140783,
+      "content": "mari.ibatista added Renan Francisco to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria In\u00c3\u00aas",
+      "timestamp_ms": 1584993121220,
+      "content": "mari.ibatista added Brendo Estphan to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dener Aredes",
+      "timestamp_ms": 1584993091952,
+      "content": "deneraredes started a video chat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brendo Estphan, Maria In\u00c3\u00aas, Henrique Junio and 4 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/brendoestphanmariaineshenriquejunioand4others_3114836738567483",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

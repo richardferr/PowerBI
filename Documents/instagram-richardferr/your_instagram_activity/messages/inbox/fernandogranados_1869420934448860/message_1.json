@@ -1,0 +1,1732 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Granados"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772893241186,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772892374158,
+      "content": "Perfecto",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772844850054,
+      "content": "Si vamos esta semana un d\u00c3\u00ada para experimentar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772844744602,
+      "content": "Aquel cerca del que fuimos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772844734981,
+      "content": "Siii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772843930308,
+      "content": "A gente sai pra comer pra restaurante brasileiro depois ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772843920704,
+      "content": "Muito bem\nMenino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772843916641,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772843366300,
+      "content": "No, es que estuve super ocupado con temas del trabajo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772842675336,
+      "content": "Pens\u00c3\u00a9 q no quer\u00c3\u00adas hablar m\u00c3\u00a1s \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772842659060,
+      "content": "No te preocupes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772841071885,
+      "content": "Disculpa, no tengo utilizado redes sociales esa seman",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772841053548,
+      "content": "S\u00c3\u00ad jajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772495625275,
+      "content": "Fernando sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772491478208,
+      "content": "Ohhh y se te moj\u00c3\u00b3 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772491334399,
+      "content": "Yo ten\u00c3\u00ada ropa afuera \u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772491323421,
+      "content": "Verdad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772490903501,
+      "content": "Lo bueno que no llovi\u00c3\u00b3 fuerte ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772490898546,
+      "content": "Qu\u00c3\u00a9 bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772490884181,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772490756125,
+      "content": "S\u00c3\u00ad, llegu\u00c3\u00a9 hace poco tambi\u00c3\u00a9n",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772490745818,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772490198810,
+      "content": "Y tu ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772490197540,
+      "content": "Hola sii hace 3  minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772490149815,
+      "content": "Llegaste?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772483981497,
+      "content": "Ok te veo por aqu\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772483819591,
+      "content": "Llegar\u00c3\u00a9 en 5 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772483531098,
+      "content": "Estoy afuera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772482156733,
+      "content": "Te veo all\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772482154384,
+      "content": "Muy bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772482098059,
+      "content": "Voy a tomar el metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772480275714,
+      "content": "Me avisas entonces para salir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772480259713,
+      "content": "Vale si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772480156308,
+      "content": "Puedo ir, solo necesito ducharme antes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772479899887,
+      "content": "Quieres ir al sitio venezolano ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772479890596,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772479332061,
+      "content": "Has terminado de trabajar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772479324635,
+      "content": "Dej\u00c3\u00a9 unas cosas para terminar ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772479306421,
+      "content": "Disculpa, al final consegu\u00c3\u00ad terminar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772476372562,
+      "content": "Solo quer\u00c3\u00ada confirmar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772476366399,
+      "content": "Sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772475717624,
+      "content": "Si no te parece mal, podemos ir a purpuseria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772475698940,
+      "content": "No quiero, pero tendremos que hacerlo otro d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772475684236,
+      "content": "A\u00c3\u00ban sigo trabajando y a\u00c3\u00ban no tengo hora para terminar, mi jefa me llam\u00c3\u00b3 hace poco y me regal\u00c3\u00b3 demasiado trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772472459079,
+      "content": "A preguntar si nos veremos hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772472454725,
+      "content": "Por ac\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772472452616,
+      "content": "Todo bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772471438419,
+      "content": "Estoy bien y t\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772471433380,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772466998220,
+      "content": "C\u00c3\u00b3mo est\u00c3\u00a1s ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772466995478,
+      "content": "Hola !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772408331043,
+      "content": "Espero desocuparme como 20hr tambi\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772408271112,
+      "content": "T\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772408268416,
+      "content": "Hasta las 20h",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772408259626,
+      "content": "S\u00c3\u00ad, trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772407922032,
+      "content": "Porq ? Tu no trabajas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772407917321,
+      "content": "Pero podemos vernos a cenar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772407913510,
+      "content": "Si trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772406780602,
+      "content": "Ma\u00c3\u00b1ana trabajar\u00c3\u00a1s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772406772216,
+      "content": "Cerca del restaurante brasile\u00c3\u00b1o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772406575195,
+      "content": "https://maps.app.goo.gl/6xinCgHbqjgnzXu26?g_st=ii",
+      "share": {
+        "link": "https://maps.app.goo.gl/6xinCgHbqjgnzXu26?g_st=ii",
+        "share_text": "https://maps.app.goo.gl/6xinCgHbqjgnzXu26?g_st=ii"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772406541321,
+      "content": "Por aqu\u00c3\u00ad si varios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772406178856,
+      "content": "Conoces alg\u00c3\u00ban sitio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772405759147,
+      "content": "Son similar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772405756027,
+      "content": "Ma\u00c3\u00b1ana podr\u00c3\u00adamos ir a probar pero las venezolanas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772405608323,
+      "content": "Las arepas todav\u00c3\u00ada no he probado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772405594024,
+      "content": "Quiz\u00c3\u00a1s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772405481431,
+      "content": "Se parece m\u00c3\u00a1s a los tlacoyos mexicanos o a las arepas  colombianas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772405469006,
+      "content": "Mmm no tanto jeje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772405462126,
+      "content": "Pens\u00c3\u00a9 q duraba m\u00c3\u00a1s jeje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772405449722,
+      "content": "Reacted \u00f0\u009f\u0098\u00ae to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772404465340,
+      "content": "Me acuerdan un poco las quesadillas mexicanas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772404451606,
+      "content": "S\u00c3\u00ad, sin muy ricas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772404439644,
+      "content": "Fueron 5 minutos",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772404259665,
+      "content": "Probaste las pupusas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772404255866,
+      "content": "Ah tenemos q ir otro d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772404249948,
+      "content": "Termino r\u00c3\u00a1pido lo de las luces ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772404187424,
+      "content": "Este sitio es cerca de mi piso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772404180813,
+      "content": "No, eso fue cuando volv\u00c3\u00ad a casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772403633007,
+      "content": "Pens\u00c3\u00a9 que era en el centro donde fuiste a las luces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772403623391,
+      "content": "Ahh no he ido a\u00c3\u00ban pero si hab\u00c3\u00ada escuchado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772403471939,
+      "content": "Solo no digo para irnos ma\u00c3\u00b1ana porque no abren los lunes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772403440539,
+      "content": "Es este sitio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772403439281,
+      "content": "https://maps.app.goo.gl/WCDBb6eWUE8qUN8M6?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/WCDBb6eWUE8qUN8M6?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/WCDBb6eWUE8qUN8M6?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772403271868,
+      "content": "En serio ? Como se llama ???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772399370279,
+      "content": "Acabo de comer en un sitio de El Salvador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772399357156,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772398724714,
+      "content": "Para cenar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772398721905,
+      "content": "Mejor nos vemos ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772398717734,
+      "content": "Hola ! No no fui al final",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772397871121,
+      "content": "Fuiste?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772393059646,
+      "content": "Al lado del paso de peatones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772393059069,
+      "content": "Vienes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772393058384,
+      "content": "Estamos en frente a starbucks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772393056331,
+      "content": "S\u00c3\u00ad, estamos a camino ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772380161982,
+      "content": "Sii tu vas a moverte al centro antes ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772380051136,
+      "content": "Muy central",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772380041221,
+      "content": "Ah entiendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379892759,
+      "content": "Cerca de Vivagym C\u00c3\u00a1novas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379885497,
+      "content": "Vivo por russafa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379881677,
+      "content": "Comparto un depa con varias personas pero no las conozco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379874394,
+      "content": "Es un cuarto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379869611,
+      "content": "Sii digo solo desordenado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772379865274,
+      "content": "D\u00c3\u00b3nde vives exactamente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772379852352,
+      "content": "Entonces lo imagino como estava jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379794654,
+      "content": "Quer\u00c3\u00ada ir a comer algo por aqu\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379787814,
+      "content": "Ya casi es q hab\u00c3\u00ada dejado el cuarto  un mes jeje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772379720749,
+      "content": "Ya tienes todo listo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772379714260,
+      "content": "Yo acabo de salir de la ducha, voy a comer algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379591956,
+      "content": "Y tu ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772379590437,
+      "content": "Estaba ordenando el cuarto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772379570689,
+      "content": "Qu\u00c3\u00a9 est\u00c3\u00a1s haciendo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772377694866,
+      "content": "Si como creas mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772377680319,
+      "content": "Reacted \u00f0\u009f\u0098\u00ae to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772376727449,
+      "content": "O quiz\u00c3\u00a1s tomamos un caf\u00c3\u00a9 ma\u00c3\u00b1ana por la noche, m\u00c3\u00a1s seguro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772376494502,
+      "content": "Que siempre que voy a estos eventos no funciona bien",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772376469772,
+      "content": "Te enviar\u00c3\u00a9 la ubicaci\u00c3\u00b3n cuando elegir, si hay conexi\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772376440975,
+      "content": "A\u00c3\u00ban vamos a buscar el s\u00c3\u00adtio para ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772376256916,
+      "content": "Enfrente de la plaza de ayuntamiento ? O por donde ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772375657038,
+      "content": "Estaremos all\u00c3\u00a1 por las 19:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772375646026,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772373723306,
+      "content": "\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772373722099,
+      "content": "Si no hay problema entonces si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772373709629,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772373547687,
+      "content": "Si quieres, puedes unirse",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772372836033,
+      "content": "Ahh no hay problema de ir contigo y tus amigos ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772372811321,
+      "content": "Vas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772372565627,
+      "content": "Ahh vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772371872614,
+      "content": "S\u00c3\u00ad, voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772371680918,
+      "content": "Vas a ir con tus amigos ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772371676195,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772371493739,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/fernandogranados_1869420934448860/photos/1443180604258154.jpg",
+          "creation_timestamp": 1772371492
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772371468472,
+      "content": "Voy a enviarte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772371283963,
+      "content": "Donde se ven?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772371278870,
+      "content": "Ahh vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772371008285,
+      "content": "Hoy voy a ver a los fuegos por la noche",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772370336216,
+      "content": "O que planes tienes ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772370333419,
+      "content": "Quieres ir a cenar algo m\u00c3\u00a1s tarde hoy ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772370319434,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772369752650,
+      "content": "S\u00c3\u00ad, he ido ayer por la noche",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772369461819,
+      "content": "Y has ido ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772369292375,
+      "content": "Hoy ya hay otra ahora y fuegos por la noche",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772369273836,
+      "content": "Ayer empezaran una mascleta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772368896345,
+      "content": "Ya empezaron las fallas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772368892458,
+      "content": "Claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772368888932,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772368828431,
+      "content": "Si quieres, hacemos algo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772368821922,
+      "content": "Guay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772368637070,
+      "content": "Pero digo aqu\u00c3\u00ad vivo pero estoy viajando mucho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772368622894,
+      "content": "Creo q hasta jueves 12 o viernes 13",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772368471854,
+      "content": "Hasta cu\u00c3\u00a1ndo vas a quedarte aqu\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772368456725,
+      "content": "Genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772366405091,
+      "content": "Chegay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772358917276,
+      "content": "Me avise quando chegar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772351305672,
+      "content": "J\u00c3\u00a1 no aeroporto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772351302504,
+      "content": "Eu chego hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772351298817,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772327544225,
+      "content": "Achei que estava aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772327533653,
+      "content": "Estou bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772315961495,
+      "content": "Hoje estive arrumado as coisas porque amanh\u00c3\u00a3 viajo pra Val\u00c3\u00aancia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772315946579,
+      "content": "Ola ! Como vai ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772272450148,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772242472209,
+      "content": "Bom descanso !",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772242463342,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772242460185,
+      "content": "Bom descanso",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772242457225,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772242400472,
+      "content": "A gente se escreve menino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772242382954,
+      "content": "Agora vou dormir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772242379127,
+      "content": "Muito bem !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772242315336,
+      "content": "Quando quiser, me diz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772242028807,
+      "content": "Ser\u00c3\u00ada legal sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772242025679,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772241861886,
+      "content": "Podemos ir um dia se quiser",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772241851084,
+      "content": "Sim, l\u00c3\u00a1 s\u00c3\u00b3 toca reggeton",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772241686257,
+      "content": "E tipo reggeton. ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772241682363,
+      "content": "N\u00c3\u00a3o tenho ido ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772241665047,
+      "content": "Na Gran via",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772241659418,
+      "content": "En Canovas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772241371772,
+      "content": "Qu\u00c3\u00a9 zona fica ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772241369554,
+      "content": "Esse n\u00c3\u00a3o conhe\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772225548711,
+      "content": "Geralmente vou a bares e Havanna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772217246289,
+      "content": "Donde sales usualmente ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772217064844,
+      "content": "Pero no voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772217061304,
+      "content": "No conoc\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772217004308,
+      "content": "Fernando sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772216984957,
+      "content": "N\u00c3\u00a3o conhe\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772216945554,
+      "content": "A festa se chama cancaneo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772216797886,
+      "content": "O que \u00c3\u00a9 isso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772216695501,
+      "content": "Vai pra as festas de cancaneo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772216691069,
+      "content": "As veces sin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772216121077,
+      "content": "Gosto sim e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772216097370,
+      "content": "E gostas sair de festa ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772213428483,
+      "content": "Geralmente aos finais de semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772212767755,
+      "content": "E voc\u00c3\u00aa ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772212766199,
+      "content": "E nas noites",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772212763303,
+      "content": "Nas  manh\u00c3\u00a3s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772211681793,
+      "content": "Quando voc\u00c3\u00aa costuma ter tempo livre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772211638017,
+      "content": "Parece um bom plano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772211602613,
+      "content": "Ent\u00c3\u00a3o temos que nos encontrar pra colocar e dan\u00c3\u00a7ar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772211593299,
+      "content": "Ahh entend\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772208222608,
+      "content": "Mas n\u00c3\u00a3o tocou quando fui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772208212577,
+      "content": "Esses eu gosto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772208208823,
+      "content": "Pop funk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772202359136,
+      "content": "As populares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772202349900,
+      "content": "Anitta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772202347454,
+      "content": "Luisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772202343942,
+      "content": "S\u00c3\u00b3 os modernos tipo Pedro Sampaio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772202335836,
+      "content": "Eu n\u00c3\u00a3o conhe\u00c3\u00a7o funk a profundidade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772202328101,
+      "content": "Ahh entend\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772202015128,
+      "content": "Mas tocam muita m\u00c3\u00basica antiga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772202002265,
+      "content": "At\u00c3\u00a9 vai gente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772195902693,
+      "content": "Mas n\u00c3\u00a3o deve ter tanta gente  n\u00c3\u00a9 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772195893612,
+      "content": "Nos v\u00c3\u00addeos parece bem legal ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772192199499,
+      "content": "S\u00c3\u00ad, fue esa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772192122413,
+      "content": "La de Dale Funk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772192119033,
+      "content": "Nunca fui pero pens\u00c3\u00a9 que era divertida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772192111007,
+      "content": "Reacted \u00f0\u009f\u0098\u00ae to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772191631423,
+      "content": "Jaja tienes que ense\u00c3\u00b1arme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772191618633,
+      "content": "Estuve en una, pero no me he gustado mucho",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Fernando Granados"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772191563210,
+      "content": "N\u00c3\u00a3o sei rebolar como brasileiro mas fa\u00c3\u00a7o o intento ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772191493385,
+      "content": "Hay una fiesta que hacen de funk en Valencia creo jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772191111047,
+      "content": "S\u00c3\u00ad, me gusta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772190086706,
+      "content": "A ti no ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772190085189,
+      "content": "Si jajaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772189797672,
+      "content": "Te gusta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772189085010,
+      "content": "Escuchando funk brasile\u00c3\u00b1o jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772189076000,
+      "content": "Todo bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772188498249,
+      "content": "Estoy bien y t\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772185072797,
+      "content": "C\u00c3\u00b3mo est\u00c3\u00a1s ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Granados",
+      "timestamp_ms": 1772185070888,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1772152380141,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando Granados",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandogranados_1869420934448860",
+  "magic_words": [
+    
+  ]
+}

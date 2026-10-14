@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Emanuel Abreu"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685481277426,
+      "content": "eu notei haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emanuel Abreu",
+      "timestamp_ms": 1685481251222,
+      "content": "Essa est\u00c3\u00a1 bem feita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685481235732,
+      "content": "j\u00c3\u00a1 fez a mat\u00c3\u00a9ria de caligrafia de m\u00c3\u00a9dico?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emanuel Abreu",
+  "is_still_participant": true,
+  "thread_path": "inbox/emanuelabreu_1101041057953522",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Gabriela ferreira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriela ferreira",
+      "timestamp_ms": 1670893943811,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2991989127199565238"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670612700128,
+      "content": "Muito obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela ferreira",
+      "timestamp_ms": 1670606840113,
+      "content": "Feliz anivers\u00c3\u00a1riooo tudo de melhor hoje e sempre \u00f0\u009f\u00a5\u00b3 muita paz, amor, sa\u00c3\u00bade \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640442744073,
+      "content": "Haha obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela ferreira",
+      "timestamp_ms": 1640441534464,
+      "content": "Estilosooo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2736115074147201685"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela ferreira",
+      "timestamp_ms": 1625884283179,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1625884738
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela ferreira",
+      "timestamp_ms": 1572007685154,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1572006276711,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2162467818393398327"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriela ferreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabrielaferreira_566081101460408",
+  "magic_words": [
+    
+  ]
+}

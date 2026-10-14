@@ -1,0 +1,137 @@
+{
+  "participants": [
+    {
+      "name": "Rafa Rocha"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafa Rocha",
+      "timestamp_ms": 1666742282172,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666742277935,
+      "content": "\u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rafa Rocha",
+          "timestamp": 1666742282
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafa Rocha",
+      "timestamp_ms": 1666741957700,
+      "content": "Fico feliz em ajudar \u00f0\u009f\u0092\u0095",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1666742275
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafa Rocha",
+      "timestamp_ms": 1666741946571,
+      "content": "Q bomm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666741937856,
+      "content": "obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666741934243,
+      "content": "tudo bem tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafa Rocha",
+      "timestamp_ms": 1666741622681,
+      "content": "Acho q ela gostaria bastante do presente kkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafa Rocha",
+      "timestamp_ms": 1666741594962,
+      "content": "Ela gosta sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafa Rocha",
+      "timestamp_ms": 1666741575854,
+      "content": "Tudo sim e vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafa Rocha",
+      "timestamp_ms": 1666741570109,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666736321906,
+      "content": "Gabriela****",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666736304582,
+      "content": "Eu vou comprar algo aqui pra ela, mas n\u00c3\u00a3o tenho certeza se ela gosta de chocolate rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666736286396,
+      "content": "Deixa eu te perguntar, a Rafaela gosta de chocolate?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666736273870,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666736271078,
+      "content": "Eii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafa Rocha",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafarocha_952031196187843",
+  "magic_words": [
+    
+  ]
+}

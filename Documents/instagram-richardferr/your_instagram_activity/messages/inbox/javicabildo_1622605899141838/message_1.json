@@ -1,0 +1,346 @@
+{
+  "participants": [
+    {
+      "name": "Javi Cabildo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745439952915,
+      "content": "Y vemonos el viernes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745439934106,
+      "content": "Muy bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745439921150,
+      "content": "Ah que bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745424971262,
+      "content": "Tu que tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745424967327,
+      "content": "Asi que un poco liado buscando maneras de solucionar mientras hago el resto de cosas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745424933849,
+      "content": "Bieen, la verdad que me he adaptado bien aunque me faltan algunas cosas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745326687592,
+      "content": "Y qu\u00c3\u00a9 tal tu nuevo hogar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745326671278,
+      "content": "Entiendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745185374542,
+      "content": "Y aun me quedan casi dos meses de estar aqui \u00f0\u009f\u00a4\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745185359310,
+      "content": "He estado 2h en llamada hablando con una amiga de cuanto me quedaba por volver haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745185316554,
+      "content": "Guay haha tu no tendras problema con el idioma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745185295451,
+      "content": "Si, bueno a hacer practicas en una empresa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745176593943,
+      "content": "Yo soy de Brasil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745176585051,
+      "content": "Veniste para estudiar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745176577525,
+      "content": "Guay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745171627502,
+      "content": "Tu eres de aqui o de otro lugar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745171612260,
+      "content": "De Espa\u00c3\u00b1a, Catalu\u00c3\u00b1a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745171592425,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745168869309,
+      "content": "De d\u00c3\u00b3nde eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745168860419,
+      "content": "Genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745168827785,
+      "content": "Espero que no jaja",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Javi Cabildo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745167446045,
+      "content": "Haha mas o menos lo dejare todo ordenado y luego ensuciare poco para cenar etc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745167396922,
+      "content": "No esta el supermercado cerrado en domingo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745166459281,
+      "content": "Entiendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745166438182,
+      "content": "Estoy descansando un poco, pero tengo que ir al supermercado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745163998652,
+      "content": "Y tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745163978249,
+      "content": "Que todo tengo que dejarlo bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745163964978,
+      "content": "Y luego seguire con la limpieza del piso para dejarlo listo para ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745163946509,
+      "content": "Pues ahora me prepare un ba\u00c3\u00b1o para descansar mientras leo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745163681664,
+      "content": "Qu\u00c3\u00a9 haces?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745163371919,
+      "content": "Genial haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745162661135,
+      "content": "Voy a buscar algo para nosotros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745155155316,
+      "content": "Me tendras que decir donde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745155139617,
+      "content": "\u00f0\u009f\u0098\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745154112478,
+      "content": "Por supuesto, el viernes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745154067935,
+      "content": "\u00f0\u009f\u0098\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745154063873,
+      "content": "Haha primero nos conocemos \u00f0\u009f\u0099\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745153779438,
+      "content": "Tengo ganas de probarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745153765000,
+      "content": "Se ve muy rico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745153631872,
+      "content": "Buen culo que tengo \u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745153588075,
+      "content": "Hahahahahha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745153497418,
+      "content": "Ahora miro tua fotos y solo veo a tu culo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745153472198,
+      "content": "Mucho gusto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745153383366,
+      "content": "Encantado \u00f0\u009f\u0098\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javi Cabildo",
+      "timestamp_ms": 1745153373707,
+      "content": "Hola haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1745153342010,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Javi Cabildo",
+  "is_still_participant": true,
+  "thread_path": "inbox/javicabildo_1622605899141838",
+  "magic_words": [
+    
+  ]
+}

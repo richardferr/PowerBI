@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Natan Amaral"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670027208561,
+      "content": "hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natan Amaral",
+      "timestamp_ms": 1670027122995,
+      "content": "j\u00c3\u00a1 falaram isso ksksk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670026265822,
+      "content": "g\u00c3\u00aameos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670026265482,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natan Amaral",
+      "timestamp_ms": 1656287572216,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1656287107016,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2869466523624536290"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natan Amaral",
+  "is_still_participant": true,
+  "thread_path": "inbox/natanamaral_855051075885856",
+  "magic_words": [
+    
+  ]
+}

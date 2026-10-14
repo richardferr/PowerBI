@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Matilde Cadima"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1733767100311,
+      "content": "Muito obrigado \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matilde Cadima",
+      "timestamp_ms": 1733766583848,
+      "content": "Feliz anivers\u00c3\u00a1rio Richard!! \u00f0\u009f\u00a5\u00b3 Beijinho \u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matilde Cadima",
+      "timestamp_ms": 1729978006193,
+      "content": "Obrigada Richard \u00e2\u0098\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matilde Cadima",
+      "timestamp_ms": 1729977982172,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729977039842,
+      "content": "Feliz anivers\u00c3\u00a1rio \u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0088\u00f0\u009f\u008e\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matilde Cadima",
+          "timestamp": 1729977982
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Matilde Cadima",
+  "is_still_participant": true,
+  "thread_path": "inbox/matildecadima_1469546794436278",
+  "magic_words": [
+    
+  ]
+}

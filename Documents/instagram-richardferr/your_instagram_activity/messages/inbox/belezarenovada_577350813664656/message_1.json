@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Beleza Renovada"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beleza Renovada",
+      "timestamp_ms": 1688512334513,
+      "content": "Obg viu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beleza Renovada",
+      "timestamp_ms": 1688512328378,
+      "content": "Bem tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1688304866213,
+      "content": "31 98287-1443",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1688304850733,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beleza Renovada",
+      "timestamp_ms": 1688298961210,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beleza Renovada",
+      "timestamp_ms": 1688298957057,
+      "content": "Oi tudo bem ? Aqui Raiane sumiu , querendo falar com ela vc tem o contato???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beleza Renovada",
+  "is_still_participant": true,
+  "thread_path": "inbox/belezarenovada_577350813664656",
+  "magic_words": [
+    
+  ]
+}

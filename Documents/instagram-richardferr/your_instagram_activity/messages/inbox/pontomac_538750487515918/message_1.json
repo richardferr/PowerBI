@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "PONTO MAC"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PONTO MAC",
+      "timestamp_ms": 1582064756031,
+      "content": "Mais capa e pel\u00c3\u00adcula de vidro 5D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "PONTO MAC",
+      "timestamp_ms": 1582064751380,
+      "content": "7 128gb\n2400,00 cr\u00c3\u00a9dito 8x \n2100,00 d\u00c3\u00a9bito \n1900,00 dinheiro ou transfer\u00c3\u00aancia banc\u00c3\u00a1ria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "PONTO MAC",
+      "timestamp_ms": 1582064734251,
+      "content": "7 plus 128 \n3050,00 cr\u00c3\u00a9dito 8x \n2800,00 d\u00c3\u00a9bito \n2650,00 dinheiro ou transfer\u00c3\u00aancia banc\u00c3\u00a1ria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "PONTO MAC",
+      "timestamp_ms": 1582064716634,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "PONTO MAC",
+      "timestamp_ms": 1582064714232,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1582063900047,
+      "content": "Qual o pre\u00c3\u00a7o do iphone 7 e do 7plus?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1582063887473,
+      "content": "Boa noitr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "PONTO MAC",
+  "is_still_participant": true,
+  "thread_path": "inbox/pontomac_538750487515918",
+  "magic_words": [
+    
+  ]
+}

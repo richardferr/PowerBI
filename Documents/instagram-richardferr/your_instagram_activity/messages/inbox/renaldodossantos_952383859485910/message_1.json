@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Renaldo Dos Santos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666803088988,
+      "content": "Vou te adiciona ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666802205731,
+      "content": "31973634587",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666802140023,
+      "content": "Mas que conhecer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666801909080,
+      "content": "n\u00c3\u00a3o sei, n\u00c3\u00a3o te conhe\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666801683830,
+      "content": "Eu por exemplo tem coragem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666801645776,
+      "content": "Como assim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666801625908,
+      "content": "talvez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666801591072,
+      "content": "Voc\u00c3\u00aa namoraria um cinquent\u00c3\u00a3o kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666801544583,
+      "content": "sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666801510043,
+      "content": "Desculpa a pergunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666801494396,
+      "content": "Vc e gay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666801205301,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666800145455,
+      "content": "Bom demais vc e lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666800064727,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666799500673,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666799380846,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666797660085,
+      "content": "Quer namorar com migo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Renaldo Dos Santos",
+          "timestamp": 1666797677
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666793676320,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaldo Dos Santos",
+      "timestamp_ms": 1666777902432,
+      "content": "Lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renaldo Dos Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/renaldodossantos_952383859485910",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Squad"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Squad",
+      "timestamp_ms": 1612745641493,
+      "content": "Se chama Samuel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Squad",
+      "timestamp_ms": 1612745638050,
+      "content": "Boa noite , poderia entrar em contato com o 984274579 por favor ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1612742107376,
+      "content": "Ainda n\u00c3\u00a3o estornado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1608765998397,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Squad",
+      "timestamp_ms": 1608762611589,
+      "content": "Amigo foi cart\u00c3\u00a3o ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1608682518962,
+      "content": "N\u00c3\u00a3o chegou, j\u00c3\u00a1 verifiquei na caixa de span e lixo eletr\u00c3\u00b4nico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Squad",
+      "timestamp_ms": 1608680229549,
+      "content": "se foi cart\u00c3\u00a3o vir\u00c3\u00a1 reembolsado na pr\u00c3\u00b3xima fatura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Squad",
+      "timestamp_ms": 1608680217516,
+      "content": "Favor conferir a caixa de spam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1608668341065,
+      "content": "Oi. Na nota informa que para o cancelamento deve solicitar estorno para o sympla. Encaminhei o e-mail solicitando, mas eles informaram que o cancelamento s\u00c3\u00b3 pode ser feito pela produtora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578598198704,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2217764876147606257"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Squad",
+  "is_still_participant": true,
+  "thread_path": "inbox/squad_593844665350506",
+  "magic_words": [
+    
+  ]
+}

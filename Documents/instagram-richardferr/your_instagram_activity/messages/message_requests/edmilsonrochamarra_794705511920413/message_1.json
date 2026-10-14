@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Edmilson Rocha Marra"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Edmilson Rocha Marra",
+      "timestamp_ms": 1649031117595,
+      "content": "Ol\u00c3\u00a1.\nOl\u00c3\u00a1....\nTudo bem a\u00c3\u00ad com vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Edmilson Rocha Marra",
+  "is_still_participant": true,
+  "thread_path": "message_requests/edmilsonrochamarra_794705511920413",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,277 @@
+{
+  "participants": [
+    {
+      "name": "A"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759416602558,
+      "content": "De nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1759414301757,
+      "content": "Muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1759414297851,
+      "content": "Si es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759413974510,
+      "content": "992626 yo creo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1759413570840,
+      "content": "Pin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759411295282,
+      "content": "Necesitas el pin o contrase\u00c3\u00b1a?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759411280634,
+      "content": "Hola, Alex",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1759410821465,
+      "content": "A sent a sticker.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1759410804495,
+      "content": "Hola rich , quer\u00c3\u00ada preguntarte si puedes mandarme el codigo de valebisi que me han hecho salir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758137695939,
+      "content": "D\u00c3\u00b3nde est\u00c3\u00a1s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1758137593503,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758137574080,
+      "content": "Llegaste?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1758131713043,
+      "content": "Te esperar\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1758131707711,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1758131703694,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758131692971,
+      "content": "La chica va?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758131641431,
+      "content": "S\u00c3\u00ad, voy a salir de casa unas 21h",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1758131618845,
+      "content": "Y t\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1758131608912,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758131589045,
+      "content": "Vas mismo a clase de hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758131577202,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756810834322,
+      "content": "Muchas gracias entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756810826205,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756772536198,
+      "content": "Cada bici puedes quedar por 30 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756772522208,
+      "content": "Pero puedes utilizar por 30 minutos e despu\u00c3\u00a9s tomar otra bici por m\u00c3\u00a1s 30 minutos sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756772471963,
+      "content": "El valor que he pagado de 30 euros permite utilizar las bicis por 30 minutos, despu\u00c3\u00a9s de eso cobran m\u00c3\u00a1s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756772380707,
+      "content": "Y los primeros 30 minutos son como gratis?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756772352007,
+      "content": "Pues muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756772347190,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756772318050,
+      "content": "Sino van a cobrar m\u00c3\u00a1s por eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756772290167,
+      "content": "As\u00c3\u00ad que si queres, puedes utilizarla, pero no quedes con la bici por m\u00c3\u00a1s de 30 minutos consecutivos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756772261091,
+      "content": "Pero ya tenho la subscripci\u00c3\u00b3n y tienes mi cuenta en tu m\u00c3\u00b3vil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756772237645,
+      "content": "Yo pago por a\u00c3\u00b1o, 30 euros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756772112232,
+      "content": "Y quer\u00c3\u00ada preguntarte quanto pagas al mes por las bicicletas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756772078542,
+      "content": "Muchas gracias por la bicicleta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A",
+      "timestamp_ms": 1756772069488,
+      "content": "Llegu\u00c3\u00a9 hasta 10 minudos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756771155150,
+      "content": "Dime cuando llegues en casa para saber que llegaste bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "A",
+  "is_still_participant": true,
+  "thread_path": "inbox/a_1714737513250537",
+  "magic_words": [
+    
+  ]
+}

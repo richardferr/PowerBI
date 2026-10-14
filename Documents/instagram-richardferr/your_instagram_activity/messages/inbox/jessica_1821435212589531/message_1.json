@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Jessica"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica",
+      "timestamp_ms": 1756676510984,
+      "content": "Ok qui estamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jessica",
+      "timestamp_ms": 1756676390080,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756676364447,
+      "content": "Vale, dame 12 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jessica",
+      "timestamp_ms": 1756676337678,
+      "content": "https://maps.app.goo.gl/PyxWWDUi54vZGSb3A?g_st=ipc",
+      "share": {
+        "link": "https://maps.app.goo.gl/PyxWWDUi54vZGSb3A?g_st=ipc",
+        "share_text": "https://maps.app.goo.gl/PyxWWDUi54vZGSb3A?g_st=ipc"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jessica",
+      "timestamp_ms": 1756676308726,
+      "content": "En Rusafa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jessica",
+      "timestamp_ms": 1756676304544,
+      "content": "S\u00c3\u00ad el bar se llama loom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756676179143,
+      "content": "Es loom el nombre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756676173777,
+      "content": "jajaja no problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jessica",
+      "timestamp_ms": 1756676073170,
+      "content": "Soy Ariqque se me ha muerto el m\u00c3\u00b3vil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jessica",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessica_1821435212589531",
+  "magic_words": [
+    
+  ]
+}

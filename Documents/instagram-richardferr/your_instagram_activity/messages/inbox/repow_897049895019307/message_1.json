@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "REPOW"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1660944145492,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2908532597338529422"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "REPOW",
+  "is_still_participant": true,
+  "thread_path": "inbox/repow_897049895019307",
+  "magic_words": [
+    
+  ]
+}

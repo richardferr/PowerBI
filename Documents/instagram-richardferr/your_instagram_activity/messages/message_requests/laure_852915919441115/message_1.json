@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Laure"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Laure",
+      "timestamp_ms": 1648575709143,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2804119587761446737"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Laure",
+  "is_still_participant": true,
+  "thread_path": "message_requests/laure_852915919441115",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

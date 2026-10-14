@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Proto\u00cc\u0081tipo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Proto\u00cc\u0081tipo",
+      "timestamp_ms": 1636227966997,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Proto\u00cc\u0081tipo",
+      "timestamp_ms": 1636227964977,
+      "content": "Ja estamos com reservas esgotadas pra hoje. Atendemos por ordem de chegada para grupos menores de 8 pessoas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Proto\u00cc\u0081tipo",
+      "timestamp_ms": 1636227935392,
+      "content": "Ola richard",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636227354901,
+      "content": "Est\u00c3\u00a1 precisando reservas para hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636227346092,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636227344256,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Proto\u00cc\u0081tipo",
+  "is_still_participant": true,
+  "thread_path": "inbox/prototipo_766556658076396",
+  "magic_words": [
+    
+  ]
+}

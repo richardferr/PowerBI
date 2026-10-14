@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Scouter Rhede Model"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Scouter Rhede Model",
+      "timestamp_ms": 1642098955110,
+      "content": "Oii boa tarde Richard ! meu nome \u00c3\u00a9 Jo\u00c3\u00a3o da assessoria Rede Model estamos em busca de novos modelos e influencers para assessorar juntamente com nossos clientes, teria interesse?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Scouter Rhede Model",
+  "is_still_participant": true,
+  "thread_path": "message_requests/scouterrhedemodel_740165394041092",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

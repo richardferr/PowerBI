@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "salgados.temperos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "salgados.temperos",
+      "timestamp_ms": 1614644688898,
+      "content": "Demais gostei meu lindo filho...te amo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1614645866
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "salgados.temperos",
+      "timestamp_ms": 1614389863240,
+      "content": "Eu aqui amor \nConte comigo sempre...",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1614402867
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1613956331129,
+      "content": "Kkkkk n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "salgados.temperos",
+      "timestamp_ms": 1613949043517,
+      "content": "Eu era desse tempo kkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2514073515735332041"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "salgados.temperos",
+  "is_still_participant": true,
+  "thread_path": "inbox/salgadostemperos_492891932101774",
+  "magic_words": [
+    
+  ]
+}

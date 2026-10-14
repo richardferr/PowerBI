@@ -1,0 +1,2224 @@
+{
+  "timestamp": 1782851263,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Removed categories",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Is opted out of third party data at the user level",
+      "value": "True"
+    },
+    {
+      "label": "Received Global Privacy Control (GPC) enable signal from browser settings"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Type of ads control"
+            },
+            {
+              "label": "Whether the consent status changed"
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Change history for consent settings"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "040826_DS_Vd_aPolymath_Brainslideshow_Theylied__35_060794"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1790557657
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "UGC_53Diego3_ES_Men_40_Subtiel-merkgebruik_Verpakking+Product_B-roll_Gratis_-_-_"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1790205039
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "New Co Vivian FW26_Video_ES_FB/IG_Varios_Coments 2_Campa\u00c3\u00b1a Celeb_REFRESH_16.09.26_Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1789585589
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publicaci\u00c3\u00b3n de Instagram: NUEVO VLOG HOY A LAS..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1789330743
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "WRPRTFL_ROW_NoHero_NA_NoHero_NoHeroCarousel-TopCarousel_NA_NA_NA_Rational_Long_NA_NA_5E_V1_Carousel_ShopAll_Broad18"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1788909213
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "M1PModelo_EUR_Static_NA_Hardware_M1PModelo-FirstEverKJLifestyle-Price_Lifestyle_Frontal_Multi_Rational_Long_YoungFemale_NA_5PlusE_V1_Link_ShopAll_Broad18_1901_Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1788509572
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "RBM1_US_Video_30s_Influencer_Basil26-averieelissa-Lifestyle_Lifestyle_NA_NA_Experiential_Short_AverieElissa_Talent_NA_V1_Link_ShopAll_Broad18"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1788175382
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "260625_video_3"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1786534160
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "en_es_puzzlestreethook_scriptgenerator63_new_ai-vd_spk_mdl_skye_nesly_9x16__60s_inh_mp047_4_07-26"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1784739548
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publicaci\u00c3\u00b3n de Instagram: Quem sabe torcer de..._Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1783129353
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publicaci\u00c3\u00b3n de Instagram: DALE COPA BY DALE FUNK..._Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1783129302
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "RBM1_US_Video_60s_Influencer_Basil26-jusssimone-Entertainment_Lifestyle_NA_NA_Experiential_Short_SakillyaWitherspoon_Talent_NA_V1_Link_ShopAll_Broad18"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1783067482
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "OOMHSTN_ENROW_Video_15s_Seasonal_WorldCup26-MetaAI-KylianMbappeVideo_Lifestyle_Multi_Multi_Experiential_NA_YoungMale_Talent_4E_V1_Link_ShopAll_Broad18_193_Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1782889414
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Spot_Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1781285737
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Related Media Come to Church with Us ID:253436 | Topic:Church |_Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1781168032
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Post do Instagram: Gauchada no BBB 27\n\n@bbb_Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1776720745
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publicaci\u00c3\u00b3n de Instagram: Los neuromoduladores,..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758951208
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram Post"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram Post"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "PT_gif_FlashPromo24_awareness_BA_120124 \u00e2\u0080\u0093 Copy 2"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Singing at Church POR | P:Display |"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "VIDEO \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "f:Links|vp:samsung_limite-maximo|i:illustr_samsung-limite-ate-35mil-fundo-cinza-branco|h:Pe\u00c3\u00a7a ja seu Samsung Itaucard!|pt:Pe\u00c3\u00a7a j\u00c3\u00a1 seu Samsung Itaucard!|lp:/cartoes/199/|d:171121|o:no|aud:Photography_18Plus_MF_BR|pl:F-I-M-AN|d:M-D|os:All"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Carrossel - Promo Tech T-Shirt Masculina"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Noite de Coimbra - Static - PT"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "DPAFB01_BR_A001_PV180_CPE_1845_M_Mix_T001DPASlideShowAds_Multi001DPASlideShowAds-Sale-NewUserVoucher"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "P_Conv_bofu_Telecom_LK-CONVERSION_N_Image_N_N_Ad04"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "042321DJ_Static_SYFTStatic_WonderingWhatToWatch-Content_DaysFree_Portuguese_Brand_Core"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "An\u00c3\u00bancio NB Envolvimento Redes 1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "carrossel-1_UX425"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: BEM REALIZAR TEU SONHO..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Seguro-mes-a-mes"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1758247037
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Post do Instagram: se voc\u00c3\u00aa quer saber como viver..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1756085613
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: Se voc\u00c3\u00aa quer aprender a..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1755266816
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "PT_NoteAdsV1Dark V2_Group_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1754707587
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "ad4 - RIO \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1750759169
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: Legaliza\u00c3\u00a7\u00c3\u00a3o para quem:..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1750329257
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram post: \u00e2\u009c\u00a8 Homenagem a Rafael Firpo &..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1749711789
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Image|White|Text_1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1749460864
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "tickets|pabllo-vittar-sagres-campo-pequeno|mqkPeH8TiRTP7IwWm66jb0VPwFh2|evt_174412037387155952"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1746996592
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: Oi! \nHoje eu vou..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1746488146
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram post: Um dos cursos de Bolos de..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744575719
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "P_Conv_bofu_Telecom_LK-CONVERSION_N_Image_N_N_Ad04"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Novo an\u00c3\u00bancio"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "[08] - [IMG] - Post 19/08/2024"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "install DPA"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "hondadays"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Novo an\u00c3\u00bancio"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram Post"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: SORTEIO!!!\nVem com..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Carrossel - Promo Tech T-Shirt Masculina"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "[X21] Depoimento Edu Kafer"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "An\u00c3\u00bancio NB Envolvimento Redes 1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "[CAD] Vila Concei\u00c3\u00a7\u00c3\u00a3o - Abril 1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: #ilovecroquetes..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "f:Carrossel|vp:credicard_carrossel|i:carrossel_minions-anuidade-uso-imediato|h:Pe\u00c3\u00a7a j\u00c3\u00a1 o Credicard que \u00c3\u00a9 a sua cara!|cta:Apply Now|lp:/cartoes/143/|210304|o:no|aud:Tv Shows_All_MF_BR|pl:F-I-M-AN|d:M-D|os:All"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "\u00e6\u0096\u00b0\u00e9\u0094\u0080\u00e9\u0087\u008f\u00e5\u00b9\u00bf\u00e5\u0091\u008a"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "f:Links|vp:credicard_cartao-sua-cara-ubisoft|i:illustr_visa-minions-bttf-cards|h:Pe\u00c3\u00a7a j\u00c3\u00a1 o Credicard que \u00c3\u00a9 a sua cara!|cta:Apply Now|lp:/cartoes/143/|o:no|aud:Gaming_18Plus_MF_BR|pl:F-I-M-AN|d:M-D|os:All"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "[QG] Carrossel | 4 por R$99 | 10.02.2021 \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Seguro-mes-a-mes"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "M\u00c3\u00aas dos namorados \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Maduras 1_99food | Affordability | Post_Salada"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "f:Links|vp:samsung_limite-maximo|i:illustr_samsung-limite-ate-35mil-fundo-cinza-branco|h:Pe\u00c3\u00a7a ja seu Samsung Itaucard!|pt:Pe\u00c3\u00a7a j\u00c3\u00a1 seu Samsung Itaucard!|lp:/cartoes/199/|d:171121|o:no|aud:Photography_18Plus_MF_BR|pl:F-I-M-AN|d:M-D|os:All"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Video_Price Message Mar 21_La casa de papel: Parte 4_BR"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "DPAFB01_BR_A001_PV180_CPE_1845_M_Mix_T001DPASlideShowAds_Multi001DPASlideShowAds-Sale-NewUserVoucher"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "fb_br_ad10new2_1_pt"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Meet With the Missionaries Video | 2024-01-08 | Faith | Meet with us | Video |"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Convers\u00c3\u00a3o | Colaboradores -  v2"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "APPI_AON_FB_DPA-BROAD_INST-IOS_ALL_GERAL_MAR-ABERTO_D000_MTP-IMAGEMADICIONAL"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: #praia \n#porto"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Remarketing_RedesSociais_Imagem_Carrossel_Casal-Garotas"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "pt_pt_facebook_reels_9-16_450_claudio-v1_0_38_475"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Ad_Ugc_pt"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Singing at Church POR | P:Display |"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "New Traffic Ad"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Noite de Coimbra - Static - PT"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "carrossel-1_UX425"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "VIDEO \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: As de hoje j\u00c3\u00a1 est\u00c3\u00a3o ai!..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "WSC_KATO_RMKT-SME_BR_FB-IG_DK-MO_AND-IOS_PO_CA_PAST-ENGAGEMENTS_A_18-35_CPM_CAR_KATOPRIZMCAROUSEL_QUAD-0S-200521"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "AD01 - Carrosel - HBO"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Davi: gif"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Reconhecimento Batalha"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "042321DJ_Static_SYFTStatic_WonderingWhatToWatch-Content_DaysFree_Portuguese_Brand_Core"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "110204|The Handmaid's Tale|PT|Static|Web|"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "fbapprmtbr_20210418_ios_app_rmt_cpm_allmpa_00105773_Jeans_Unview-90D-S2020_image_1344_"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "safra_quemsabesafra-a_institucional_na_instalacao_consideracao_social_facebook_instaface_carrossel_video-carrossel_qsssupersimplesi-kv1_1st-2nd_lal_ios-cliente_facebook_cpm_na_cross_animado"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "BR#RETAIL#DCA#INSTAGRAM#IOS#NEWS_FEED#NATIVE#GL_PC-GL"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Chellenge - Categoria"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "PT_gif_FlashPromo24_awareness_BA_120124 \u00e2\u0080\u0093 Copy 2"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram Post"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Todos os produtos - Vendas do cat\u00c3\u00a1logo"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "br_pd_social_instagram-samsung_sales-hot_cheil-chlnpc-001-018-171-a_galaxy-book-s_image_performance-el-carousel-1080x1080-20210301-conversion_visitors-page-computing"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: BEM REALIZAR TEU SONHO..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "buy_250Coins1USD_1080x1080_png_pt-br"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "[FB][BRANDING][RETARGETING 3P][VENDA DO CATALOGO][MODA][UPSELL] 58171"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: MY \u00f0\u009f\u00a4\u009e\u00f0\u009f\u0096\u00a4"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: J\u00c3\u00a1 ouviram \u00e2\u0080\u009cSaudade..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "CRIATIVO 1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: My own approval is all I..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "AD1 - 39,90"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "ADS_19_[ELA_\u00c3\u0089_DEMAIS]"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "CARROSSEL \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Convite B - Os Bancos Fazem a Festa (1:1)"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Joana Freitas - Workshop Campanha Trafego"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "[C] IG 2021 AWR - VIP DELAY"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram-bericht: Joelma isso \u00c3\u00a9 Calypso grava\u00c3\u00a7\u00c3\u00a3o..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: \u00f0\u009f\u008e\u0089\u00f0\u009f\u008c\u008e **Conecte-se com..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: Gratis Mao de Obra!!\n2..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "BARI_INSTALACAO_DO_APP_DOWNLOAD_DO_APPANDRE_IOS_AS_25_A_34_PECA_GRAFICA_CONTA-CONTROLE-FEED-STORIES-REFORMA-LAYOUT-B"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: Informa\u00c3\u00a7\u00c3\u00b5es no link da..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Novo an\u00c3\u00bancio \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "FB-IG_CENTRAL-CERVEJAS_Bandida-Pomar_Demographics_Generic_CPM_Vid_Vid_0927-FormaPreferida_NA"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Results_ios_BR_Fitness_n/a_M_23-45  - limited_time_square_10sec_m_no_text.mp4 33"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "AD1"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: Sou como um pe\u00c3\u00a3o de..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744547839
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Video mais de 35 anos"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1742504603
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "ingles_3meses_roxo"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1736554366
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "New Reconhecimento Ad"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735459327
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Post di Instagram: Mais um agendamento  A\u00c3\u00a7\u00c3\u00a3o..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735409922
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram Post"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735408303
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Publica\u00c3\u00a7\u00c3\u00a3o do Instagram: As de hoje j\u00c3\u00a1 est\u00c3\u00a3o ai!..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735407879
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "08/12 16:00 extra"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735338126
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "vermelho \u00e2\u0080\u0094 C\u00c3\u00b3pia"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735245872
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Advertiser",
+              "value": "polymaths.unite"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1790557657
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Advertiser",
+              "value": "ON THAT ASS"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1790205039
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Advertiser",
+              "value": "Desigual"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1789585589
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Advertiser",
+              "value": "dylsliving"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1789330743
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden advertisers"
+    }
+  ],
+  "fbid": "17963568052337648"
+}

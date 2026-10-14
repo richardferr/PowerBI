@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "DJ Pedro Sampaio"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1720262325329,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3406129601615028206"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DJ Pedro Sampaio",
+  "is_still_participant": true,
+  "thread_path": "inbox/djpedrosampaio_1480421723355594",
+  "magic_words": [
+    
+  ]
+}

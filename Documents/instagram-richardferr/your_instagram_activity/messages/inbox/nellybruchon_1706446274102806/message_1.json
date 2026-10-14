@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Nelly Bruchon"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777804660784,
+      "content": "Voy por las 15:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelly Bruchon",
+      "timestamp_ms": 1777756827061,
+      "content": "Waaaa s\u00c3\u00ad me parece buen plan :) gracias! ^^",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777756791817,
+      "content": "Si quieres unirse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777756787471,
+      "content": "Pensamos en ir a ver un poco del festival de cometas y despu\u00c3\u00a9s quiz\u00c3\u00a1s ir a la feria andaluza en el turia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelly Bruchon",
+      "timestamp_ms": 1777756654363,
+      "content": "Dime, qu\u00c3\u00a9 tienes pensado? :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelly Bruchon",
+      "timestamp_ms": 1777756641888,
+      "content": "Hola Richard,\n\nLa verdad es que no",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777745223106,
+      "content": "Tienes planes para ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777745216363,
+      "content": "Hola, c\u00c3\u00b3mo est\u00c3\u00a1s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nelly Bruchon",
+  "is_still_participant": true,
+  "thread_path": "inbox/nellybruchon_1706446274102806",
+  "magic_words": [
+    
+  ]
+}

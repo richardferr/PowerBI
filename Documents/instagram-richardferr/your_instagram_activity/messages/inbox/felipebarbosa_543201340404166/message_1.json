@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Barbosa"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felipe Barbosa",
+      "timestamp_ms": 1587267027681,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2290477409161245318"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Felipe Barbosa",
+  "is_still_participant": true,
+  "thread_path": "inbox/felipebarbosa_543201340404166",
+  "magic_words": [
+    
+  ]
+}

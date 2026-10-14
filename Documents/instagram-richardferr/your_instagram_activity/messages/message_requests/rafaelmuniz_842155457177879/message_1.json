@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Rafael Muniz"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafael Muniz",
+      "timestamp_ms": 1651974612281,
+      "content": "Uau",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2833288588858025776"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafael Muniz",
+  "is_still_participant": true,
+  "thread_path": "message_requests/rafaelmuniz_842155457177879",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

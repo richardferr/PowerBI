@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Marine Christie| Cenografia e Eventos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657447605870,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2879201627170651510"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marine Christie| Cenografia e Eventos",
+  "is_still_participant": true,
+  "thread_path": "inbox/marinechristiecenografiaeeventos_865161694874794",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Liam"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1786378991740,
+      "content": "Show me some",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Liam",
+      "timestamp_ms": 1786378898115,
+      "content": "Hotttt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1786378424435,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Liam",
+  "is_still_participant": true,
+  "thread_path": "inbox/liam_4321741268044056",
+  "magic_words": [
+    
+  ]
+}

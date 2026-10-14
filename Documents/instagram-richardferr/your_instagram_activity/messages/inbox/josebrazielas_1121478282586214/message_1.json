@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Jos\u00c3\u00a9 Brazielas"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jos\u00c3\u00a9 Brazielas",
+      "timestamp_ms": 1678643848114,
+      "content": "Vi o teu perfil no Tinder e senti que poder\u00c3\u00adamos ser um poss\u00c3\u00advel match \u00f0\u009f\u0092\u0093 O que achas? \u00f0\u009f\u0099\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Brazielas",
+      "timestamp_ms": 1678643810049,
+      "content": "Tudo \u00c3\u00b3ptimo \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Brazielas",
+      "timestamp_ms": 1678643800831,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678643107655,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Jos\u00c3\u00a9 Brazielas",
+          "timestamp": 1678643800
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Brazielas",
+      "timestamp_ms": 1678563117510,
+      "content": "Hey!\nTudo bem? \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Jos\u00c3\u00a9 Brazielas",
+          "timestamp": 1678643799
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jos\u00c3\u00a9 Brazielas",
+  "is_still_participant": true,
+  "thread_path": "inbox/josebrazielas_1121478282586214",
+  "magic_words": [
+    
+  ]
+}

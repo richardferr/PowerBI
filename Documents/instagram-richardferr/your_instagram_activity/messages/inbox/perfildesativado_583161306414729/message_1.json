@@ -1,0 +1,148 @@
+{
+  "participants": [
+    {
+      "name": "Perfil Desativado"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588049847087,
+      "content": "Rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1588049840536,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588039989092,
+      "content": "Vendo bbb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588039972968,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1588039934242,
+      "content": "Arrumando umas coisas do trabalho e voc\u00c3\u00aa?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Perfil Desativado"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588038901274,
+      "content": "Fazendo ai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588038883269,
+      "content": "Bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588038881102,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1588038845936,
+      "content": "Foi bem e o seu?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Perfil Desativado"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588027566373,
+      "content": "Como passou o dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588027563050,
+      "content": "T\u00c3\u00b4 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588027559949,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1588027515925,
+      "content": "Tudo bem e voc\u00c3\u00aa?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Perfil Desativado"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588026081170,
+      "content": "Como vc ta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1588026070129,
+      "content": "Ei boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Perfil Desativado",
+      "timestamp_ms": 1588019229934,
+      "content": "Oii boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Perfil Desativado",
+  "is_still_participant": true,
+  "thread_path": "inbox/perfildesativado_583161306414729",
+  "magic_words": [
+    
+  ]
+}

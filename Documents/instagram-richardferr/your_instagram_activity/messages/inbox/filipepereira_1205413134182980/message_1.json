@@ -1,0 +1,324 @@
+{
+  "participants": [
+    {
+      "name": "Filipe Pereira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1733757489552,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1733744001113,
+      "content": "Muito obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Filipe Pereira",
+          "timestamp": 1733757489
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1733740498821,
+      "content": "Boas Richard, muitos parab\u00c3\u00a9ns, que tenhas um grande dia como mereces \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u008f Forte abra\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1731787063321,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1731787042420,
+      "content": "Obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Filipe Pereira",
+          "timestamp": 1731787063
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1731786444080,
+      "content": "https://www.instagram.com/rafael_brandao_tattoo?igsh=MXd0aW00aHY0dnJycQ==",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1731786443886,
+      "content": "Filipe sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/rafael_brandao_tattoo",
+        "profile_share_username": "rafael_brandao_tattoo",
+        "profile_share_name": "Rafael Brand\u00c3\u00a3o"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1730728691946,
+      "content": "Boa, combinado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1730728685960,
+      "content": "Tamb\u00c3\u00a9m est\u00c3\u00a1 tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1730727211790,
+      "content": "Sim, pode",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1730727208629,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1730702757272,
+      "content": "Bom dia, tudo bem? Quinta feira posso contar contigo para o meu jantar \u00c3\u00a0s 21:30h no go chef? Fa\u00c3\u00a7o anos na sexta da\u00c3\u00ad fazer jantar na quinta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1703288011019,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1703288010386,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1703246041893,
+      "content": "Obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Pereira",
+          "timestamp": 1703288011
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1703246034006,
+      "content": "Bom dia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Pereira",
+          "timestamp": 1703288010
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1703150529802,
+      "content": "Bom dia, estive a falar com a Nath\u00c3\u00a1lia e queria convidar-vos para passarem o ano novo c\u00c3\u00a1 em casa, portanto est\u00c3\u00a3o convidados. Combinem com a Nath\u00c3\u00a1lia e depois digam alguma coisa!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1702164492057,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1702145795999,
+      "content": "Muito obrigado \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Pereira",
+          "timestamp": 1702164492
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1702133572322,
+      "content": "Muitos parab\u00c3\u00a9ns Richard, espero que tenhas um bom dia. Grande abra\u00c3\u00a7o \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1699274689641,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1699274007632,
+      "content": "Pagamos depois l\u00c3\u00a1 no restaurante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1699273850814,
+      "content": "Pago na hora ou antecipado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1699269494917,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1699269064648,
+      "content": "Obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Pereira",
+          "timestamp": 1699269494
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1699190250105,
+      "content": "Okay, eu vou pedir prato vegetariano para ti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1699190228271,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1699140280145,
+      "content": "Boa noite, vou sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Pereira",
+          "timestamp": 1699190228
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1699133839612,
+      "content": "Boa noite, o jantar vai ser no restaurante o Vitor, marquei para as 21h/21:30h, fica a 22,50\u00e2\u0082\u00ac. Depois confirma se vais, abra\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1698614696235,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1698614695620,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1698614240650,
+      "content": "Est\u00c3\u00a1 bem",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Pereira",
+          "timestamp": 1698614696
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1698614238121,
+      "content": "Boa noite",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Pereira",
+          "timestamp": 1698614695
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Pereira",
+      "timestamp_ms": 1698611281597,
+      "content": "Boa noite, olha vou fazer jantar de anivers\u00c3\u00a1rio de 7 para 8 de Novembro. Est\u00c3\u00a1s convidado, depois confirma s\u00c3\u00b3 se vais \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Filipe Pereira",
+  "is_still_participant": true,
+  "thread_path": "inbox/filipepereira_1205413134182980",
+  "magic_words": [
+    
+  ]
+}

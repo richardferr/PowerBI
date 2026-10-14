@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Mioto"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1684986185494,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3110211882842322461"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustavo Mioto",
+  "is_still_participant": true,
+  "thread_path": "inbox/gustavomioto_1108680083856286",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Rodrigues"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1691074808312,
+      "content": "hahah eu tamb\u00c3\u00a9m queria muito isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Rodrigues",
+      "timestamp_ms": 1691025963014,
+      "content": "Mas Deus n\u00c3\u00a3o me agraciou com um rosto bonito, tenso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Rodrigues",
+      "timestamp_ms": 1691025936359,
+      "content": "Ou ser sustentando por um tarado rico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Rodrigues",
+      "timestamp_ms": 1691025926955,
+      "content": "Eu tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1691025793145,
+      "content": "aff nem eu, queria ser herdeiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Rodrigues",
+      "timestamp_ms": 1691025528062,
+      "content": "N\u00c3\u00a3o nasci para trabalhar de forma alguma",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3160871709941340656"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672352037976,
+      "content": "hahah vem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Rodrigues",
+      "timestamp_ms": 1672350311357,
+      "content": "T\u00c3\u00b4 precisando ir ser estragado a\u00c3\u00ad tbm kakakak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Rodrigues",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunorodrigues_550509709680637",
+  "magic_words": [
+    
+  ]
+}

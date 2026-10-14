@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Lara Geovanna"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670067842833,
+      "content": "BOCA DE PARAFUSO \u00f0\u009f\u0097\u00a3\u00ef\u00b8\u008f\u00f0\u009f\u0097\u00a3\u00ef\u00b8\u008f\u00f0\u009f\u0097\u00a3\u00ef\u00b8\u008f\u00f0\u009f\u0097\u00a3\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1668469756672,
+      "content": "me sentia muito rebaixado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1668469749464,
+      "content": "kkkkkkk eu ficava tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lara Geovanna",
+      "timestamp_ms": 1668469144949,
+      "content": "S\u00c3\u00b3 por Deus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lara Geovanna",
+      "timestamp_ms": 1668469141664,
+      "content": "E fiquei com uma vergonha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lara Geovanna",
+      "timestamp_ms": 1668469136123,
+      "content": "Nossa eu fui ler",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lara Geovanna",
+      "timestamp_ms": 1668469132204,
+      "content": "Kkkkkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1668462161454,
+      "content": "por isso nem leio kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lara Geovanna",
+  "is_still_participant": true,
+  "thread_path": "inbox/larageovanna_887270909330539",
+  "magic_words": [
+    
+  ]
+}

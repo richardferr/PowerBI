@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Rafaela \u00f0\u009f\u00a6\u008b"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafaela \u00f0\u009f\u00a6\u008b",
+      "timestamp_ms": 1674678278426,
+      "content": "hey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafaela \u00f0\u009f\u00a6\u008b",
+  "is_still_participant": true,
+  "thread_path": "message_requests/rafaela_1027802561944039",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

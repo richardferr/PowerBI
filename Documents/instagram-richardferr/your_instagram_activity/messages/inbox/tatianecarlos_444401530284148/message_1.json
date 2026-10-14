@@ -1,0 +1,545 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1702145671320,
+      "content": "Muito obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1702127838209,
+      "content": "Feliz anivers\u00c3\u00a1rio \u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3253992077036719783"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1683207131132,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3095275104460909518"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672347094711,
+      "content": "hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1672329257008,
+      "content": "A n\u00c3\u00a3o gente n\u00c3\u00a3o aguento vcs dois \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3004032753947263283"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1670638949521,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670638439804,
+      "content": "muito obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1670638949
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1670637925661,
+      "content": "Feliz anivers\u00c3\u00a1rio!! Tudo de mais lindo que existe nesse universo nosso. Felicidades. Parab\u00c3\u00a9ns \u00f0\u009f\u008d\u00b0\u00f0\u009f\u008e\u0088\u00f0\u009f\u008e\u0089\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2989835381214385062"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663634564375,
+      "content": "kkkk diveras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1663632259858,
+      "content": "Essa Nat\u00c3\u00a1lia me mata",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2931075850369741213"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1663632254072,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2931075850369741213"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662919552954,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1662895984268,
+      "content": "Socorro kkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2924671289845951773"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1662895976738,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2924671289845951773"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1656602396110,
+      "content": "Kkkkkkkkkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1642387177684,
+      "content": "O se da kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642387109799,
+      "content": "Nossa, d\u00c3\u00a1 um \u00c3\u00b3dio kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1642386134325,
+      "content": "Eu queria , mas quando escreve \"Fassil\" o cora\u00c3\u00a7\u00c3\u00a3o para kkkkkkkkkk n\u00c3\u00a3o d\u00c3\u00a1",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2752831384441535377"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641760767386,
+      "content": "Tudo em dobro pra ti \u00f0\u009f\u0092\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641760760347,
+      "content": "Muito obrigada \u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641760755229,
+      "content": "Olaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641760749116,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641760748482,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641760747401,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641751729243,
+      "content": "Tudo de bom para voc\u00c3\u00aa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1641760749
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641751722913,
+      "content": "Feliz anivers\u00c3\u00a1rio atrasadoooo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1641760747
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641751716832,
+      "content": "Oii",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1641760748
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641395420040,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641395419488,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641395401578,
+      "content": "\u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1641395420
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641395394596,
+      "content": "Obrigadoooo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1641395419
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1641351189757,
+      "content": "A\u00c3\u00ad que gatoooo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2744132915673472833"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1638829278059,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1638822022183,
+      "content": "Haha \u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1638829278
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1638814188293,
+      "content": "Uiii \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u008d kkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2722197309587895870"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1607646596648,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1607645531498,
+      "content": "Tudo em dobro pra voc\u00c3\u00aa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+          "timestamp": 1607646596
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1607645524933,
+      "content": "Muito obrigadoooo \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1607645517266,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1607644578468,
+      "content": "Parab\u00c3\u00a9ns atrasado haha tudo de bom pra voc\u00c3\u00aa, felicidades,muita sa\u00c3\u00bade,muitos anos de vida!! Parab\u00c3\u00a9ns \u00f0\u009f\u008e\u0082\u00f0\u009f\u0098\u009a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1596510733083,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1596447606840,
+      "content": "Amei",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2367286737598499088"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1585089533327,
+      "content": "Diveras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1584963838670,
+      "content": "Mil vezes melhor n\u00c3\u00a9 ? Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1584961871371,
+      "content": "Tive que comprar esse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1584961865078,
+      "content": "Kkkkk o meu anterior molhou e queimou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1584958671409,
+      "content": "Isso faz inveja em nos que se pinga \u00c3\u00a1gua no telefone corre o risco de parar hahah",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2270816590999928566"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1584529336648,
+      "content": "O.o",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1578532440956,
+      "content": "Obrigadaaaa \u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1578532437479,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578509540327,
+      "content": "Parab\u00c3\u00a9nsssssss",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1575967831521,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575910413035,
+      "content": "Obrigadoo \u00f0\u009f\u0098\u0098",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1575901955743,
+      "content": "Parab\u00c3\u00a9ns Richard \u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0082\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1575901943970,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575842604368,
+      "content": "Eu n\u00c3\u00a3o chamaria tbm kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+      "timestamp_ms": 1575826346265,
+      "content": "J\u00c3\u00a1 n\u00c3\u00a3o vai na festa da minha filha \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2194018740266268152"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0095\u00bf\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0099\u00f0\u009d\u0096\u008e\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009d\u0095\u00ae\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0097\u00f0\u009d\u0096\u0091\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098",
+  "is_still_participant": true,
+  "thread_path": "inbox/tatianecarlos_444401530284148",
+  "magic_words": [
+    
+  ]
+}

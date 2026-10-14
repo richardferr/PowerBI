@@ -1,0 +1,246 @@
+{
+  "participants": [
+    {
+      "name": "Diana Carolina"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755891103576,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755890725411,
+      "content": "No voy a alcanzar a llegar, disfruten hoy, otro d\u00c3\u00ada que salgan si que me apunto\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755890700165,
+      "content": "Holaa, al final se me ha hecho tarde en el trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755860755578,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755860622035,
+      "content": "Perfe, te voy diciendo algo en la tarde\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755814179029,
+      "content": "Creo que voy a estar all\u00c3\u00a1 esa hora s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755814158909,
+      "content": "To\u00c3\u00b1o siempre llega temprano, yo vivo dos cuadras de distancia de all\u00c3\u00a1, entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755814094168,
+      "content": "Siiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755809821090,
+      "content": "Vale pues, a esa hora ustedes ya estar\u00c3\u00a1n?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755809784382,
+      "content": "Suena interesante, es por la plaza del ayuntamiento verdad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755809716260,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755795780468,
+      "content": "Empieza 21:30, lo creo (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755795773047,
+      "content": "Empieza 9:30, lo creo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755795758968,
+      "content": "Y cuando acaba, generalmente vamos a aquel lugar donde nos conocemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755795733557,
+      "content": "Se llama Charlote, los viernes hay un meet up para conocer gente de otros pa\u00c3\u00adses",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Diana Carolina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755795696061,
+      "content": "Hay un bar que siempre vamos los viernes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755795685846,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755795343097,
+      "content": "En principio hab\u00c3\u00ada quedado con una amiga, pero creo que no se dar\u00c3\u00a1, y si me dice algo, pues nos unimos las dos \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755795274504,
+      "content": "Pues si me gustar\u00c3\u00ada, a d\u00c3\u00b3nde tiene pensado ir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755795243188,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755792250164,
+      "content": "Quieres ir con nosotros a un bar el viernes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755792231796,
+      "content": "ahh genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755792221710,
+      "content": "Muy bien",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Diana Carolina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755792206753,
+      "content": "Ahh lo imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755790831150,
+      "content": "Pues yo si, Mishel est\u00c3\u00a1 de viaje todo este mes\u00f0\u009f\u00ab\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755790806199,
+      "content": "T\u00c3\u00ba qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755790803618,
+      "content": "Muy bien por aqu\u00c3\u00ad, muriendo de calor jajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diana Carolina",
+      "timestamp_ms": 1755790797220,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755768987875,
+      "content": "Estar\u00c3\u00a1n en Valencia el Viernes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755768977188,
+      "content": "Qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755768973983,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diana Carolina",
+  "is_still_participant": true,
+  "thread_path": "inbox/dianacarolina_1704587627598859",
+  "magic_words": [
+    
+  ]
+}

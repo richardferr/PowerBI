@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Daniel"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel",
+      "timestamp_ms": 1628153058618,
+      "content": "Tudo \u00c3\u00b3timo tb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628129386216,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628129383364,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel",
+      "timestamp_ms": 1628126804759,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel",
+      "timestamp_ms": 1628126801248,
+      "content": "Eiu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel",
+  "is_still_participant": true,
+  "thread_path": "inbox/daniel_240533467785804",
+  "magic_words": [
+    
+  ]
+}

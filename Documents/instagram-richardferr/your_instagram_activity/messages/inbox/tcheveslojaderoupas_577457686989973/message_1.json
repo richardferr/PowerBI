@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "TCHEVES | Loja De Roupas"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TCHEVES | Loja De Roupas",
+      "timestamp_ms": 1548464597079,
+      "content": "Fala Amigo! \u00c3\u0089 um grande prazer ter voc\u00c3\u00aa seguindo nosso Instagram! \u00f0\u009f\u0098\u0080\r\nCaso tenha interesse em ganhar nosso Cupom Desconto, basta retornar mensagem solicitando que lhe enviaremos por aqui para que voc\u00c3\u00aa possa us\u00c3\u00a1-lo em nossa Loja Online www.tcheves.com.br.  \r\nGrande Abra\u00c3\u00a7o! Obrigado!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "TCHEVES | Loja De Roupas",
+  "is_still_participant": true,
+  "thread_path": "inbox/tcheveslojaderoupas_577457686989973",
+  "magic_words": [
+    
+  ]
+}

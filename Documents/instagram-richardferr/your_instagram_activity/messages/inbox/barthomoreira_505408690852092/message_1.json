@@ -1,0 +1,941 @@
+{
+  "participants": [
+    {
+      "name": "Barth\u00c3\u00b4 Moreira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1656358504513,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1656358501553,
+      "content": "Total kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1656358480984,
+      "content": "s\u00c3\u00b3 um pouquinho",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1656358504
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1656358476318,
+      "content": "Kkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1656357094063,
+      "content": "Mas e m\u00c3\u00a3o de vaca kkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2869656269444799195"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1644869664449,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2773021107408345841"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1634425585950,
+      "content": "Total kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1634425570858,
+      "content": "Kkkkk pior que eu sou mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1634425202583,
+      "content": "Enrolado kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1634425195467,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1630857580532,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1630823326888,
+      "content": "Hehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1630806421458,
+      "content": "Olha ele",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2655660793209348146"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1630168066490,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1630164917143,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1630168066
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629562121062,
+      "content": "Quero,mas ele e t\u00c3\u00a3o  enrolado  kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629521422577,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629512402100,
+      "content": "Olha ele \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1629521418
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629244477501,
+      "content": "Hahahha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629243565089,
+      "content": "Ohh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629243562857,
+      "content": "Kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629242986820,
+      "content": "Fica bem dif\u00c3\u00adcil acreditar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629242957854,
+      "content": "Se vc ta dizendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629242950380,
+      "content": "Sei viu kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629242942426,
+      "content": "Ai fica imposs\u00c3\u00advel  hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629242939048,
+      "content": "mas n\u00c3\u00a3o estou te enrolando, s\u00c3\u00a9rio mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629242926730,
+      "content": "eu n\u00c3\u00a3o posso negar que sou kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629240202631,
+      "content": "Vc asusmiu ser enrolado ,jesuis amado hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629240178494,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629240169216,
+      "content": "Num disse ai fica dificil, vc enrola muito hahha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629240157623,
+      "content": "Posso sim, eu s\u00c3\u00b3 havia dito que no fds passado e nesse pr\u00c3\u00b3ximo eu tinha compromisso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629240142499,
+      "content": "Nossa \u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629240127890,
+      "content": "isso eu sou tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629240124156,
+      "content": "Mas vc nunca pode ,nem um fds fazer algo homem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629240120724,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629240083679,
+      "content": "Posso uai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629240078544,
+      "content": "Nao e drama ta homem kkkk vc muito enrolado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629240061860,
+      "content": "na segunda a noite voc\u00c3\u00aa n\u00c3\u00a3o pode?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629240051817,
+      "content": "que drama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629240044396,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629237408381,
+      "content": "Qndo vc animar msm vc fala q a gente encontra ta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629237392972,
+      "content": "Deixa quieto ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629237386509,
+      "content": "Ai fica dificil richard,nos fds vc nunca pode ,na semana nunca dar hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629237336111,
+      "content": "S\u00c3\u00b3 na segunda que n\u00c3\u00a3o tenho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629237330070,
+      "content": "Eu tenho aula a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629237322461,
+      "content": "Ouaaa vc est\u00c3\u00a1 falando para hoje? Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629236077022,
+      "content": "Se animar, s\u00c3\u00b3 troco de roupa aqui ,visto um short aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629236049928,
+      "content": "Anima ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629235304288,
+      "content": "Por mim de boa l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629235300122,
+      "content": "Pode ser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629234094196,
+      "content": "Ou Onde for melhor pra vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629234075743,
+      "content": "Aquele quarteir\u00c3\u00a3o abaixo da boa ventura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629234051717,
+      "content": "Podemos nos ver perto do canal onde pessoal faz caminhada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629234007823,
+      "content": "Depois das 18",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629233994892,
+      "content": "Geralmente quando voc\u00c3\u00aa tem tempo livre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629233984176,
+      "content": "Eu animo sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233722547,
+      "content": "Estamos perto podemos nos ver aqui proximo oq acha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233701527,
+      "content": "Convidei haha ta convidado ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629233677384,
+      "content": "Voc\u00c3\u00aa n\u00c3\u00a3o me convidou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233663608,
+      "content": "Eita homem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233658809,
+      "content": "E vc nem veio me ver ainda hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233647820,
+      "content": "Pois e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629233632577,
+      "content": "Ahh ent\u00c3\u00a3o moramos bem perto mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233584095,
+      "content": "No santa rosa,proximo do jaragua,liberdade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629233511778,
+      "content": "onde voc\u00c3\u00aa mora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629233505692,
+      "content": "haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233296188,
+      "content": "Acho q vc nem mora longe daqui ,se eu nao me engano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233108920,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233104994,
+      "content": "Hahahaha vc e \u00c3\u00b3timo minino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629233071321,
+      "content": "Desculpa, meu hamster quem escreveu",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1629233108
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629233009199,
+      "content": "Como assim minino haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629232998879,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629232978881,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629232977225,
+      "content": "voc\u00c3\u00aa tem local?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629232604575,
+      "content": "S\u00c3\u00b3 esperando o dia q vc vai animar me ver hahah lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629232574165,
+      "content": "\u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629232566340,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1629232004733,
+      "content": "gostoso",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1629232566
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1629231853024,
+      "content": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u0082\u00f0\u009f\u0099\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1629231997
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2642387392117276075"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628719034351,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628718067678,
+      "content": "Anivers\u00c3\u00a1rio de um amigo meu, e ele vai comemorar nos dois kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628718049627,
+      "content": "Tenho compromisso nos dois pr\u00c3\u00b3ximos fds mesmo rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628703601447,
+      "content": "N\u00c3\u00a3o e show neh Richard ,eu sou realista hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628703186040,
+      "content": "Para de show",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628703177926,
+      "content": "Kkkkkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628702390719,
+      "content": "Pode uai, daqui um m\u00c3\u00aas, dois ,quatro, a um ano Richard ta de boua",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628679059218,
+      "content": "Pode outro dia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628679043097,
+      "content": "Fds eu tenho compromisso rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628656994789,
+      "content": "Que vc tenha um bom descanso viu ai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628656960896,
+      "content": "Agora vou voltar dormir \u00f0\u009f\u0098\u00b4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628656949968,
+      "content": "Ah que \u00c3\u00b3timo, vamo marcar ent\u00c3\u00a3o no fds se vc nao tiver nada programado viu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628656919286,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628655157949,
+      "content": "Eu animo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1628656919
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628635745190,
+      "content": "Poderiamos marcar algo depois neh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628635729747,
+      "content": "N\u00c3\u00b3s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628635726130,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628635712765,
+      "content": "Voc\u00c3\u00aa \u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1628635726
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1628630494545,
+      "content": "Gato\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1628635713
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2637405253961431706"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615244147663,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1615244093945,
+      "content": "31973634587",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1615244147
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615244011707,
+      "content": "Vc quer me add no whats?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243995185,
+      "content": "A que \u00c3\u00b3timo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243988385,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243987343,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1615243954422,
+      "content": "Eu topo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1615243987
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1615243951194,
+      "content": "Podemos sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Barth\u00c3\u00b4 Moreira",
+          "timestamp": 1615243988
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243807451,
+      "content": "A gente pode se conhecer melhor se animar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243711534,
+      "content": "Sim sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1615243694447,
+      "content": "Bem pr\u00c3\u00b3ximo mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243468910,
+      "content": "No Jaragu\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243465361,
+      "content": "Aqui na isabel bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243459487,
+      "content": "Nossa bem perto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1615243446323,
+      "content": "Indai\u00c3\u00a1 e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243406958,
+      "content": "Vc tc de onde aqui em bh?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615243397233,
+      "content": "Bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1615243387762,
+      "content": "Tranquilo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615242234133,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barth\u00c3\u00b4 Moreira",
+      "timestamp_ms": 1615242228708,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Barth\u00c3\u00b4 Moreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/barthomoreira_505408690852092",
+  "magic_words": [
+    
+  ]
+}

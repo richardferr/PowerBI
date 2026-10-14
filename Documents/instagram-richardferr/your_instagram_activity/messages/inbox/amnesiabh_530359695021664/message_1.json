@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "AMNESIA BH"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1553539978319,
+      "content": "Haver\u00c3\u00a1 lista para divulga\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1553539968436,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AMNESIA BH",
+  "is_still_participant": true,
+  "thread_path": "inbox/amnesiabh_530359695021664",
+  "magic_words": [
+    
+  ]
+}

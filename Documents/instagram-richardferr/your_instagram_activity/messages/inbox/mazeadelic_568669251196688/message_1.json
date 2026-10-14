@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Maze-A-Delic"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1571966690914,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2162134687022924241"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1563144199323,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2088127258984090791"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1553558921601,
+      "content": "Dmr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maze-A-Delic",
+      "timestamp_ms": 1553558910821,
+      "content": "Favor entrar em contato com o @guibzaraujo \u00e2\u009d\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1553558886919,
+      "content": "Animo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maze-A-Delic",
+      "timestamp_ms": 1553558856754,
+      "content": "Hey, tudo bem? S\u00c3\u00b3 temos grupos para vendas anima? \u00e2\u009d\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1553540235944,
+      "content": "Haver\u00c3\u00a1 lista de divulga\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1553540229483,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maze-A-Delic",
+  "is_still_participant": true,
+  "thread_path": "inbox/mazeadelic_568669251196688",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Gleyse Caroline"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gleyse Caroline",
+      "timestamp_ms": 1583031170835,
+      "content": "Quanto tempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gleyse Caroline",
+      "timestamp_ms": 1583031161982,
+      "content": "Oie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gleyse Caroline",
+  "is_still_participant": true,
+  "thread_path": "inbox/gleysecaroline_560434635357836",
+  "magic_words": [
+    
+  ]
+}

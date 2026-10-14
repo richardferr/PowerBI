@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Salvo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gustavo Salvo",
+      "timestamp_ms": 1650390427026,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2819991354694252232"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustavo Salvo",
+  "is_still_participant": true,
+  "thread_path": "message_requests/gustavosalvo_805600920830872",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

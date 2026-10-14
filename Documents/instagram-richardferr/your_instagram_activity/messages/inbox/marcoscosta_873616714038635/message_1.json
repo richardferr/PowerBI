@@ -1,0 +1,575 @@
+{
+  "participants": [
+    {
+      "name": "Marcos Costa"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1691327159950,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1678372445725,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678325456458,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Marcos Costa",
+          "timestamp": 1678372445
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678279473036,
+      "content": "Cad\u00c3\u00aa os seus?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1678245579751,
+      "content": "Que del\u00c3\u00adcia \u00f0\u009f\u0098\u008b",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1678271453
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678232416920,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673567711322,
+      "content": "Vem me visitar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673567706361,
+      "content": "Talvez, mas devo demorar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1673567690949,
+      "content": "Vc n\u00c3\u00a3o vem nem pra passeio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673567666920,
+      "content": "Eu vim para morar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1673567572799,
+      "content": "Quando vc volta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673566195803,
+      "content": "pena que sempre enrolou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1673566172549,
+      "content": "Queria te beijar tanto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673479820913,
+      "content": "me bj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1673470521672,
+      "content": "Lindo demais",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3013565791660230501"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671657345220,
+      "content": "Morar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1671657298748,
+      "content": "Vai morar a\u00c3\u00ad ou s\u00c3\u00b3 passeio ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671657278456,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1671657169823,
+      "content": "Vc est\u00c3\u00a1 fora do Brasil",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2998090506964021630"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1669512267120,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1669507023377,
+      "content": "obrigado rs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Marcos Costa",
+          "timestamp": 1669512267
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1669502584477,
+      "content": "Lindo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2980060904680425803"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1664169192006,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1664136802321,
+      "content": "Oi",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2935255873536144891"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1664035454106,
+      "content": "Dlc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1664033433575,
+      "content": "Gostoso",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1668686562
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2934404726625287428"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662472021060,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1662471257752,
+      "content": "Pr\u00c3\u00adncipe",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2920924507875928883"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1656088094257,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1656087933526,
+      "content": "Lindo da porra",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1656088092
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2867743931976338678"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655808812090,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1655787961366,
+      "content": "Oi gato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655642814694,
+      "content": "temos que resolver isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1655599238936,
+      "content": "S\u00c3\u00b3 doido pra conhecer vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655577865054,
+      "content": "obrigado rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1655577063366,
+      "content": "Pr\u00c3\u00adncipe",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2863479927070538357"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1654445626499,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1654401447486,
+      "content": "Oi gato",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2853527812339299890"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652543551269,
+      "content": "Ahh sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652502884995,
+      "content": "Acabei de chegar em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652478945855,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/marcoscosta_873616714038635/audio/536503104707853.mp4",
+          "creation_timestamp": 1652478945
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652474442379,
+      "content": "Voc\u00c3\u00aa vai?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2837313973097437226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652063458921,
+      "content": "Ahh sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652062821220,
+      "content": "Bati o ponto faz 5 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652062803623,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652062794122,
+      "content": "J\u00c3\u00a1 saiu do trabalho?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652062789052,
+      "content": "Eu imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652062427587,
+      "content": "T\u00c3\u00b4 exausto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652062411988,
+      "content": "Acho que n\u00c3\u00a3o tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652062401228,
+      "content": "Voc\u00c3\u00aa vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652062398661,
+      "content": "Vou nada, estou bem cansado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652062063626,
+      "content": "Voc\u00c3\u00aa vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652050511282,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1652043616421,
+      "content": "Oi",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2833708662213399402"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651899405941,
+      "content": "Sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1651925216
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651871039817,
+      "content": "Seria \u00c3\u00b3timo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651871035890,
+      "content": "sim rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651870928535,
+      "content": "A gente pode se encontrar por l\u00c3\u00a1 rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651870905882,
+      "content": "Que bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651870155289,
+      "content": "Talvez eu v\u00c3\u00a1 no domingo tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651869621872,
+      "content": "Talvez domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651869313464,
+      "content": "Voc\u00c3\u00aa vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651869124946,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651858300340,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/marcoscosta_873616714038635/audio/730784928099949.mp4",
+          "creation_timestamp": 1651858300
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651855507748,
+      "content": "Voc\u00c3\u00aa vai?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2832123098054675771"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651572640068,
+      "content": "Muito gato",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2829705836890735700"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Costa",
+      "timestamp_ms": 1651556726072,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcos Costa",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcoscosta_873616714038635",
+  "magic_words": [
+    
+  ]
+}

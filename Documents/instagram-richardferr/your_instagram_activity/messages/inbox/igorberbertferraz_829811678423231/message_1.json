@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Igor Berbert Ferraz"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Igor Berbert Ferraz",
+      "timestamp_ms": 1657066677594,
+      "content": "Por nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657066526440,
+      "content": "obrigado rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Berbert Ferraz",
+      "timestamp_ms": 1657066214852,
+      "content": "Lindo vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Berbert Ferraz",
+      "timestamp_ms": 1657066212260,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657066204156,
+      "content": "\u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Igor Berbert Ferraz",
+          "timestamp": 1657066212
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Berbert Ferraz",
+      "timestamp_ms": 1657042384491,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2875781154650177101"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Igor Berbert Ferraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/igorberbertferraz_829811678423231",
+  "magic_words": [
+    
+  ]
+}

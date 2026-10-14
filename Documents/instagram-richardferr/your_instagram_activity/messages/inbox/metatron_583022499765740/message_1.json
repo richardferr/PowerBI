@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Metatron"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Metatron",
+      "timestamp_ms": 1546684982423,
+      "content": "Saaaaalve salveee , valeeeeu demaaaais por seguir!!! Voc\u00c3\u00aa j\u00c3\u00a1 deve ta ligado no meu trampo n\u00c3\u00a9, vou deixar o link do SoundCloud pra voc\u00c3\u00aa me acompanhar l\u00c3\u00a1 tbm. Sempre que tiver coisas novas eu vou avisar pelo insta, mas se voc\u00c3\u00aa seguir l\u00c3\u00a1 tamb\u00c3\u00a9m voc\u00c3\u00aa j\u00c3\u00a1 fica sabendo em primeira m\u00c3\u00a3o. Valeeeeu! <3\r\n\r\nsoundcloud.com/metatron-live",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Metatron",
+  "is_still_participant": true,
+  "thread_path": "inbox/metatron_583022499765740",
+  "magic_words": [
+    
+  ]
+}

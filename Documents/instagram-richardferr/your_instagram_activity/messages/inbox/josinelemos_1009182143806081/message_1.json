@@ -1,0 +1,130 @@
+{
+  "participants": [
+    {
+      "name": "Josine Lemos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1682882255846,
+      "content": "Estava a\u00c3\u00ad perto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1682882252897,
+      "content": "Eu cheguei em casa h\u00c3\u00a1 pouco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877589917,
+      "content": "Ai gente se conhecee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877580787,
+      "content": "To com umas amigas aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877566184,
+      "content": "Quer vir aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1682877558110,
+      "content": "Sei onde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1682877555467,
+      "content": "Bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877533662,
+      "content": "Ela vende acaraje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877454012,
+      "content": "Evento de uma amiga aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877440733,
+      "content": "Conhece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877432131,
+      "content": "Estou em emporio da tuca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1682877416510,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1682877412954,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877202280,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877140636,
+      "content": "Esta em coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josine Lemos",
+      "timestamp_ms": 1682877133087,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Josine Lemos",
+  "is_still_participant": true,
+  "thread_path": "inbox/josinelemos_1009182143806081",
+  "magic_words": [
+    
+  ]
+}

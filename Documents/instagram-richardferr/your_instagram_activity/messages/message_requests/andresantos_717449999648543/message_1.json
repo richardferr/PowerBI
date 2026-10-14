@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Andre\u00cc\u0081 Santos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andre\u00cc\u0081 Santos",
+      "timestamp_ms": 1636590016520,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andre\u00cc\u0081 Santos",
+  "is_still_participant": true,
+  "thread_path": "message_requests/andresantos_717449999648543",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0095\u00af\u00e1\u00a5\u00b2\u00e1\u00a5\u0092\u00d1\u0096\u00e1\u00a5\u00b1\u00e1\u00a5\u00a3\u00e1\u00a5\u00b1"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00af\u00e1\u00a5\u00b2\u00e1\u00a5\u0092\u00d1\u0096\u00e1\u00a5\u00b1\u00e1\u00a5\u00a3\u00e1\u00a5\u00b1",
+      "timestamp_ms": 1622308349264,
+      "content": "Oii sua irm\u00c3\u00a3 ta bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0095\u00af\u00e1\u00a5\u00b2\u00e1\u00a5\u0092\u00d1\u0096\u00e1\u00a5\u00b1\u00e1\u00a5\u00a3\u00e1\u00a5\u00b1",
+  "is_still_participant": true,
+  "thread_path": "message_requests/di_1082115362279297",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

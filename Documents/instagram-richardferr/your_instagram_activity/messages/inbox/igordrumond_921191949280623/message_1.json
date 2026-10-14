@@ -1,0 +1,101 @@
+{
+  "participants": [
+    {
+      "name": "Igor Drumond"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655776951979,
+      "content": "Pra aproveitar mais haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655776945417,
+      "content": "Qualquer coisa voc\u00c3\u00aa dorme aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655776918555,
+      "content": "Dmr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Drumond",
+      "timestamp_ms": 1655776777441,
+      "content": "Umas 21 hrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655776394234,
+      "content": "Voc\u00c3\u00aa chega que horas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Drumond",
+      "timestamp_ms": 1655776312552,
+      "content": "Desco ai em frente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Drumond",
+      "timestamp_ms": 1655776306683,
+      "content": "Eh uma boaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655776254367,
+      "content": "Vem pra c\u00c3\u00a1 direto do trabalho amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655776244070,
+      "content": "dois pregui\u00c3\u00a7osos haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Drumond",
+      "timestamp_ms": 1655776071091,
+      "content": "Vem aqui haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Igor Drumond",
+      "timestamp_ms": 1655776066984,
+      "content": "Aff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655776042098,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Igor Drumond",
+  "is_still_participant": true,
+  "thread_path": "inbox/igordrumond_921191949280623",
+  "magic_words": [
+    
+  ]
+}

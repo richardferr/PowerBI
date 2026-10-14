@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Quantika Art."
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Quantika Art.",
+      "timestamp_ms": 1564024410715,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1564013295453,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Quantika Art."
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2095417838915127681"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Quantika Art.",
+      "timestamp_ms": 1551232457476,
+      "content": "gratid\u00c3\u00a3o!!!\na fam\u00c3\u00adlia Quantika Art est\u00c3\u00a1 a sua disposi\u00c3\u00a7\u00c3\u00a3o! \nmaioroes informa\u00c3\u00a7\u00c3\u00b5es sobre nossas viv\u00c3\u00aancias e parcerias via whatsapp \n(031) 9 8281-1898",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551231425509,
+      "content": "Ter\u00c3\u00a1 lista de divulga\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551231400472,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Quantika Art.",
+  "is_still_participant": true,
+  "thread_path": "inbox/quantikaart_548578219866478",
+  "magic_words": [
+    
+  ]
+}

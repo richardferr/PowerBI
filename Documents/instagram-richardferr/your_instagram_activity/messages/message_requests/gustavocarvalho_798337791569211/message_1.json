@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Carvalho"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gustavo Carvalho",
+      "timestamp_ms": 1646769077743,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/message_requests/gustavocarvalho_798337791569211/videos/1104504453726457.mp4",
+          "creation_timestamp": 1646769079
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Carvalho",
+      "timestamp_ms": 1646768965686,
+      "content": "Amig\u00c3\u00a3o, posta meu v\u00c3\u00addeo l\u00c3\u00a1 no tik Tok, quero vitalizar kkkk ficou bacana, vc vai gostar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustavo Carvalho",
+  "is_still_participant": true,
+  "thread_path": "message_requests/gustavocarvalho_798337791569211",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

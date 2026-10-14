@@ -1,0 +1,1284 @@
+{
+  "participants": [
+    {
+      "name": "Filipe Esteves"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678317240435,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678316740885,
+      "content": "eu tamb\u00c3\u00a9m",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Esteves",
+          "timestamp": 1678317240
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678314884975,
+      "content": "Adorei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678310680532,
+      "content": "o que tem perto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310665459,
+      "content": "Eu parei onde o gps mandou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310655647,
+      "content": "Upa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678310625599,
+      "content": "Estou na rua",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678310614214,
+      "content": "N\u00c3\u00a3o vi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310572408,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678310556533,
+      "content": "Descendo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Esteves",
+          "timestamp": 1678310572
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310520402,
+      "content": "V\u00c3\u00aas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310517796,
+      "content": "Estou parado na estrada com pisca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310509772,
+      "content": "Cheguei acho eu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678310062722,
+      "content": "me fala**",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678310059017,
+      "content": "Quando estiver chegando, me dalay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310048277,
+      "content": "Renault Megane cinzento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678310002911,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678309678476,
+      "content": "Sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Esteves",
+          "timestamp": 1678310002
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678309677259,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309669210,
+      "content": "Est\u00c3\u00a1s pronto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309664672,
+      "content": "8 min estou ai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309657199,
+      "content": "Ok. J\u00c3\u00a1 vi no maps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309552199,
+      "content": "Diz-me onde est\u00c3\u00a1s e vou ter contigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309543238,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678309503717,
+      "content": "hmm eu n\u00c3\u00a3o sei andar aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309284335,
+      "content": "Ou queres que v\u00c3\u00a1 ter contigo a algum lugar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309201304,
+      "content": "Segundo andar direito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309192987,
+      "content": "Por cima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309187473,
+      "content": "Oie cima do Donuts lovers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309173450,
+      "content": "Vens aqui ter?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678309169422,
+      "content": "Sim.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678309014089,
+      "content": "Ent\u00c3\u00a3o vamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678307989575,
+      "content": "Agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678306882777,
+      "content": "A que horas voc\u00c3\u00aa vai estar livre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678303837609,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/filipeesteves_998759568181672/audio/1209342890462414.mp4",
+          "creation_timestamp": 1678303835
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678284180893,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678281702453,
+      "content": "Ah sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Esteves",
+          "timestamp": 1678284180
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678281560560,
+      "content": "Miguel Torga Room",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678281535342,
+      "content": "Em celas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678281493541,
+      "content": "Onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678281435426,
+      "content": "A dormir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678281425358,
+      "content": "Fico a\u00c3\u00ad a dormir para amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678280819090,
+      "content": "Esperar tanto por uma mamada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678280810180,
+      "content": "Porque se for s\u00c3\u00b3 por mim, n\u00c3\u00a3o precisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678280799478,
+      "content": "Mas voc\u00c3\u00aa vai estar aqui at\u00c3\u00a9 esse hor\u00c3\u00a1rio ou vai ficar s\u00c3\u00b3 por minha conta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678280449118,
+      "content": "No carro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678279742844,
+      "content": "Onde vai estar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678267331935,
+      "content": "Vou te esperar onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678267285250,
+      "content": "Leitinho quente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678237304857,
+      "content": "Quer um copo ou leite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678237213433,
+      "content": "Onde trabalhas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678237199446,
+      "content": "E tomamos um copo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678237192018,
+      "content": "Posso ir ter contigo \u00c3\u00a0 sa\u00c3\u00adda do trabalho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678236920960,
+      "content": "Trabalho at\u00c3\u00a9 as 21h",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678236845647,
+      "content": "No final da tarde ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678236836524,
+      "content": "A k horas tu podes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678236822660,
+      "content": "Vou na parte de tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678236791952,
+      "content": "Que horas voc\u00c3\u00aa chega e que horas vai embora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678236761203,
+      "content": "Podes a k horas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678236754702,
+      "content": "Vou amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678236751336,
+      "content": "N\u00c3\u00a3o fui hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678236679816,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1678236664335,
+      "content": "Oi gato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678232280012,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677792911023,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677774282570,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677774279105,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677678780725,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677678468216,
+      "content": "Tudo bem tamb\u00c3\u00a9m",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Esteves",
+          "timestamp": 1677678780
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677675109618,
+      "content": "Estou bem e tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677674079695,
+      "content": "Como voc\u00c3\u00aa est\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677674003163,
+      "content": "Bom dia lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677673802296,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677614145692,
+      "content": "blz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677614080420,
+      "content": "Vou ver os pre\u00c3\u00a7os",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677613713288,
+      "content": "Chama coimbra city",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677613578154,
+      "content": "Lembras do nome?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677604930423,
+      "content": "simples, mas bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677604924961,
+      "content": "era at\u00c3\u00a9 tranquilo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677604685966,
+      "content": "Era bom?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677604653866,
+      "content": "O que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677604347462,
+      "content": "E que tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677599401238,
+      "content": "foi na Fern\u00c3\u00a3o Magalh\u00c3\u00a3es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677599395335,
+      "content": "eu s\u00c3\u00b3 fiquei em um hotel at\u00c3\u00a9 hoje aqui em coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677598266355,
+      "content": "Aconselhas algum?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677598260952,
+      "content": "Ent\u00c3\u00a3o se calhar vou fazer uma reserva num hostel ou hotel barato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677598238230,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677595556094,
+      "content": "Ap\u00c3\u00b3s as 22h",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677595293064,
+      "content": "\u00c3\u0080 noite podes a k horas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677593539648,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677591621480,
+      "content": "S\u00c3\u00b3 se for no dia antes e ficar a\u00c3\u00ad a dormir em Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677587557343,
+      "content": "Meio de semana s\u00c3\u00b3 a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677583893699,
+      "content": "De dia nada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677583880051,
+      "content": "S\u00c3\u00b3 \u00c3\u00a0 noite ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677583872264,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677573761742,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677573758942,
+      "content": "A noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677537980210,
+      "content": "Tu podes a k horas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677537972851,
+      "content": "Sim vou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677531250374,
+      "content": "vai ter tempo livre aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677531053051,
+      "content": "Dia 8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677530855301,
+      "content": "quando vem a Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677530811123,
+      "content": "Quando me d\u00c3\u00a1s de mamar esse leitinho todo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677530761507,
+      "content": "Tamb\u00c3\u00a9m tudo em ordem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677529645389,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677529473236,
+      "content": "T\u00c3\u00a1s bom?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677529142278,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1677528960642,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677528132526,
+      "content": "\u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671570287282,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671563684666,
+      "content": "ter\u00c3\u00a1 que ser no carro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671563676469,
+      "content": "vivo em Leiria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671563671387,
+      "content": "n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671563668311,
+      "content": "a\u00c3\u00ad em coimbra nso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671563025308,
+      "content": "Tem local?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671562679894,
+      "content": "sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671562290263,
+      "content": "quando vem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671562127570,
+      "content": "quero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671562113641,
+      "content": "siiimmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671561482720,
+      "content": "mama?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671560994624,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671560993433,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671560992448,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671560991337,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671560989539,
+      "content": "delicia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671560978563,
+      "content": "nossa. deitas este leitinho todo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671551017012,
+      "content": "Dlc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550874988,
+      "content": "gosto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550493593,
+      "content": "agora tuas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550258778,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/filipeesteves_998759568181672/photos/721393919120301.jpg",
+          "creation_timestamp": 1671550257
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550257594,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/filipeesteves_998759568181672/photos/5644317565688133.jpg",
+          "creation_timestamp": 1671550255
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550256117,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/filipeesteves_998759568181672/photos/504748508149661.jpg",
+          "creation_timestamp": 1671550254
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550253862,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/filipeesteves_998759568181672/photos/507326338061206.jpg",
+          "creation_timestamp": 1671550252
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550252939,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/filipeesteves_998759568181672/photos/3522520967983717.jpg",
+          "creation_timestamp": 1671550252
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550252427,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/filipeesteves_998759568181672/photos/692428472252358.jpg",
+          "creation_timestamp": 1671550251
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671550209873,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671550016369,
+      "content": "envia tu tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671549920580,
+      "content": "Manda nudes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671549730110,
+      "content": "bom pau ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671549725121,
+      "content": "vers\u00c3\u00a1til",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671549441933,
+      "content": "Ativo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671545119175,
+      "content": "\u00c3\u00a9s ativo ou passivo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671542493938,
+      "content": "\u00c3\u00b3timo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1671542547
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671542082456,
+      "content": "Vou ficar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671542018867,
+      "content": "ficar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671542014179,
+      "content": "de f\u00c3\u00a9rias ou para fixar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671542005165,
+      "content": "chique",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671541732499,
+      "content": "Estou no hotel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671541656322,
+      "content": "e est\u00c3\u00a1s a viver onde? sitio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671541648217,
+      "content": "pouco tempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671540661598,
+      "content": "Cheguei do domingo dia 11",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671540624716,
+      "content": "vives a\u00c3\u00ad desde quando?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671533805124,
+      "content": "N\u00c3\u00a3o conhe\u00c3\u00a7o nada aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671533770292,
+      "content": "onde nos vemos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671533761027,
+      "content": "sim podemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671507660162,
+      "content": "Podemos marcar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671506768281,
+      "content": "est\u00c3\u00a1vamos a teclar no grindr tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671506757242,
+      "content": "gostaria de te conhecer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671506694254,
+      "content": "Legal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671506609328,
+      "content": "estava tamb\u00c3\u00a9m em coimbra. \nregresso sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671495610494,
+      "content": "Coimbra e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671494760026,
+      "content": "tas onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671493120440,
+      "content": "tamb\u00c3\u00a9m",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1671494560
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671493116503,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671492514196,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Filipe Esteves",
+          "timestamp": 1671493116
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671492402808,
+      "content": "tas bom?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671491327834,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Esteves",
+      "timestamp_ms": 1671491190589,
+      "content": "oi boas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Filipe Esteves",
+  "is_still_participant": true,
+  "thread_path": "inbox/filipeesteves_998759568181672",
+  "magic_words": [
+    
+  ]
+}

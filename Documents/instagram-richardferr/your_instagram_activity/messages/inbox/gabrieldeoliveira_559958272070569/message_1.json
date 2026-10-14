@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel de Oliveira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1619747251799,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel de Oliveira",
+      "timestamp_ms": 1588374110685,
+      "content": "Obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1588372953946,
+      "content": "Voc\u00c3\u00aa \u00c3\u00a9 uma gracinha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriel de Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabrieldeoliveira_559958272070569",
+  "magic_words": [
+    
+  ]
+}

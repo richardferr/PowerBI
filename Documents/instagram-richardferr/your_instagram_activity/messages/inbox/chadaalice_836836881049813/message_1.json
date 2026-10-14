@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Cha\u00cc\u0081 da Alice"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646021813237,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2783354888367819436"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646021731801,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646002262656,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2783191127962838948"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cha\u00cc\u0081 da Alice",
+  "is_still_participant": true,
+  "thread_path": "inbox/chadaalice_836836881049813",
+  "magic_words": [
+    
+  ]
+}

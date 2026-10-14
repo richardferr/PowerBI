@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Larissa Guimara\u00cc\u0083es"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Larissa Guimara\u00cc\u0083es",
+      "timestamp_ms": 1687131494622,
+      "content": "Obrigada \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687124658861,
+      "content": "Feliz anivers\u00c3\u00a1rio \u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u0082\u00f0\u009f\u008e\u0089",
+      "share": {
+        "link": "https://www.instagram.com/stories/larissa.olig/3127467784148959875"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Larissa Guimara\u00cc\u0083es",
+      "timestamp_ms": 1670674014199,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670672997450,
+      "content": "Muito obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Larissa Guimara\u00cc\u0083es",
+          "timestamp": 1670674014
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Larissa Guimara\u00cc\u0083es",
+      "timestamp_ms": 1670668037202,
+      "content": "Feliz anivers\u00c3\u00a1rio Richard. Tudo de melhor na sua vida! Que Deus continue aben\u00c3\u00a7oando sempre \u00c3\u00a9 muito sucesso nessa nova etapa da sua vida \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2989863790365838797"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Larissa Guimara\u00cc\u0083es",
+  "is_still_participant": true,
+  "thread_path": "inbox/larissaguimaraes_565690568163873",
+  "magic_words": [
+    
+  ]
+}

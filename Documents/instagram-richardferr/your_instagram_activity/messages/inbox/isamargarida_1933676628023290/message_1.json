@@ -1,0 +1,119 @@
+{
+  "participants": [
+    {
+      "name": "Isa margarida"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isa margarida",
+      "timestamp_ms": 1778246291557,
+      "content": "Penso q irei, ainda tenho q ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isa margarida",
+      "timestamp_ms": 1778246283180,
+      "content": "Alo, ya j\u00c3\u00a1 tinha visto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778245555412,
+      "content": "Vai ter festa de funk, se quiser ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778245550594,
+      "content": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkyMDA1NzMzNTg3Mzk2?story_media_id=3888199258210122726&igsh=Z3lscHhjNXM0Njhq",
+      "share": {
+        "link": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkyMDA1NzMzNTg3Mzk2?story_media_id=3888199258210122726&igsh=Z3lscHhjNXM0Njhq",
+        "share_text": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkyMDA1NzMzNTg3Mzk2?story_media_id=3888199258210122726&igsh=Z3lscHhjNXM0Njhq"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isa margarida",
+      "timestamp_ms": 1777813420331,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777813264687,
+      "content": "Combinado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Isa margarida"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isa margarida",
+      "timestamp_ms": 1777813200621,
+      "content": "Opa, n\u00c3\u00a3o vou poder. Cheguei agora ao centro e vou passar aqui o dia mas obrigada. Outra altura...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isa margarida",
+      "timestamp_ms": 1777813158499,
+      "content": "Que giro, n\u00c3\u00a3o tinha ouvido sobre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isa margarida",
+      "timestamp_ms": 1777813128586,
+      "content": "Ol\u00c3\u00a1 ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777813113978,
+      "content": "Se quiser se juntar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777813109791,
+      "content": "Estamos indo a praia ver o festival de cometas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777813099692,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777813097541,
+      "content": "Oi oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Isa margarida",
+  "is_still_participant": true,
+  "thread_path": "inbox/isamargarida_1933676628023290",
+  "magic_words": [
+    
+  ]
+}

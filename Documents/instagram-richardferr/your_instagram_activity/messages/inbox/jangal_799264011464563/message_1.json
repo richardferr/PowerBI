@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ja\u00cc\u0082ngaL"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ja\u00cc\u0082ngaL",
+      "timestamp_ms": 1649599654708,
+      "content": "Oieee tudo bem?!  \u00f0\u009f\u00a5\u00b0\n\nPra j\u00c3\u00a1 facilitar sua vida, as informa\u00c3\u00a7\u00c3\u00b5es sobre reservas, programa\u00c3\u00a7\u00c3\u00a3o e condi\u00c3\u00a7\u00c3\u00b5es de aniversariante podem ser encontradas nesse link aqui \u00c3\u00b3 jangal.urbi.me \u00f0\u009f\u00a5\u00b3\n\nCaso ainda tenha d\u00c3\u00bavidas, compartilha aqui com a gente e logo logo iremos te responder viu?!\n\nAbreijos (abra\u00c3\u00a7os e beijos)\n\nEquipe J\u00c3\u00a2ngal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1649599649778,
+      "share": {
+        "link": "https://www.instagram.com/p/CcLF3Mfr4IwnEq7R_oL4MHIZ8NyNE7Uq7iMxUk0/",
+        "share_text": "\u00f0\u009f\u008d\u0083\u00f0\u009f\u008c\u0091",
+        "original_content_owner": "richardferr.ra"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ja\u00cc\u0082ngaL",
+  "is_still_participant": true,
+  "thread_path": "inbox/jangal_799264011464563",
+  "magic_words": [
+    
+  ]
+}

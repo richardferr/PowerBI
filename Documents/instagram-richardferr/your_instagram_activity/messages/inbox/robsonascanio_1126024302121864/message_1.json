@@ -1,0 +1,480 @@
+{
+  "participants": [
+    {
+      "name": "Robson Ascanio"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687910911768,
+      "content": "manda l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687910537776,
+      "content": "Manda l\u00c3\u00a1  no zap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687910274642,
+      "content": "e voc\u00c3\u00aa vai mostrar o que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687909852814,
+      "content": "Mostra esse pau ai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687909843333,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687909824010,
+      "content": "tenho que ver como vai ser o dia amanh\u00c3\u00a3 ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908934749,
+      "content": "E amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687908791975,
+      "content": "vou n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908399733,
+      "content": "Ent\u00c3\u00a3o vem vamos l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908365602,
+      "content": "Tabom!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687908354834,
+      "content": "n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908330394,
+      "content": "Ent\u00c3\u00a3o chama um uber pra me deixa a\u00c3\u00ad onde vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687908300216,
+      "content": "mas \u00c3\u00a9 muito longe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687908292096,
+      "content": "tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908289440,
+      "content": "Procuramos um local perto do shopping",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908268414,
+      "content": "Bora bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908133749,
+      "content": "Poxa queria sentir vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687908115871,
+      "content": "t\u00c3\u00b4 bem cansado, lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687908015079,
+      "content": "Bora se ver!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687905687746,
+      "content": "Ok",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1687907005
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687905674554,
+      "content": "at\u00c3\u00a9 estou, mas n\u00c3\u00a3o vou para longe hoje n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687905267269,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687905263260,
+      "content": "Mais tu t\u00c3\u00a1  afim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687905234315,
+      "content": "Aqui perto n\u00c3\u00a3o sei onde tem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687905177891,
+      "content": "N\u00c3\u00a3o sei de nenhum outro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687905153739,
+      "content": "ah n\u00c3\u00a3o, t\u00c3\u00b4 com pregui\u00c3\u00a7a de sair e aquele lugar \u00c3\u00a9 muito longe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687905127113,
+      "content": "\u00f0\u009f\u0098\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687904784853,
+      "content": "N\u00c3\u00a3o l\u00c3\u00a1 naquele  lugar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687904765507,
+      "content": "Onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687904720212,
+      "content": "Bora se ver agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687904708879,
+      "content": "Nada e vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687904697128,
+      "content": "O que tem feito esses dias?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687904685638,
+      "content": "Pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687904166303,
+      "content": "Ne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687904161009,
+      "content": "Agora  vai descansar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687903902239,
+      "content": "Em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687903893747,
+      "content": "Estava trabalhando e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687903855386,
+      "content": "Fazendo oque",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687903809435,
+      "content": "Tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687903798127,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687903702201,
+      "content": "Tudo bem!?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687903661038,
+      "content": "Oiie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687903621465,
+      "content": "E a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687736584981,
+      "content": "ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687734373639,
+      "content": "Ainda nao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687734361601,
+      "content": "voc\u00c3\u00aa conseguiu emprego?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687734087386,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687734065832,
+      "content": "A\u00c3\u00ad est\u00c3\u00a1 bem corrido no meio da semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687734056202,
+      "content": "Estou trabalhando em dois empregos agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687734049677,
+      "content": "Durante a semana eu trabalho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687733936829,
+      "content": "Amanh\u00c3\u00a3  durante o dia da?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687733926368,
+      "content": "Podia ter ido naquele  lugar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687733896445,
+      "content": "por isso n\u00c3\u00a3o te chamei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687733889618,
+      "content": "um dos meus amigos folgaram ontem e o outro hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687730437605,
+      "content": "Disse que ia nos ver hj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687266151167,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687266126061,
+      "content": "domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687262962966,
+      "content": "Quer dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687262935991,
+      "content": "vai ter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687262644035,
+      "content": "Quero vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687262635258,
+      "content": "Sou nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687262603723,
+      "content": "seu safado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687261681893,
+      "content": "Quero mamar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1687261660714,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robson Ascanio",
+      "timestamp_ms": 1687261510950,
+      "content": "Oie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Robson Ascanio",
+  "is_still_participant": true,
+  "thread_path": "inbox/robsonascanio_1126024302121864",
+  "magic_words": [
+    
+  ]
+}

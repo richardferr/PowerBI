@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Calvin Harris"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575158817166,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2188912298718818839"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Calvin Harris",
+  "is_still_participant": true,
+  "thread_path": "inbox/calvinharris_602741524457830",
+  "magic_words": [
+    
+  ]
+}

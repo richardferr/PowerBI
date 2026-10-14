@@ -1,0 +1,474 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Henrique"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1752872343645,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1752868340942,
+      "content": "quem me dera",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bruno Henrique"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1752866090273,
+      "content": "Bruno sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DLs8gBLRnP9/?id=3669573879476941821_48486900433",
+        "share_text": "\u00c3\u0089 nessas que d\u00c3\u00a1 ruim!\u00f0\u009f\u0098\u0082\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5\n.\n.\n.\n.\n.\n#musicaeletronica #eletronica #abacaxi #house #afrohouse #soeletronica24h",
+        "original_content_owner": "soeletronica24h"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1752855966995,
+      "content": "Eu dei pala sozinho aqui \u00f0\u009f\u0098\u00ad\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3 pecado!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1752855940633,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1752841883068,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bruno Henrique"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1731460082079,
+      "content": "Ai q tu aprende essas n\u00c3\u00a9? \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1731455747174,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DCJ5ucMIia3/?id=3497580465645299383_2204627567",
+        "share_text": "Mis 24\u00f0\u009f\u00a4\u008d Gracias por tanto cari\u00c3\u00b1o d\u00c3\u00ada tras d\u00c3\u00ada. \n\n#humor #comedia #jaimesilva #fy #pov #blblbl",
+        "original_content_owner": "jaimesilva"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1731164216175,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1731161814972,
+      "content": "hahah famoso",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bruno Henrique",
+          "timestamp": 1731164216
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1731160604931,
+      "content": "Modelo caro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1731160604701,
+      "share": {
+        "original_content_owner": "barbeariabagaca"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1730575053622,
+      "content": "N\u00c3\u00a3o sufoca o artista",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1730575046899,
+      "content": "Kkakakak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1730573948517,
+      "content": "Parecendo at\u00c3\u00a9 homem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1730573948201,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DB3-bK8gSaP/",
+        "share_text": "Para quem procura um corte com personalidade, vem \u00c3\u00a0 Barbearia Baga\u00c3\u00a7a e sente a diferen\u00c3\u00a7a \u00f0\u009f\u0098\u008e\n\n\u00f0\u009f\u0092\u0088Atendimento de Segunda a S\u00c3\u00a1bado\nDas 09:00h \u00c3\u00a0s 20:00h\n\n\u00f0\u009f\u0093\u00b2 Marca\u00c3\u00a7\u00c3\u00a3o atrav\u00c3\u00a9s do site ou link na bio, tamb\u00c3\u00a9m atendemos por ordem de chegada.\n\n\u00f0\u009f\u0093\u008d Unidade Olivais \nR. Brg. Correia Cardoso 213 | 933 282 992\n\n\u00f0\u009f\u0093\u008d Unidade Santa Clara \nR. Rui Braga Carrington da Costa 221 |  931 871 076\n\n#barber #barba #BarbeariaPortugal #corteperfeito",
+        "original_content_owner": "barbeariabagaca"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1729202843835,
+      "content": "\u00c3\u0089 o estilo do corte kkkk j\u00c3\u00a1 \u00c3\u00a9 liso",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard",
+          "timestamp": 1729205048
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729202313617,
+      "content": "Precisa hidratar esse cabelo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729202307381,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1729197137090,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/brunohenrique_1207934973930796/videos/510781661720029.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1729197093171,
+      "content": "Georgina o nome dela kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729195082150,
+      "content": "Quem \u00c3\u00a9 essa pessoa que voc\u00c3\u00aa est\u00c3\u00a1 secando o cabelo? Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729195081954,
+      "share": {
+        "original_content_owner": "barbeariabagaca"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1729092052076,
+      "content": "N\u00c3\u00a3o tem como ficar perto do Filipe s\u00c3\u00a9rio kkkkk esse cara \u00c3\u00a9 engra\u00c3\u00a7ado",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard",
+          "timestamp": 1729099287
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729081892621,
+      "content": "O \u00c3\u00banico rindo\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729081892425,
+      "share": {
+        "original_content_owner": "barbeariabagaca"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1729024606889,
+      "content": "Tive q ler os coment\u00c3\u00a1rios pra entender \u00f0\u009f\u0098\u00ad\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3 me senti muito inocente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1729024572491,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1729024299545,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bruno Henrique",
+          "timestamp": 1729024572
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C_g1ZHuSRLe/?id=3449992137310540510_338039144",
+        "share_text": "POUCOS V\u00c3\u0083O ENTENDER \u00f0\u009f\u0098\u00ad #humor #meme #explorar #reels #foryou",
+        "original_content_owner": "gabrielvillane"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1705956894739,
+      "content": "aprendi com voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1705956318645,
+      "content": "desmerecimento do trampo do mano em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1705956302428,
+      "content": "Kkkkkkkkkkkkkk coe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1705956175432,
+      "content": "bloqueado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1705955982293,
+      "content": "da uma moral pro cr, vou agendar seu hor\u00c3\u00a1rio, fx? Kkkkk eu sei q tu vai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1705955925972,
+      "content": "Eu SOU pobre kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1705955168923,
+      "content": "Est\u00c3\u00a1 pobre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1705453670714,
+      "content": "Pq homens s\u00c3\u00a3o assim cr?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1705453669132,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1705450788810,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bruno Henrique",
+          "timestamp": 1705453669
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C2BDiywrbFd/?id=3278917588807954781_5560035890",
+        "share_text": "O meu ou o teu ?\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+        "original_content_owner": "leandro.leitte"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1704930377307,
+      "content": "Pena que eu n\u00c3\u00a3o sou bruto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1704891503116,
+      "content": "Bruno sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1700009775345,
+      "content": "Cs da nossa amg Nath quando morar sozinha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard",
+          "timestamp": 1700009790
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1700009726667,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1700009126324,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bruno Henrique",
+          "timestamp": 1700009726
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CzjN5WcrQvV/",
+        "share_text": "",
+        "original_content_owner": "darkefodase"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1699014148986,
+      "content": "\u00f0\u009f\u0098\u0087\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1699014139932,
+      "content": "Bebado consciente",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard",
+          "timestamp": 1699020741
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1699014121545,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1699010982026,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bruno Henrique",
+          "timestamp": 1699014121
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CzCwIXmu8-Z/",
+        "share_text": "Kkkkkkkk",
+        "original_content_owner": "humarciano"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Henrique",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunohenrique_1207934973930796",
+  "magic_words": [
+    
+  ]
+}

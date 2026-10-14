@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Eduardo Du"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eduardo Du",
+      "timestamp_ms": 1565701775966,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1565701711241,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1565701708988,
+      "content": "Kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Du",
+      "timestamp_ms": 1565701383518,
+      "content": "Parab\u00c3\u00a9ns",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Du",
+      "timestamp_ms": 1565701377271,
+      "content": "Poxa mano vc muito lindo viu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Du",
+      "timestamp_ms": 1565701362503,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduardo Du",
+  "is_still_participant": true,
+  "thread_path": "inbox/eduardodu_528644151859885",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "participants": [
+    {
+      "name": "Rui Catarino"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1759332200725,
+      "content": "Ol\u00c3\u00a1. TD bem. Contigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741544020671,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741543913696,
+      "content": "Ol\u00c3\u00a1. TD bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741104343900,
+      "content": "Aceito sugest\u00c3\u00b5es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741104332697,
+      "content": "Provavelmente na zona onde estivemos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741104242852,
+      "content": "Onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741104172645,
+      "content": "Estarmos juntos para boa divers\u00c3\u00a3o. N\u00c3\u00a3o para muito, mais amanh\u00c3\u00a3 trabalho cedo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741104084922,
+      "content": "O que sugere?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741104080930,
+      "content": "Talvez tenha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741104063082,
+      "content": "Tens disponibilidade hoje, ao final do dia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741103981894,
+      "content": "Em casa na Lous\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741103948781,
+      "content": "Sim e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741103925414,
+      "content": "Por Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741103831113,
+      "content": "Bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741103787306,
+      "content": "Tbm. Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741103771742,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1741103731280,
+      "content": "Ol\u00c3\u00a1. Boa tarde. TD bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1741101174774,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1740693357871,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1740664678094,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1739709536749,
+      "content": "Bom dia. Ok na boa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1739702673084,
+      "content": "Desculpe, estava com visitas em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1739640899171,
+      "content": "Se estivesses dispon\u00c3\u00advel podia ir ter contigo...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1739640847108,
+      "content": "Ol\u00c3\u00a1. Em casa na Lous\u00c3\u00a3.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1739639178090,
+      "content": "Agora estou e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1739638460209,
+      "content": "Est\u00c3\u00a1s por Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1739638450936,
+      "content": "Que se faz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1739638437852,
+      "content": "Ol\u00c3\u00a1. TD bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1739016318338,
+      "content": "Bom dia. TD bem? Hoje n\u00c3\u00a3o d\u00c3\u00a1 para mim... Tenho trabalho para apresentar at\u00c3\u00a9 ter\u00c3\u00a7a. Estou atrasado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1739016035475,
+      "content": "Oi, quer fazer algo hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738404810311,
+      "content": "Estou de folga hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738177253664,
+      "content": "Se quiser sexta a tarde/noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738177236030,
+      "content": "Hoje n\u00c3\u00a3o posso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738177229786,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1738173482056,
+      "content": "Ol\u00c3\u00a1. TD bem? Estou por Coimbra hoje. Se tiveres a fim, na boa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737974582733,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737973706807,
+      "content": "N\u00c3\u00a3o est\u00c3\u00a1 f\u00c3\u00a1cil. Ontem estive em Coimbra c. Os meus pais. N\u00c3\u00a3o dava para combinar nada contigo. Assim que poder digo. Vamos falando. Abra\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737973615849,
+      "content": "Bom dia. Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737832181424,
+      "content": "Achei que ia rolar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737706409891,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737677246860,
+      "content": "Ol\u00c3\u00a1. TD bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737660278088,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737468829348,
+      "content": "Ol\u00c3\u00a1. Tbm quero estar contigo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard",
+          "timestamp": 1737490062
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737341457139,
+      "content": "Quero te fuder",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737293175609,
+      "content": "Pena eu n\u00c3\u00a3o poder hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737291802843,
+      "content": "Era a minha ideia para hoje. Ir buscar-te e estarmos aqui em casa, na boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737291795757,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737291693906,
+      "content": "Este s\u00c3\u00a1bado ainda n\u00c3\u00a3o sei. Mas a dar s\u00c3\u00b3 no final do dia.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737291622164,
+      "content": "No s\u00c3\u00a1bado voc\u00c3\u00aa pode?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737291615007,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737291596042,
+      "content": "Uma quest\u00c3\u00a3o de  combinar e eu possa. A casa \u00c3\u00a9 na Lous\u00c3\u00a3. Terei que te ir buscar e levar ... Tem que ser c. Tempo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737291532204,
+      "content": "Quando? Rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737291514158,
+      "content": "Isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737291497572,
+      "content": "E quando voc\u00c3\u00aa tem tempo livre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737291489259,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737291470977,
+      "content": "A maior parte dos dias estou c. Os meus pais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737291445833,
+      "content": "Quando estou nesta casa sim.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737291284816,
+      "content": "Voc\u00c3\u00aa mora sozinho?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737291031803,
+      "content": "Sim tbm acho. A minha ideia um dia destes \u00c3\u00a9 ir buscar e vires c\u00c3\u00a1 a casa. Sempre \u00c3\u00a9 mais quente e estamos na boa. Se quiseres, claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737281068434,
+      "content": "O ruim \u00c3\u00a9 o frio que est\u00c3\u00a1 tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737280880383,
+      "content": "Tbm.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737280803576,
+      "content": "Queria muito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737280800732,
+      "content": "Pena (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737280795808,
+      "content": "Pensa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737280698513,
+      "content": "Ok. Sem problema. Fica para outro dia. Abra\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737279329174,
+      "content": "Eu hoje vou sair e voltar muito tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737198400227,
+      "content": "Que dizes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737198389456,
+      "content": "Bom dia. Se amanh\u00c3\u00a3 estiveres dispon\u00c3\u00advel, na boa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737192422208,
+      "content": "Quando vai usar meu pau de novo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737151021481,
+      "content": "Sim, verdade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737150958993,
+      "content": "Um pouco de frio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737150910744,
+      "content": "Estou bem. Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737150824592,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737150819801,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rui Catarino",
+          "timestamp": 1737150824
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1737150704027,
+      "content": "Ol\u00c3\u00a1 boa noite. Est\u00c3\u00a1s bem? Humm, gosto do que vejo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737150638897,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1736760435638,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1736730085122,
+      "content": "Ol\u00c3\u00a1. Boa noite. Est\u00c3\u00a1s bem? Dsclpa, s\u00c3\u00b3 vi a tua SMS agora. Correu bem, obrigado. Quarta \u00c3\u00a9 poss\u00c3\u00advel que v\u00c3\u00a1 a Coimbra ao final do dia. Abra\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735850453980,
+      "content": "Como foi a viagem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735773169757,
+      "content": "Mostra para mim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772928804,
+      "content": "Bem.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735772883899,
+      "content": "Como est\u00c3\u00a1 esse corpo a\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772882064,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735772876877,
+      "content": "\u00c3\u0093timo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rui Catarino",
+          "timestamp": 1735772882
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772838417,
+      "content": "Quero repetir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772816513,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735772749482,
+      "content": "Hmm bom saber",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rui Catarino",
+          "timestamp": 1735772816
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772697572,
+      "content": "Sim. Adorei mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735772674425,
+      "content": "Sim e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772661928,
+      "content": "Boa. Curtiste?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735772636977,
+      "content": "Com muita mamada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772597405,
+      "content": "Agrade\u00c3\u00a7o e retribuo um excelente ano de 2025",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735772565813,
+      "content": "Feliz ano novo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735772225148,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Catarino",
+      "timestamp_ms": 1735772088344,
+      "content": "Ol\u00c3\u00a1. Boa noite. Um abra\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735648675483,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rui Catarino",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruicatarino_1517081946349429",
+  "magic_words": [
+    
+  ]
+}

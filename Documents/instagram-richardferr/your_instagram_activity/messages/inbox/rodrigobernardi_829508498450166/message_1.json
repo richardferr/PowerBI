@@ -1,0 +1,975 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Bernardi"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1651108489574,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648842472713,
+      "content": "meu colar",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1651108489
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648647115927,
+      "content": "Reacted \u00f0\u009f\u0094\u00a5 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648644818527,
+      "content": "Vamoo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648647115
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648642065983,
+      "content": "Quero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648642064529,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648642061730,
+      "content": "Deliciaa \u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648642057598,
+      "content": "N\u00c3\u00b3ssa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648642051353,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648642050599,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648642049065,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648639565695,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648642051
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648639559368,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648642050
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648639552264,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648642049
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648609680593,
+      "content": "Tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648609676477,
+      "content": "Aguardando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648609666786,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648609375656,
+      "content": "Eita, que gostoso \u00f0\u009f\u0098\u008b\u00f0\u009f\u0098\u008b",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648609666
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648608248775,
+      "content": "\u00f0\u009f\u0098\u009a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648608243836,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648604662640,
+      "content": "eu conto depois de ver imagens",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648604355989,
+      "content": "Conte mais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648604352489,
+      "content": "Hahaha del\u00c3\u00adcia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648603929041,
+      "content": "hmm ent\u00c3\u00a3o acho que vou fazer uma sacanagenzinha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648603701520,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648603699857,
+      "content": "Se for de um jeito bonzinho e gostoso tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648603689636,
+      "content": "Ser\u00c3\u00a1?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648603683154,
+      "content": "Hahahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648603680212,
+      "content": "Reacted \u00f0\u009f\u00a4\u00a3 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648602123787,
+      "content": "logo eu, com essa carinha de anjo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u00a3",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648603680
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648602110103,
+      "content": "acha que eu abusaria de voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648601878410,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648601876884,
+      "content": "Perigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648601875257,
+      "content": "Hahahahahaha e eu fico b\u00c3\u00aabado sozinho com um boy que nem conhe\u00c3\u00a7o direito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648601350352,
+      "content": "Voc\u00c3\u00aa toma um vinho e eu tomo um suco haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648597439790,
+      "content": "J\u00c3\u00a1 ia falar que t\u00c3\u00b4 economizando e voc\u00c3\u00aa podia super vir pra c\u00c3\u00a1, j\u00c3\u00a1 ia falar 'a gente pede um vinho' HAHAHAHAHA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648593335346,
+      "content": "sempre tem a primeira vez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648593331401,
+      "content": "haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648589684217,
+      "content": "Seria totalmente novo sair com algu\u00c3\u00a9m que n\u00c3\u00a3o bebe hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648589651384,
+      "content": "V\u00c3\u00a1rios hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648588253529,
+      "content": "conhece algum lugar legal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648588245076,
+      "content": "u\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648588243407,
+      "content": "bora sair \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648588232944,
+      "content": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648586866473,
+      "content": "Uai, depende dos seus objetivos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648586855907,
+      "content": "Kkkkk que horror",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648586552150,
+      "content": "bebo n\u00c3\u00a3o rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648586545372,
+      "content": "achei que estava me chamando para o abate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648582832762,
+      "content": "Voc\u00c3\u00aa n\u00c3\u00a3o bebe n\u00c3\u00a9 hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648582825340,
+      "content": "O que quer fazer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648582817384,
+      "content": "De boas!! Animo fazer algo no s\u00c3\u00a1bado, sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648582644327,
+      "content": "Mas no meio dessa n\u00c3\u00a3o consigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648582625763,
+      "content": "N\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648582445278,
+      "content": "Dia de semana fica ruim pra voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648582262572,
+      "content": "Anima neste fim de semana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648582254471,
+      "content": "ahh sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648582065409,
+      "content": "Eu moro sozinho \u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648582048716,
+      "content": "e rola de boa a\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648581778189,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648581772346,
+      "content": "Uai, t\u00c3\u00b4 de boa qualquer dia a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648581748767,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648581514138,
+      "content": "quando eu receber um convite",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648581748
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648581416687,
+      "content": "Que dia ce vem me visitar, hein, Richard?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648581400239,
+      "content": "Hahahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648581395836,
+      "content": "Reacted \u00f0\u009f\u00a4\u00a3 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648580405008,
+      "content": "aff invejoso",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u00a3",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1648581395
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648580399407,
+      "content": "kkkkk eu escrevi erradoooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648580386412,
+      "content": "Eu tenho esse colar tamb\u00c3\u00a9m hahaha",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2804771213647966061"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648580371502,
+      "content": "Vegan \u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648509035112,
+      "content": "e vc veggie n\u00c3\u00a9?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648509022723,
+      "content": "Haha sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648501866310,
+      "content": "Haha legal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648501864316,
+      "content": "E vi aqui no seu perfil que ce \u00c3\u00a9 vegetariano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1648501855746,
+      "content": "\u00c3\u0093h, deixei no v\u00c3\u00a1cuo eterno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646068722187,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646068718560,
+      "content": "Estou sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1646066383990,
+      "content": "T\u00c3\u00a1 de folga esses dias?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1646066379707,
+      "content": "Tranquilo tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646063012660,
+      "content": "Tranquilo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646063009547,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1646061012858,
+      "content": "Belezinha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1646061009564,
+      "content": "Eaee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1646061006782,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645227991010,
+      "content": "Mentira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645227987747,
+      "content": "Uso drogas kkkkkkk",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1646061006
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645223716939,
+      "content": "Hahahahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645223713361,
+      "content": "Voc\u00c3\u00aa n\u00c3\u00a3o faz nada na vida pra te deixar um pouco fora da realidade?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645223392995,
+      "content": "Fazer o qu\u00c3\u00aa, n\u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645223361466,
+      "content": "kkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645222640900,
+      "content": "Mas o Brasil me obriga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645222636541,
+      "content": "\u00c3\u0093h, meu sonho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645212570380,
+      "content": "\u00c3\u0081lcool n\u00c3\u00a3o rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645206738688,
+      "content": "N\u00c3\u00a3o bebe nadaaa? haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645205988580,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645205987362,
+      "content": "Eu n\u00c3\u00a3o bebo, mas te fa\u00c3\u00a7o companhia enquanto voc\u00c3\u00aa bebe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645205970914,
+      "content": "Podemos sim rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645202894787,
+      "content": "Que c\u00c3\u00aa acha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645202892333,
+      "content": "Eu animo encontrar em algum lugar antes, tomar um drink",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645190835631,
+      "content": "Na sexta \u00c3\u00a9 melhor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645187757403,
+      "content": "FDS que vem t\u00c3\u00b4 tranquilo na sexta e no domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645187742339,
+      "content": "Ah, saquei!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645149675234,
+      "content": "Volto domingo a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645149670783,
+      "content": "Vou viajar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645149665662,
+      "content": "Infelizmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645149580088,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645149579264,
+      "content": "T\u00c3\u00a1 ocupado amanh\u00c3\u00a3?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645149549272,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645148315776,
+      "content": "Acho que essa foto j\u00c3\u00a1 responde a pergunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645148305220,
+      "content": "Que del\u00c3\u00adcia",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1645149549
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645146681308,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645145966631,
+      "content": "O que sugere? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645145958948,
+      "content": "!*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645145957055,
+      "content": "Uai, animo$",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645025361787,
+      "content": "Pr\u00c3\u00b3ximo fds?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645007982633,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1645007979156,
+      "content": "Quando? rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644931863847,
+      "content": "Opa, vamoo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1645007982
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1644921890344,
+      "content": "Uai, bora fazer algo a respeito ent\u00c3\u00a3o haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1644921872327,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644874453566,
+      "content": "Voc\u00c3\u00aa \u00c3\u00a9 um gat\u00c3\u00a3o",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1644921872
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1644845188215,
+      "content": "Acho que te vi tamb\u00c3\u00a9m hehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Bernardi",
+      "timestamp_ms": 1644845181220,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644803566646,
+      "content": "acho que te vi na sapuca\u00c3\u00ad",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rodrigo Bernardi",
+          "timestamp": 1644845181
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo Bernardi",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodrigobernardi_829508498450166",
+  "magic_words": [
+    
+  ]
+}

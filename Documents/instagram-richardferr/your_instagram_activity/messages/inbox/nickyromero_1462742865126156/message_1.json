@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "nickyromero"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1720350412074,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3406868506530294709"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1720350291532,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3406867509586317908"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nickyromero",
+  "is_still_participant": true,
+  "thread_path": "inbox/nickyromero_1462742865126156",
+  "magic_words": [
+    
+  ]
+}

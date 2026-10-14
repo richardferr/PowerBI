@@ -1,0 +1,91 @@
+{
+  "organic_insights_reels": [
+    {
+      "title": "",
+      "media_map_data": {
+        "Media Thumbnail": {
+          "uri": "media/other/18151546579483755.mp4",
+          "creation_timestamp": 1785802600,
+          "media_metadata": {
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "iso": 0,
+                  "lens_model": "",
+                  "device_id": "4F221B65-07CD-4C0A-BEE0-398A4380787B",
+                  "camera_position": "3",
+                  "lens_make": "",
+                  "source_type": "0"
+                }
+              ]
+            },
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "Poland \u00f0\u009f\u0087\u00b5\u00f0\u009f\u0087\u00b1",
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [
+            
+          ],
+          "media_variants": [
+            
+          ],
+          "gifting_data": {
+            "gifting_enabled": false,
+            "gift_count_disabled": "False"
+          }
+        }
+      },
+      "string_map_data": {
+        "Caption": {
+          "href": "",
+          "value": "Poland \u00f0\u009f\u0087\u00b5\u00f0\u009f\u0087\u00b1",
+          "timestamp": 0
+        },
+        "Upload Timestamp": {
+          "href": "",
+          "value": "",
+          "timestamp": 1785802600
+        },
+        "Duration": {
+          "href": "",
+          "value": "16",
+          "timestamp": 0
+        },
+        "Accounts reached": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "Instagram Plays": {
+          "href": "",
+          "value": "251",
+          "timestamp": 0
+        },
+        "Instagram Likes": {
+          "href": "",
+          "value": "37",
+          "timestamp": 0
+        },
+        "Instagram Comments": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Instagram Shares": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Instagram Saves": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

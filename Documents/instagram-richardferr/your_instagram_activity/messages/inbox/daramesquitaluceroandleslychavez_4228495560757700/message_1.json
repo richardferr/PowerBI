@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Dara Mesquita"
+    },
+    {
+      "name": "Lucero"
+    },
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Lesly Chavez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dara Mesquita",
+      "timestamp_ms": 1771190366966,
+      "content": "Dara sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucero"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Lesly Chavez"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DQMkCC9EcX6/?id=3750531059978192378_32065145400",
+        "share_text": "La naturaleza ha hablado\u00e2\u0080\u00a6jajajajajaja y el que diga lo contrario miente",
+        "original_content_owner": "aledelbaul"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dara Mesquita",
+      "timestamp_ms": 1770502009244,
+      "content": "Dara sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DObKKaXDm4a/?id=3718610613288463898_57894422186",
+        "share_text": "Vamos \u00f0\u009f\u00a4\u00a3",
+        "original_content_owner": "leislanahir.ok"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucero",
+      "timestamp_ms": 1769793604838,
+      "content": "Hay q ir!\u00f0\u009f\u0098\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucero",
+      "timestamp_ms": 1769793598849,
+      "content": "Que ricoo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lesly Chavez",
+      "timestamp_ms": 1769784071434,
+      "content": "Lesly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DT7pHmxDTB-/?id=3817825951695057022_9293503061",
+        "share_text": "M\u00c3\u0081S INFO AQU\u00c3\u008d \u00e2\u00ac\u0087\u00ef\u00b8\u008f\n\n\u00f0\u009f\u0093\u008dKIOSKO LA P\u00c3\u0089RGOLA\n\u00f0\u009f\u0091\u0089\u00f0\u009f\u008f\u00bd Pg. de l\u00e2\u0080\u0099Albereda, 1. Valencia\n\n\u00e2\u009c\u00a8 Uno de los almuerzos m\u00c3\u00a1s m\u00c3\u00adticos de Valencia se encuentra en este kiosko que lleva abierto desde 1962 en plena Alameda. Sirven entre 400/500 bocadillos al d\u00c3\u00ada, destacando sus m\u00c3\u00a1s famosos: el S\u00c3\u00baper bomb\u00c3\u00b3n y el Full equip. Adem\u00c3\u00a1s, tambi\u00c3\u00a9n tienen tapas de las toda la vida para completar el almuerzo y que sea redondo.\n\n\u00f0\u009f\u008d\u00b4 Lo que probamos:\n\u00e2\u0080\u00a2Sepia a la plancha (12.50\u00e2\u0082\u00ac)\n\u00e2\u0080\u00a2Pincho de tortilla (4\u00e2\u0082\u00ac)\n\u00e2\u0080\u00a2Ensaladilla rusa (6\u00e2\u0082\u00ac)\n\u00e2\u0080\u00a2S\u00c3\u00baper bomb\u00c3\u00b3n (5.50\u00e2\u0082\u00ac) \u00f0\u009f\u008f\u0085\n\u00e2\u0080\u00a2Full Equip (5.50\u00e2\u0082\u00ac)\n\n\u00e2\u008f\u00b0 Abierto de lunes a viernes de 8:00 a 16:30 y s\u00c3\u00a1bados de 8:30 a 16:00\n\n#almuerzo #valencia #plan #bocadillo #tapas",
+        "original_content_owner": "enjoybyana"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lesly Chavez",
+      "timestamp_ms": 1769765980664,
+      "content": "Lesly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DUGRVqfCPVw/?id=3820817589387982192_8243224237",
+        "share_text": "\u00e2\u009c\u0085Ya puedes ir al Cine desde 2.9\u00e2\u0082\u00ac\u00f0\u009f\u008d\u00bf #entradas #pelicula #ultimahora",
+        "original_content_owner": "raulgb_01"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lesly Chavez",
+      "timestamp_ms": 1769765979953,
+      "content": "Lesly created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dara Mesquita, Lucero and Lesly Chavez",
+  "is_still_participant": true,
+  "thread_path": "inbox/daramesquitaluceroandleslychavez_4228495560757700",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbbcThG6JF3YB4vN/"
+  }
+}

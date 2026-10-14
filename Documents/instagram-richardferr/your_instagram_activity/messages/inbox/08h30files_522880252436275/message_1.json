@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "08h30files"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551275683377,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://chat.whatsapp.com/Ig9O0HMZNYjJWq47Guyq3B"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "08h30files",
+  "is_still_participant": true,
+  "thread_path": "inbox/08h30files_522880252436275",
+  "magic_words": [
+    
+  ]
+}

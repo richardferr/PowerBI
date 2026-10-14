@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Lu"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lu",
+      "timestamp_ms": 1775848977958,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1775847394295,
+      "content": "S\u00c3\u00ad, es ella",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lu"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lu",
+      "timestamp_ms": 1775842160663,
+      "content": "playa de cabanyal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1775842111265,
+      "content": "S\u00c3\u00adi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lu",
+      "timestamp_ms": 1775842021853,
+      "content": "valencia?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3872020987462348247"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lu",
+  "is_still_participant": true,
+  "thread_path": "inbox/lu_1981296909938350",
+  "magic_words": [
+    
+  ]
+}

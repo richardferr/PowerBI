@@ -1,0 +1,618 @@
+{
+  "participants": [
+    {
+      "name": "Luis Renato Teixeira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1740352638923,
+      "content": "Rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1740351477439,
+      "content": "Gostei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1740348737432,
+      "content": "N\u00c3\u00a3o gostou?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1740325652713,
+      "content": "\u00f0\u009f\u00a4\u00ad\u00f0\u009f\u00ab\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1740321608363,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456897344,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u0098\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard",
+          "timestamp": 1738493077
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456888191,
+      "content": "N\u00c3\u00a3o tem problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456865988,
+      "content": "Desculpa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456854086,
+      "content": "Est\u00c3\u00a1s bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456816359,
+      "content": "\u00f0\u009f\u00ab\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456809071,
+      "content": "N\u00c3\u00a3o obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456782284,
+      "content": "Mas podia para mim rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456612122,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard",
+          "timestamp": 1738456617
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456604213,
+      "content": "Hmm entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456581870,
+      "content": "N\u00c3\u00a3o sou de me dar a qualquer pessoa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456533258,
+      "content": "N\u00c3\u00a3o entendi o que quis dizer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456458916,
+      "content": "N\u00c3\u00a3o sou desse tipo jovem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456442508,
+      "content": "Ent\u00c3\u00a3o temos que resolver isso rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456427072,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456418652,
+      "content": "Sim um pouco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456407372,
+      "content": "Ent\u00c3\u00a3o est\u00c3\u00a1 fechadinho?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456371134,
+      "content": "\u00f0\u009f\u00ab\u00a3\u00f0\u009f\u00a4\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456365697,
+      "content": "Nada mais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456362089,
+      "content": "E foi s\u00c3\u00b3 conhecer e beijar e umas mamadas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456331909,
+      "content": "Sim verdade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456323347,
+      "content": "Eita, ent\u00c3\u00a3o foi bem pouco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456230860,
+      "content": "E VC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456224488,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456218711,
+      "content": "J\u00c3\u00a1 tou c\u00c3\u00a1 a mais de seis meses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456201242,
+      "content": "Depois de vir para c\u00c3\u00a1 s\u00c3\u00b3 fiquei s\u00c3\u00b3 com um homem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738456163366,
+      "content": "S\u00c3\u00b3 conheci uma pessoa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456081610,
+      "content": "J\u00c3\u00a1 conheceu muita gente aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738456060706,
+      "content": "Uma s\u00c3\u00a9rie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455828164,
+      "content": "E VC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455819065,
+      "content": "O desafio final na TVI",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455806584,
+      "content": "Nada de especial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455619402,
+      "content": "E o que assiste?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455614331,
+      "content": "Eu tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455519357,
+      "content": "E VC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455515206,
+      "content": "Deitado a ver TV",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455479750,
+      "content": "O que est\u00c3\u00a1 fazendo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455346904,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard",
+          "timestamp": 1738455409
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455327490,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455300591,
+      "content": "No Intermarche",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455270989,
+      "content": "\u00f0\u009f\u0098\u0089\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455267890,
+      "content": "Voc\u00c3\u00aa trabalha onde l\u00c3\u00a1 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455254223,
+      "content": "\u00c3\u0093timo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455247017,
+      "content": "N\u00c3\u00a3o n\u00c3\u00a3o sou assumido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455242141,
+      "content": "Uber ou trotinete",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455233374,
+      "content": "De autocarro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455226480,
+      "content": "Ningu\u00c3\u00a9m sabe de voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455224841,
+      "content": "Como \u00c3\u00a9 que vais l\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455213186,
+      "content": "Fixe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455193112,
+      "content": "\u00c3\u0080s vezes vou l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455154408,
+      "content": "Simm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455125089,
+      "content": "Trabalha no retail park?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738455053110,
+      "content": "Hum ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738455003295,
+      "content": "Ent\u00c3\u00a3o voc\u00c3\u00aa est\u00c3\u00a1 em Taveiro todos os dias?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738454924981,
+      "content": "Inform\u00c3\u00a1tica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454892776,
+      "content": "E VC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454888751,
+      "content": "Sou cozinheiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738454830539,
+      "content": "Trabalha com o que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454754771,
+      "content": "Eu trabalho em Taveiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454743099,
+      "content": "N\u00c3\u00a3o sou de c\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454729260,
+      "content": "N\u00c3\u00a3o sei andar muito por Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738454685254,
+      "content": "E quando vir\u00c3\u00a1 a Coimbra ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738454671609,
+      "content": "Bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454648823,
+      "content": "Sim tenho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738454151012,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738454148566,
+      "content": "N\u00c3\u00a3o tenho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454020032,
+      "content": "Tens carro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738454007251,
+      "content": "Sim um pouco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738453940104,
+      "content": "Voc\u00c3\u00aa n\u00c3\u00a3o gosta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738453934413,
+      "content": "rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738453792894,
+      "content": "VC bem atrevido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738453777359,
+      "content": "Safado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738453774813,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738453759643,
+      "content": "Estaria melhor com sua boca no meu pau rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738453725842,
+      "content": "E VC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738453722154,
+      "content": "Bem  \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738453236353,
+      "content": "Como vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Renato Teixeira",
+      "timestamp_ms": 1738452945246,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luis Renato Teixeira",
+  "is_still_participant": true,
+  "thread_path": "inbox/luisrenatoteixeira_1634886427909442",
+  "magic_words": [
+    
+  ]
+}

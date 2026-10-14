@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "davyd_anjos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "davyd_anjos",
+      "timestamp_ms": 1654550833464,
+      "content": "Blz gat\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "davyd_anjos",
+      "timestamp_ms": 1654550829685,
+      "content": "Oie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "davyd_anjos",
+  "is_still_participant": true,
+  "thread_path": "message_requests/davyd_anjos_840572624000368",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,150 @@
+{
+  "participants": [
+    {
+      "name": "Yamina"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785776512261,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785754662860,
+      "content": "Yeah, I really enjoyed my time here, it\u00e2\u0080\u0099s an amazing country",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Yamina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785655894655,
+      "content": "I hope you will enjoy it and you will like Poland!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785655853574,
+      "content": "ooo niceee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785655849548,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785655847438,
+      "content": "in Bia\u00c5\u0082ystok",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785569484299,
+      "content": "I\u00e2\u0080\u0099m in Poland till Monday",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Yamina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785569455024,
+      "content": "Where do you live?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785550260216,
+      "content": "when are you going back to spain?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785550223313,
+      "content": "yess, to my city. i was there only for one day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785550207715,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785489006584,
+      "content": "Did u return?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785488912619,
+      "content": "Yeahh, it\u00e2\u0080\u0099s an amazing place",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Yamina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785486982381,
+      "content": "I was there yesterday\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yamina",
+      "timestamp_ms": 1785486960717,
+      "content": "aaaa omg you are in warsaw!!!",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3952992396623267965"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yamina",
+  "is_still_participant": true,
+  "thread_path": "inbox/yamina_1914683113255975",
+  "magic_words": [
+    
+  ]
+}

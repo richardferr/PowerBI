@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "SANDRO"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SANDRO",
+      "timestamp_ms": 1631556835609,
+      "content": "Gato",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2661321906933512263"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SANDRO",
+      "timestamp_ms": 1630955553749,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1630955529388,
+      "content": "Obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SANDRO",
+          "timestamp": 1630955553
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SANDRO",
+      "timestamp_ms": 1630876100263,
+      "content": "Lindo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2655660793209348146"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SANDRO",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandro_894718224472552",
+  "magic_words": [
+    
+  ]
+}

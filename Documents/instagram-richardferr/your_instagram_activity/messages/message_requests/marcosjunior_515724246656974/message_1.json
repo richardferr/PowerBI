@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Marcos Junior"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcos Junior",
+      "timestamp_ms": 1647220001187,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2793337779818330244"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcos Junior",
+  "is_still_participant": true,
+  "thread_path": "message_requests/marcosjunior_515724246656974",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

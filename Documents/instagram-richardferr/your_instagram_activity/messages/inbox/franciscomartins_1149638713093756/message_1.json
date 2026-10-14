@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Francisco Martins"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francisco Martins",
+      "timestamp_ms": 1690500893559,
+      "content": "Hummm",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1690727802
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco Martins",
+  "is_still_participant": true,
+  "thread_path": "inbox/franciscomartins_1149638713093756",
+  "magic_words": [
+    
+  ]
+}

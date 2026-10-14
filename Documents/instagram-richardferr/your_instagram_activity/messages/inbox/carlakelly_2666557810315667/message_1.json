@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Carla Kelly"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carla Kelly",
+      "timestamp_ms": 1684282944595,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3104189768404939052"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carla Kelly",
+      "timestamp_ms": 1667173242684,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1667172683803,
+      "content": "n\u00c3\u00a9 rs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Carla Kelly",
+          "timestamp": 1667173242
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carla Kelly",
+      "timestamp_ms": 1667172454148,
+      "content": "\u00c3\u0089 exatamente isso kkkkkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2960774580878016580"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645442012066,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carla Kelly",
+      "timestamp_ms": 1645440479970,
+      "content": "Eu na vida kk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2778250232237902525"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carla Kelly",
+      "timestamp_ms": 1635528828385,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2694896592823846152"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carla Kelly",
+      "timestamp_ms": 1628468133515,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628467505086,
+      "content": "Obrigado haha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Carla Kelly",
+          "timestamp": 1628468133
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carla Kelly",
+      "timestamp_ms": 1628459093280,
+      "content": "O bicho bonito nuhhh \u00e2\u009d\u00a4\u00ef\u00b8\u008f kkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2635969939199919071"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carla Kelly",
+  "is_still_participant": true,
+  "thread_path": "inbox/carlakelly_2666557810315667",
+  "magic_words": [
+    
+  ]
+}

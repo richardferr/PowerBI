@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Villas Boas"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777484329063,
+      "content": "Ah maravilha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Villas Boas",
+      "timestamp_ms": 1777446583640,
+      "content": "Eu vou pra Barcelo em dois dias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777418371209,
+      "content": "Passa aqui na Espanha",
+      "share": {
+        "link": "https://www.instagram.com/stories/daniellvilasboas/3885470471064148649"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Villas Boas",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielvillasboas_895424721856169",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "participants": [
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Piotr K\u00c5\u0082a\u00cc\u00a8b"
+    },
+    {
+      "name": "Monse Carballo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1770199758560,
+      "content": "That\u00e2\u0080\u0099s different",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1770158673025,
+      "content": "Piotr sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DURmt5ygqvm/?carousel_share_child_media_id=3824007151605663206_72277936942",
+        "share_text": "",
+        "original_content_owner": "polonised"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1770158066830,
+      "content": "Piotr sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00b3",
+          "actor": "Monse Carballo"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DTgcTkuiCmb/",
+        "share_text": "In Poland, pasta with strawberries and cream is a traditional seasonal dish, commonly eaten during summer when fresh strawberries are abundant.\n\nCultural food studies show that carbohydrate-based meals combined with fruit have long been part of Eastern European dietary traditions, especially in post-war cuisine.\n\nSuch dishes reflect regional food availability rather than modern nutritional trends.\n\nFollow @foodlty for more!\n\n#poland #foodculture #traditionalfood",
+        "original_content_owner": "explainedlearn"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769786516699,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1554693705751110.jpg",
+          "creation_timestamp": 1769786513
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1946131619446500.jpg",
+          "creation_timestamp": 1769786513
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1562774785006535.jpg",
+          "creation_timestamp": 1769786513
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1511157990427170.jpg",
+          "creation_timestamp": 1769786513
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/726796543635486.jpg",
+          "creation_timestamp": 1769786514
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1990742275123048.jpg",
+          "creation_timestamp": 1769786514
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1625931735435824.jpg",
+          "creation_timestamp": 1769786514
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1402840018206908.jpg",
+          "creation_timestamp": 1769786514
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Piotr K\u00c5\u0082a\u00cc\u00a8b"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769782242776,
+      "content": "We\u00e2\u0080\u0099re inside :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769780899621,
+      "content": "I\u00e2\u0080\u0099m on my way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769777442317,
+      "content": "See you at 3!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769777363337,
+      "content": "Thx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769777119734,
+      "content": "Ok, I\u00e2\u0080\u0099ll make the reservation",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769777020139,
+      "content": "I prefer 3pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769777014779,
+      "content": "Yeah, it\u00e2\u0080\u0099s cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769776978192,
+      "content": "Let me know if 2:30 or 3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769776437892,
+      "content": "Do you feel like having ramen? We can have something else if not hehe I was just suggesting this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769776411100,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1573736760416138.jpg",
+          "creation_timestamp": 1769776410
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769776407082,
+      "content": "But I can make a reservation if you want",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769776400421,
+      "content": "I don\u00e2\u0080\u0099t think so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769774031689,
+      "content": "Is it necessary to book?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769771872630,
+      "content": "Please you guys choose \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769771594824,
+      "content": "It\u00e2\u0080\u0099s ok for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769770261014,
+      "content": "https://maps.app.goo.gl/2uw4knY1GeVcMM719?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/2uw4knY1GeVcMM719?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/2uw4knY1GeVcMM719?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769769754730,
+      "content": "There\u00e2\u0080\u0099s a place close to my place and my friend says it\u00e2\u0080\u0099s the best ramen she has had",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769769731235,
+      "content": "Or maybe we could also have ramen?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769769724645,
+      "content": "I like honest greens too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769769712805,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769769673849,
+      "content": "@monsec7 What do u think?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769762669966,
+      "content": "it\u00e2\u0080\u0099s up to you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769762656148,
+      "content": "but maybe this one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769762652627,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/piotrklabandmonsecarballo_1261810145760239/photos/1861311701412983.jpg",
+          "creation_timestamp": 1769762651
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769762628531,
+      "content": "my proposals are honest greens - I like it and they have many vege options or begin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769762520768,
+      "content": "Do u have preference for restaurant?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769762491267,
+      "content": "I think could be better",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769762443965,
+      "content": "It\u00e2\u0080\u0099s fine that time, for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769760788530,
+      "content": "but cooking at home is good too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769759863413,
+      "content": "for me, we can even go to a restaurant for lunch, but I\u00e2\u0080\u0099m free from around 14:30 sorry :/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769759134480,
+      "content": "I think it will not posible to be at my place.  Any sugestion?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769759025624,
+      "content": "13h?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769729328468,
+      "content": "But what time?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769729325075,
+      "content": "Okay, yeah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769727678854,
+      "content": "it\u00e2\u0080\u0099s fine for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769725853512,
+      "content": "Could be to the lunch? I did need to change some plans",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1769725784303,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769723371526,
+      "content": "I don\u00e2\u0080\u0099t know haha and also, what are we going to eat? \u00f0\u009f\u00ab\u00a2\u00f0\u009f\u00ab\u00a2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Carballo",
+      "timestamp_ms": 1769723343086,
+      "content": "Hiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769723335628,
+      "content": "what time are we meeting tomorrow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769722800214,
+      "content": "hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piotr K\u00c5\u0082a\u00cc\u00a8b",
+      "timestamp_ms": 1769722783619,
+      "content": "Piotr created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Piotr K\u00c5\u0082a\u00cc\u00a8b and Monse Carballo",
+  "is_still_participant": true,
+  "thread_path": "inbox/piotrklabandmonsecarballo_1261810145760239",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "fenguel"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "fenguel",
+      "timestamp_ms": 1637585891120,
+      "content": "kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "fenguel",
+      "timestamp_ms": 1637585889943,
+      "content": "quem \u00c3\u00a9 sabe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1637580886231,
+      "content": "Kkkkkkklkkk \u00c3\u00b3dio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "fenguel",
+  "is_still_participant": true,
+  "thread_path": "inbox/fenguel_705999954124303",
+  "magic_words": [
+    
+  ]
+}

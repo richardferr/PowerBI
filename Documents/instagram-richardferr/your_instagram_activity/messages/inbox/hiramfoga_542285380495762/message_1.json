@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "hiram.foga"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1596232200525,
+      "content": "Hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "hiram.foga",
+      "timestamp_ms": 1595987436594,
+      "content": "O braaaabo das raves",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2363625699037542983"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "hiram.foga",
+  "is_still_participant": true,
+  "thread_path": "inbox/hiramfoga_542285380495762",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Lunna Rocha \u00f0\u009f\u008c\u00bb"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lunna Rocha \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1680100528571,
+      "content": "Obrigada meu amor \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1680101683
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lunna Rocha \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1680100524388,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1680099721721,
+      "content": "Feliz aniversario \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Lunna Rocha \u00f0\u009f\u008c\u00bb",
+          "timestamp": 1680100529
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lunna Rocha \u00f0\u009f\u008c\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/lunnarocha_1073554774035484",
+  "magic_words": [
+    
+  ]
+}

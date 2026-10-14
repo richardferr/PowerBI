@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Luiz Henrique"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luiz Henrique",
+      "timestamp_ms": 1670628787825,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670628243688,
+      "content": "muito obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Luiz Henrique",
+          "timestamp": 1670628787
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Henrique",
+      "timestamp_ms": 1670626738966,
+      "content": "Parab\u00c3\u00a9ns!!\nSucesso e tudo de bom!\n\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2989731649207359022"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Henrique",
+      "timestamp_ms": 1656087630918,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2867743931976338678"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Henrique",
+      "timestamp_ms": 1651026422716,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2825254027958022685"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Henrique",
+      "timestamp_ms": 1648508722944,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2804119587761446737"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Henrique",
+      "timestamp_ms": 1648225362775,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1648225755
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2801829600659861903"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luiz Henrique",
+  "is_still_participant": true,
+  "thread_path": "inbox/luizhenrique_810953636964533",
+  "magic_words": [
+    
+  ]
+}

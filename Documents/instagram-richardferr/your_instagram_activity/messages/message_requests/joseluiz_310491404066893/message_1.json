@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jose Luiz"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Luiz",
+      "timestamp_ms": 1623609384828,
+      "content": "Td",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luiz",
+      "timestamp_ms": 1623609384194,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose Luiz",
+  "is_still_participant": true,
+  "thread_path": "message_requests/joseluiz_310491404066893",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

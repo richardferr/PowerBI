@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "THE WAVE"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551843967710,
+      "content": "Tem lista pra divulga\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551843951482,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "THE WAVE",
+  "is_still_participant": true,
+  "thread_path": "inbox/thewave_551886712877589",
+  "magic_words": [
+    
+  ]
+}

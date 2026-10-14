@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Wallace Lara | Atitude Maxima"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wallace Lara | Atitude Maxima",
+      "timestamp_ms": 1666796569467,
+      "content": "Ja pensou em ser modelo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wallace Lara | Atitude Maxima",
+      "timestamp_ms": 1666796567211,
+      "content": "Sou dono da @maximatalents",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wallace Lara | Atitude Maxima",
+      "timestamp_ms": 1666796565415,
+      "content": "Richard seu perfil \u00c3\u00a9 muito bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wallace Lara | Atitude Maxima",
+  "is_still_participant": true,
+  "thread_path": "message_requests/wallacelaraatitudemaxima_1034002891329175",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

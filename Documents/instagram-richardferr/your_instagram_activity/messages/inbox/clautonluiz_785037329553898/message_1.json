@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Clauton Luiz"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Clauton Luiz",
+      "timestamp_ms": 1648006574519,
+      "content": "Tenho o macete \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard",
+          "timestamp": 1648009397
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647997410505,
+      "content": "entrou na bunda muito f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clauton Luiz",
+      "timestamp_ms": 1647879403436,
+      "content": "Kkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647878755335,
+      "content": "vc e a fiel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647878755013,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647833369991,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2798551572705631584"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Clauton Luiz",
+  "is_still_participant": true,
+  "thread_path": "inbox/clautonluiz_785037329553898",
+  "magic_words": [
+    
+  ]
+}

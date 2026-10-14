@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Frank E"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551891738134,
+      "content": "E bem vindo tbm \u00f0\u009f\u0096\u0096\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551891727719,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank E",
+      "timestamp_ms": 1551886226916,
+      "content": "Oi\u00c2\u00a0Richard,\u00c2\u00a0 bem vindo\u00c2\u00a0\u00f0\u009f\u0091\u00bd\u00f0\u009f\u0091\u00bd\u00f0\u009f\u0091\u00bd\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Frank E",
+  "is_still_participant": true,
+  "thread_path": "inbox/franke_590291469036413",
+  "magic_words": [
+    
+  ]
+}

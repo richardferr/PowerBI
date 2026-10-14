@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Mishel Valenzuela"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759607994246,
+      "content": "Disfruta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759607991586,
+      "content": "Ahhh vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mishel Valenzuela",
+      "timestamp_ms": 1759606529452,
+      "content": "No estoy en Valencia \u00f0\u009f\u00a5\u00b2 estoy en Italia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mishel Valenzuela",
+      "timestamp_ms": 1759606511324,
+      "content": "Holaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759599787859,
+      "content": "Tienen planes para hoy por la noche?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759599778722,
+      "content": "Hola, qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mishel Valenzuela",
+      "timestamp_ms": 1754244513506,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754174850328,
+      "content": "Que bonito lugar",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mishel Valenzuela"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mishel Valenzuela",
+  "is_still_participant": true,
+  "thread_path": "inbox/mishelvalenzuela_1688715335852755",
+  "magic_words": [
+    
+  ]
+}

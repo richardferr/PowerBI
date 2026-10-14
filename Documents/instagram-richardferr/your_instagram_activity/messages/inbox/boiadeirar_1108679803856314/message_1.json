@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "BOIADEIRA \u00c2\u00ae"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1684986143515,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3110211509733569429"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "BOIADEIRA \u00c2\u00ae",
+  "is_still_participant": true,
+  "thread_path": "inbox/boiadeirar_1108679803856314",
+  "magic_words": [
+    
+  ]
+}

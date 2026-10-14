@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Alanna Calisto"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alanna Calisto",
+      "timestamp_ms": 1650214823623,
+      "content": "eu tenho tantas pulseirinhas, queria ver as suas kjk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alanna Calisto",
+      "timestamp_ms": 1650214813622,
+      "content": "eu fiquei curioso pra saber quais as raves que vc j\u00c3\u00a1 foi kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alanna Calisto",
+      "timestamp_ms": 1650214803733,
+      "content": "me desculpe chamar assim do nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alanna Calisto",
+      "timestamp_ms": 1650214795014,
+      "content": "eiiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alanna Calisto",
+  "is_still_participant": true,
+  "thread_path": "message_requests/alannacalisto_804188860972078",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

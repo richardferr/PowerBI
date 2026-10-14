@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1682116996360,
+      "content": "Hey! We think our latest sunglasses collection would look fantastic on you, given your impeccable sense of style.\n\nMessage us at @vekkey.official, and we'll send you some free samples that you can keep! \u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1682116996029,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/vekkey.official",
+        "profile_share_username": "vekkey.official",
+        "profile_share_name": "VEKKEY EYEWEAR"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1087470555977239",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

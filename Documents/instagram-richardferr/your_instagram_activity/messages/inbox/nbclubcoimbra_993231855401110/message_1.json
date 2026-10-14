@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "NB CLUB COIMBRA"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735640913256,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NB CLUB COIMBRA",
+      "timestamp_ms": 1735639862109,
+      "content": "pode comprar junto da porta sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735636295523,
+      "content": "A venda ser\u00c3\u00a1 na porta? Ou onde posso comprar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NB CLUB COIMBRA",
+      "timestamp_ms": 1735630442324,
+      "content": "sem pulseira o consumo e 10 euros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NB CLUB COIMBRA",
+      "timestamp_ms": 1735630434767,
+      "content": "e com pulseira o consumo minimo e 5 euros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NB CLUB COIMBRA",
+      "timestamp_ms": 1735630426148,
+      "content": "bom dia a pulseira custa 1 euro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1735580270626,
+      "content": "Ol\u00c3\u00a1, boa tarde.\nTudo bem?\nEu gostaria de saber se haver\u00c3\u00a1 algum evento na NB de Coimbra na virada do ano. E se sim, como est\u00c3\u00a3o as vendas de pulseiras?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1674363156886,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3021099542176898104"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1674363032716,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671717683942,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2998907718343783127"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671028783559,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2993128805277539760"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671028756736,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2993128581100394947"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670980386405,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2992722785990343934"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "NB CLUB COIMBRA",
+  "is_still_participant": true,
+  "thread_path": "inbox/nbclubcoimbra_993231855401110",
+  "magic_words": [
+    
+  ]
+}

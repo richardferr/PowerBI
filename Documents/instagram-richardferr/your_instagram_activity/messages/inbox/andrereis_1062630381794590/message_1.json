@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Andr\u00c3\u00a9 Reis"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andr\u00c3\u00a9 Reis",
+      "timestamp_ms": 1678658339942,
+      "content": "Trabalho c\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9 Reis",
+      "timestamp_ms": 1678658336495,
+      "content": "Eu tamb\u00c3\u00a9m sou daqui de Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678655666618,
+      "content": "Estou morando aqui e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9 Reis",
+      "timestamp_ms": 1678655391576,
+      "content": "Que faz por Coimbra ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9 Reis",
+      "timestamp_ms": 1678655364861,
+      "content": "Tamb\u00c3\u00a9m tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678651703465,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9 Reis",
+      "timestamp_ms": 1678643167959,
+      "content": "Tudo bem? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678643114376,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9 Reis",
+      "timestamp_ms": 1678634293600,
+      "content": "Gatooo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3056858906476988659"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9 Reis",
+      "timestamp_ms": 1678634284293,
+      "content": "Andr\u00c3\u00a9 shared a story.",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3056858906476988659"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andr\u00c3\u00a9 Reis",
+  "is_still_participant": true,
+  "thread_path": "inbox/andrereis_1062630381794590",
+  "magic_words": [
+    
+  ]
+}

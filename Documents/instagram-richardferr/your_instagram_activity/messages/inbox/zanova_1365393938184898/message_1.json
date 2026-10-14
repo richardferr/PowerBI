@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Zanova"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zanova",
+      "timestamp_ms": 1720263478085,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3406129012030283648"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1720262324675,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3406129601615028206"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1720262256914,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3406129012030283648"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Zanova",
+  "is_still_participant": true,
+  "thread_path": "inbox/zanova_1365393938184898",
+  "magic_words": [
+    
+  ]
+}

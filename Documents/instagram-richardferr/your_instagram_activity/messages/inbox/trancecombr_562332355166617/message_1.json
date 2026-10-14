@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "TRANCE.com.br"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TRANCE.com.br",
+      "timestamp_ms": 1551986800439,
+      "content": "TRANCE.com.br sent an attachment.",
+      "share": {
+        "link": "https://psy.trance.com.br/resultado-mapa-trance-brasil",
+        "share_text": "Primeira pesquisa do movimento psy trance feita no Brasil"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "TRANCE.com.br",
+  "is_still_participant": true,
+  "thread_path": "inbox/trancecombr_562332355166617",
+  "magic_words": [
+    
+  ]
+}

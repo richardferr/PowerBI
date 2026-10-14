@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Marcus Rodrigo De Oliveira Lima"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcus Rodrigo De Oliveira Lima",
+      "timestamp_ms": 1693570283123,
+      "content": "Oie, eu sai do meu emprego e abri essa lojinha, se puder ajudar seguindo, curtindo, compartilhando e comprando hehe. Te agrade\u00c3\u00a7o muito \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\n\n\nhttps://instagram.com/flutoon",
+      "share": {
+        "link": "https://instagram.com/flutoon",
+        "share_text": "Oie, eu sai do meu emprego e abri essa lojinha, se puder ajudar seguindo, curtindo, compartilhando e comprando hehe. Te agrade\u00c3\u00a7o muito \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\n\n\nhttps://instagram.com/flutoon"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcus Rodrigo De Oliveira Lima",
+      "timestamp_ms": 1652111448645,
+      "content": "Te vi no app rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcus Rodrigo De Oliveira Lima",
+      "timestamp_ms": 1652111444870,
+      "content": "Ei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcus Rodrigo De Oliveira Lima",
+  "is_still_participant": true,
+  "thread_path": "message_requests/marcusrodrigodeoliveiralima_820234042700893",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

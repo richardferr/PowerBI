@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Matheus Ara\u00c3\u00bajo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matheus Ara\u00c3\u00bajo",
+      "timestamp_ms": 1657386589141,
+      "content": "Kkk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1657387008
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657382175548,
+      "content": "ohh ent\u00c3\u00a3o eu realmente estava bem perto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Ara\u00c3\u00bajo",
+      "timestamp_ms": 1657382106873,
+      "content": "De frente a dduck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657382092532,
+      "content": "onde voc\u00c3\u00aa mora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Ara\u00c3\u00bajo",
+      "timestamp_ms": 1657381968309,
+      "content": "Estava de frente minha casa ontem \u00f0\u009f\u00a4\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657380382713,
+      "content": "\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Ara\u00c3\u00bajo",
+      "timestamp_ms": 1657332252191,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2878223575302402308"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Matheus Ara\u00c3\u00bajo",
+  "is_still_participant": true,
+  "thread_path": "inbox/matheusaraujo_880516093349056",
+  "magic_words": [
+    
+  ]
+}

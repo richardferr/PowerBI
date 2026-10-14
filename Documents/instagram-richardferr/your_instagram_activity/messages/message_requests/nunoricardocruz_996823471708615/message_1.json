@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Nuno Ricardo Cruz"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nuno Ricardo Cruz",
+      "timestamp_ms": 1671297331717,
+      "content": "Ola boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nuno Ricardo Cruz",
+  "is_still_participant": true,
+  "thread_path": "message_requests/nunoricardocruz_996823471708615",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,447 @@
+{
+  "participants": [
+    {
+      "name": "Nicola"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761999814305,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761999005007,
+      "content": "La noche es perfecto, Nosotras tenemos escuela en el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761998111760,
+      "content": "Por la noche s\u00c3\u00ad, durante el d\u00c3\u00ada trabajar\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761998008550,
+      "content": "S\u00c3\u00ad, necesitamos hacerlo. Est\u00c3\u00a1s libre el martes? Queremos verte a ti, a Luca y a todos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761997623483,
+      "content": "Tenemos que hacer una despedida entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761947282270,
+      "content": "Nosotros tambi\u00c3\u00a9n estamos tristes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761946401699,
+      "content": "Ahora me quedar\u00c3\u00a9 triste :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761945700825,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761945671693,
+      "content": "S\u00c3\u00ad, el tiempo ha pasado muy r\u00c3\u00a1pido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761945588546,
+      "content": "Ohhh, pero ya?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761945583153,
+      "content": "Por fin, no vamos a salir, trabajos demasiado y estamos muy cansados",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nicola"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761914193769,
+      "content": "No, we leave Valencia on Saturday morning \u00f0\u009f\u0098\u00a2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761914158357,
+      "content": "Nicola sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQXLF9BjFsH/?carousel_share_child_media_id=3753517596306884499_61307521779",
+        "share_text": "",
+        "original_content_owner": "hifivalencia"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761914138337,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761914009223,
+      "content": "Are u two free on the next Saturday (08/11) at night?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761913970332,
+      "content": "Is it a disco?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761913445507,
+      "content": "I think it\u00e2\u0080\u0099s Halloween there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761913417391,
+      "content": "We were also thinking of going to HIFI if you have any interest in that?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761913358350,
+      "content": "Gio and me are searching some yet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761913324646,
+      "content": "All good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761912838267,
+      "content": "Where\u00e2\u0080\u0099s your Halloween party?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761912827901,
+      "content": "I\u00e2\u0080\u0099m good thanks, how are you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761912794979,
+      "content": "Let\u00e2\u0080\u0099s go?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761912781376,
+      "content": "I don\u00e2\u0080\u0099t think so, maybe some halloween party",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761912730715,
+      "content": "How are u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1761912727476,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1761911889662,
+      "content": "Are you going to Charlotte tonight?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758997821046,
+      "content": "so soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1758917435374,
+      "content": "We are back Sunday night",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758916941676,
+      "content": "n u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758916938161,
+      "content": "I\u00e2\u0080\u0099ll come back on Thursday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1758915650032,
+      "content": "You travel a lot! When are you back from Paris?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758913603358,
+      "content": "I\u00e2\u0080\u0099ve arrived from Madrid, but I\u00e2\u0080\u0099m gonna go to Paris on Monday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758913568978,
+      "content": "Oh u r very travellers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1758909998653,
+      "content": "Hey, we are in Menorca this weekend. Are you back from all your travelling?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758909909860,
+      "content": "Hey, do u wanna go to BigBen tonight? There is a lenguage exchange event n karaoke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1758747490406,
+      "content": "Oo wow that makes English look really complicated",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758717456466,
+      "content": "that language doesn\u00e2\u0080\u0099t have rules",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758717456182,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DNCA7EqS6MC/?id=3693518703850922754_72160952288",
+        "share_text": "",
+        "original_content_owner": "okay.ingles"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758701865610,
+      "content": "Like Portuguese",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1758686516409,
+      "content": "Nicola sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DN9IaYm2OaJ/?id=3710158665523193481_74224432807",
+        "share_text": "Comer \u00f0\u009f\u0087\u00aa\u00f0\u009f\u0087\u00b8 vs. To eat \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7\n\n#learningspanish #spanish #espa\u00c3\u00b1ol #ingles #english #conjugations #fyp #paratii #foryou #pourtoi #enzitorres #learningenglish #comer #toeat",
+        "original_content_owner": "enzi.torres"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1758686498014,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1758672283464,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Nicola"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DO66cy3DQ8m/?id=3727548707056193318_6279960623",
+        "share_text": "Qual l\u00c3\u00adngua voc\u00c3\u00aa prefere? \u00f0\u009f\u0098\u0082\n\n#ingles #meme #eua #engra\u00c3\u00a7ado #explorar #auladeingles #imigrante #viral",
+        "original_content_owner": "raphadoingles"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757666017766,
+      "content": "Guay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1757665553176,
+      "content": "Perfecto. Nos vemos en Charlotte.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757664460261,
+      "content": "Si quieren unirse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757664444694,
+      "content": "Despu\u00c3\u00a9s vamos a Charlote y creo que despu\u00c3\u00a9s a un karaoke",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757664412215,
+      "content": "Vamos a un restaurante cerca de ah\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757664386384,
+      "content": "Estoy bien tambi\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1757658373697,
+      "content": "\u00c2\u00bfCu\u00c3\u00a1l es tu plan?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1757658343697,
+      "content": "Courtney tiene algunos amigos de visita y pensamos llevarlos a Charlotte.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1757658341529,
+      "content": "Hola, bien y tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757629785669,
+      "content": "Tienen planes para ma\u00c3\u00b1ana por la noche?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757629775620,
+      "content": "Hola, qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1756805706207,
+      "content": "That\u00e2\u0080\u0099s crazy \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756802718812,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DOBrJYCCMSs/?id=3711437328209200300_508496934",
+        "share_text": "\u00f0\u009f\u0098\u0085 Have you ever tried to conjugate the verb fazer in Portuguese? Get ready: it\u00e2\u0080\u0099s nothing like the simple to do in English! \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7\u00e2\u009c\u00a8\n\nEvery foreign student I teach gets surprised when they realize how many different forms a single verb can take. But here\u00e2\u0080\u0099s the good news: with practice, each conjugation starts to feel natural \u00e2\u0080\u0094 and you\u00e2\u0080\u0099ll get there too! \u00f0\u009f\u0092\u00aa\n\n\u00f0\u009f\u0091\u0089 Now tell me: which Portuguese verb has made you laugh or almost give up studying? Share in the comments \u00e2\u00ac\u0087\u00ef\u00b8\u008f\n\nThanks @ffrei52 for allowing this remix \u00f0\u009f\u0099\u008f#portuguesewithregina #learnportuguese #",
+        "original_content_owner": "reginablunk"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicola",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicola_1715012879889667",
+  "magic_words": [
+    
+  ]
+}

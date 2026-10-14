@@ -1,0 +1,151 @@
+{
+  "participants": [
+    {
+      "name": "Joyce"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1653782513160,
+      "content": "Tabom, a\u00c3\u00ad voc\u00c3\u00aa me fala",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1653782506340,
+      "content": "Ahh sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1653781438969,
+      "content": "Hoje ele t\u00c3\u00a1 em uma festa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1653781433050,
+      "content": "Se ele animar dduck semana que vem te aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1653781419490,
+      "content": "Chamei j\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1653781416531,
+      "content": "Simmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1653781358464,
+      "content": "Depois vamos chamar ele para dar um rol\u00c3\u00aa haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1653781348563,
+      "content": "Eu vi uns stories dele na pampulha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1653781336951,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1653776872109,
+      "content": "Voc\u00c3\u00aa viu que nosso amigo Vidal voltou pro BR?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1653776860225,
+      "content": "Oi amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1641330137724,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641302718967,
+      "content": "Tabom, voltando vc avisa \u00f0\u009f\u0098\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Joyce",
+          "timestamp": 1641330137
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1641287822607,
+      "content": "Eu estou indo pra Goi\u00c3\u00a2nia, mas m\u00c3\u00aas que vem t\u00c3\u00b4 de volta a\u00c3\u00ad vamos sair. \u00f0\u009f\u0092\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joyce",
+      "timestamp_ms": 1641287800767,
+      "content": "Oi, maravilhoso! Vamos marcar sim.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641270305668,
+      "content": "Depois vamos marcar um rol\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641270298221,
+      "content": "Adoramos voc\u00c3\u00aa, muito gnt boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641270290276,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joyce",
+  "is_still_participant": true,
+  "thread_path": "inbox/joyce_734047417986223",
+  "magic_words": [
+    
+  ]
+}

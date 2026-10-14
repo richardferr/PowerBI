@@ -1,0 +1,257 @@
+{
+  "participants": [
+    {
+      "name": "5728.fernando"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683131750268,
+      "content": "Pois \u00f0\u009f\u0098\u0088\u00f0\u009f\u0098\u0088",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683131462198,
+      "content": "\u00c3\u0089 mesmo adorava te conhecer \u00f0\u009f\u0099\u0082\u00f0\u009f\u00a4\u00aa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683241878
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683131132531,
+      "content": "Que pena n\u00c3\u00a3o vir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683127533587,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683122502377,
+      "content": "E j\u00c3\u00a1 n\u00c3\u00a3o vou \u00e2\u0098\u00b9\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683122483834,
+      "content": "Era para ir a\u00c3\u00ad amanh\u00c3\u00a3, mas a minha sobrinha j\u00c3\u00a1 teve beb\u00c3\u00aa, meu sobrinho neto hehehe \u00f0\u009f\u0098\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683119733584,
+      "content": "Quando vens a Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683118755047,
+      "content": "Podemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683117807218,
+      "content": "Bacana seria conhecer-te pessoalmente Kkkkkk \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683111562493,
+      "content": "Ahh que bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683109552398,
+      "content": "Eu sou natural de Ansi\u00c3\u00a3o \u00e2\u009d\u00a4\u00ef\u00b8\u008f um concelho a sul de Coimbra",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683117450
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683109379964,
+      "content": "Eu vivo em Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683108714712,
+      "content": "E tu onde vives?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683108703077,
+      "content": "Mas sou natural aqui da zona centro onde estou esta semana a visitar a fam\u00c3\u00adlia \u00f0\u009f\u0098\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683108642988,
+      "content": "Vivo em Sesimbra pr\u00c3\u00b3ximo de Lisboa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683108026634,
+      "content": "Vives onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683102623483,
+      "content": "\u00f0\u009f\u0098\u009c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683103741
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683102378765,
+      "content": "Obrigado rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683099429650,
+      "content": "\u00c3\u0089s lindo mi\u00c3\u00bado giro hehehe \u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683098361864,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683099074
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3093992274678318927"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683098137283,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683099073
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/1966443477781455667"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683098039085,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683099067
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3077326937806643521"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683097985166,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683099070
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2867743931976338678"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "5728.fernando",
+      "timestamp_ms": 1683097966491,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683099071
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2712701136795802422"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "5728.fernando",
+  "is_still_participant": true,
+  "thread_path": "inbox/5728fernando_1094634578594170",
+  "magic_words": [
+    
+  ]
+}

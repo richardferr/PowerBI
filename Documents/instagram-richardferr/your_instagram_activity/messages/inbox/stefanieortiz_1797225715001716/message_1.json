@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "stefanie ortiz \u00f0\u009f\u0096\u00a4"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1764846442497,
+      "content": "Que malo, que te quedes bien pronto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "stefanie ortiz \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1764835288299,
+      "content": "No tan bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "stefanie ortiz \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1764835285416,
+      "content": "Bueno estoy con gripe \u00f0\u009f\u00a4\u00a7 jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "stefanie ortiz \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1764835259934,
+      "content": "Holiii bien y t\u00c3\u00ba ?? \nEn la pr\u00c3\u00b3xima me apunto ! \nA otro plan que hag\u00c3\u00a1is :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1764774637674,
+      "content": "Est\u00c3\u00a1 bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1764774634371,
+      "content": "Qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1764774629580,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "stefanie ortiz \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1764773175351,
+      "content": "Te escribo porque alfinal\nNo ir\u00c3\u00a9 el s\u00c3\u00a1bado a la diva !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "stefanie ortiz \u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1764773134586,
+      "content": "Helloooo !!\nAmiguito de intercambios jajajajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "stefanie ortiz \u00f0\u009f\u0096\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/stefanieortiz_1797225715001716",
+  "magic_words": [
+    
+  ]
+}

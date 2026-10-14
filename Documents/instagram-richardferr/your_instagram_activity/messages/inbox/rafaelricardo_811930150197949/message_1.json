@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Rafael Ricardo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafael Ricardo",
+      "timestamp_ms": 1651172498519,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00be",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1651172564
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651172089372,
+      "content": "Por isso uso mais aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Ricardo",
+      "timestamp_ms": 1651172073617,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651172048877,
+      "content": "estou trabalhando, n\u00c3\u00a3o posso ficar com o app aberto no pc toda hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Ricardo",
+      "timestamp_ms": 1651171713707,
+      "content": "Se n curtiu \u00c3\u00a9 s\u00c3\u00b3 dizer poh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Ricardo",
+      "timestamp_ms": 1651171707071,
+      "content": "Tenho a vers\u00c3\u00a3o paga eu consigo ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Ricardo",
+      "timestamp_ms": 1651171694791,
+      "content": "Mas vc t\u00c3\u00a1 visualizado minha msg e n responde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651171677251,
+      "content": "N\u00c3\u00a3o uso muito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651171671653,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Ricardo",
+      "timestamp_ms": 1651171607701,
+      "content": "Pq n me responde no app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafael Ricardo",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafaelricardo_811930150197949",
+  "magic_words": [
+    
+  ]
+}

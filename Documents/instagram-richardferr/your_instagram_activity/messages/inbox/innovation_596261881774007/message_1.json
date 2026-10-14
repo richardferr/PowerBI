@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "INNOVATION"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551893193185,
+      "content": "Tem lista para divulga\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1551893187746,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "INNOVATION",
+  "is_still_participant": true,
+  "thread_path": "inbox/innovation_596261881774007",
+  "magic_words": [
+    
+  ]
+}

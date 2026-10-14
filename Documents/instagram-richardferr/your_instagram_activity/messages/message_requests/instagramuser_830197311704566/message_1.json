@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1653315392479,
+      "content": "Se n\u00c3\u00a3o quiser clicar no link que enviei pode me adicionar, meu n\u00c3\u00bamero \u00c3\u00a9 12982693146 ou se preferir pode me passar o seu n\u00c3\u00bamero e entrarei em contato.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1653315382730,
+      "content": "Ol\u00c3\u00a1 tudo bem? \nVoc\u00c3\u00aa passou por uma avalia\u00c3\u00a7\u00c3\u00a3o on-line atrav\u00c3\u00a9s das suas fotos e o seu perfil foi aprovado! \nVi que voc\u00c3\u00aa tem o perfil que algumas parcerias nos pedem e queremos que voc\u00c3\u00aa fa\u00c3\u00a7a parte da Sky Model!! \nCaso tenha interesse em saber mais informa\u00c3\u00a7\u00c3\u00b5es clique no link \r\nabaixo e seja direcionada automaticamente para o atendimento.\n\r\nhttps://api.whatsapp.com/send?phone=5512982693146",
+      "share": {
+        "link": "https://api.whatsapp.com/send?phone=5512982693146"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_830197311704566",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Henrique"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1547969537438,
+      "content": "Bom dia pr\u00c3\u00adncipe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1547846506042,
+      "content": "Vc tem zap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1547846499668,
+      "content": "Riacho contagem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1547836817059,
+      "content": "S\u00c3\u00a3o Gabriel e vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1547761204789,
+      "content": "Vc mora aonde aonde em bh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1547761194902,
+      "content": "Por nada pr\u00c3\u00adncipe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1547760342918,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1547682242773,
+      "content": "Lindo vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Henrique",
+      "timestamp_ms": 1547682237946,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Henrique",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunohenrique_595130851888047",
+  "magic_words": [
+    
+  ]
+}

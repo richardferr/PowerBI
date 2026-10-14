@@ -1,0 +1,149 @@
+{
+  "participants": [
+    {
+      "name": "Ludmila Gomes"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1696778148059,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1696773784063,
+      "content": "Depois vou ligar para ti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1696773768355,
+      "content": "Agora vc mora muito longe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1696731495981,
+      "content": "saudades demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1696729623103,
+      "content": "Saudade de voc\u00c3\u00aa marido \u00f0\u009f\u0092\u0097",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3208630422484624984"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1696729609593,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3208630341048133588"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1684282149155,
+      "content": "Saudades",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1684282144271,
+      "content": "Obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1684271453974,
+      "content": "Marido vc est\u00c3\u00a1 lindo em como sempre \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3104189768404939052"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1635729401422,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2696968959600369790"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1624913055597,
+      "content": "31973634587",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1624913046531,
+      "content": "Oiiiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1624878220836,
+      "content": "Perdir os meus contatos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1624878212042,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1624878209317,
+      "content": "Me manda seu ZAP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1624878203577,
+      "content": "Marido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ludmila Gomes",
+      "timestamp_ms": 1624878201197,
+      "content": "Eiiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ludmila Gomes",
+  "is_still_participant": true,
+  "thread_path": "inbox/ludmilagomes_1057456378117020",
+  "magic_words": [
+    
+  ]
+}

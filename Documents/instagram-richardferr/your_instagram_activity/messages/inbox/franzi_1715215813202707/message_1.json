@@ -1,0 +1,107 @@
+{
+  "participants": [
+    {
+      "name": "F r a n z i"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "F r a n z i",
+      "timestamp_ms": 1760281042587,
+      "content": "Muy biiiiien!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F r a n z i",
+      "timestamp_ms": 1760281037753,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1760266529935,
+      "content": "Fue una buena noche, jugamos y bailamos un poco",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "F r a n z i"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1760266504556,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F r a n z i",
+      "timestamp_ms": 1760261329003,
+      "content": "Siii llegu\u00c3\u00a9 bien! Y vosotros qu\u00c3\u00a9 tal os pasasteis ayer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1760235822223,
+      "content": "Ya llegaste en casa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756853014634,
+      "content": "Est\u00c3\u00a1 bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F r a n z i",
+      "timestamp_ms": 1756849065308,
+      "content": "Pero otro d\u00c3\u00ada \u00f0\u009f\u0092\u00af\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F r a n z i",
+      "timestamp_ms": 1756849038280,
+      "content": "Holaaaa perdonaaa que hoy no he tenido tiempo, estaba entrenando y despu\u00c3\u00a9s qued\u00c3\u00a9 con amigos para cenar\u00e2\u0080\u00a6 \u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756822025293,
+      "content": "Tienes planes para hoy? Pensaba en ir a Palau Alameda y invitarte para unirte a nosotros (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756822015941,
+      "content": "Tienes planes para hoy? Pensaba en un a Palau Alameda y invitarte para unirte a nosotros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756821984674,
+      "content": "Hola, qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "F r a n z i",
+  "is_still_participant": true,
+  "thread_path": "inbox/franzi_1715215813202707",
+  "magic_words": [
+    
+  ]
+}

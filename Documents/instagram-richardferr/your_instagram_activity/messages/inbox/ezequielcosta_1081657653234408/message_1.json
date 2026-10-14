@@ -1,0 +1,535 @@
+{
+  "participants": [
+    {
+      "name": "Ezequiel Costa"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672100532543,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672100524835,
+      "content": "Bacana demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672100519877,
+      "content": "Sim, trabalho e estudo a dist\u00c3\u00a2ncia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ezequiel Costa",
+          "timestamp": 1672100532
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672100248098,
+      "content": "Trabalho como suporte t\u00c3\u00a9cnico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672100236088,
+      "content": "Estuda a dist\u00c3\u00a2ncia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672100219974,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672100218210,
+      "content": "Estudo no Brasil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672100214000,
+      "content": "N\u00c3\u00a3o, eu s\u00c3\u00b3 vim mesmo rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672099705877,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ezequielcosta_1081657653234408/audio/901014371074108.mp4",
+          "creation_timestamp": 1672099703
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672099678608,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ezequielcosta_1081657653234408/audio/637734978107907.mp4",
+          "creation_timestamp": 1672099676
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672098008484,
+      "content": "\u00c3\u0089 tranquilo para voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672098003018,
+      "content": "\u00c3\u0089 melhor ao final de semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672096853767,
+      "content": "Tenho que ver um dia quando \u00c3\u00a9  melhor pra ti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672096828434,
+      "content": "Nao me importo animo sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672095668891,
+      "content": "Voc\u00c3\u00aa anima vir aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672095663404,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093728425,
+      "content": "De estarmos juntos e conversar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093719408,
+      "content": "Temos de combinar um dia desses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093696436,
+      "content": "Muito bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672093687721,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672093685660,
+      "content": "Prefer\u00c3\u00aancia por algo casual, mas estou aberto ao que rolar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093575667,
+      "content": "O que busca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093571985,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672093533096,
+      "content": "Voc\u00c3\u00aa tamb\u00c3\u00a9m \u00c3\u00a9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ezequiel Costa",
+          "timestamp": 1672093571
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672093526742,
+      "content": "E o seu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672093523119,
+      "content": "Um pouco corrido, mas foi bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093467091,
+      "content": "Es bem giro sabias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093442603,
+      "content": "Como foi o dia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672093438960,
+      "content": "Estou bem Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672093332945,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672093329617,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672092813158,
+      "content": "Como estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672092810914,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672010561056,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1672010944
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672010556404,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672009964333,
+      "content": "Haha isso \u00c3\u00a9 bom",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ezequiel Costa",
+          "timestamp": 1672010556
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672009343580,
+      "content": "Assim nao vais embora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672009338697,
+      "content": "Vamos nos conhcendo melhor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672009314436,
+      "content": "Por qu\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672008645130,
+      "content": "Ainda bem que vais ficar aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672008633832,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672008631686,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672006145658,
+      "content": "Ent\u00c3\u00a3o fica mais f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672006141355,
+      "content": "Eu vou morar aqui",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ezequiel Costa",
+          "timestamp": 1672008633
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672006129365,
+      "content": "Podemos combinar um final de semana ent\u00c3\u00a3o",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ezequiel Costa",
+          "timestamp": 1672008631
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672005416370,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ezequielcosta_1081657653234408/audio/558123509168347.mp4",
+          "creation_timestamp": 1672005414
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672005401414,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ezequielcosta_1081657653234408/audio/505664848220174.mp4",
+          "creation_timestamp": 1672005399
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672005029745,
+      "content": "Quando voc\u00c3\u00aa vir\u00c3\u00a1 aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672005022989,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004974666,
+      "content": "Fica uns 40 min de comboio se nao me engano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672004931207,
+      "content": "Mas fica em Coimbra mesmo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004859973,
+      "content": "Vila franca de xira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004857202,
+      "content": "Nao \u00c3\u00a9  tao longe assim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672004811694,
+      "content": "Sua cidade fica onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672004804928,
+      "content": "Isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004713864,
+      "content": "Vives em Coimbra certo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004699650,
+      "content": "Estou bem melhor agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672004684470,
+      "content": "Estou bem e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672004680044,
+      "content": "Haha voc\u00c3\u00aa \u00c3\u00a9 o giro, no caso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004633998,
+      "content": "Td bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004630525,
+      "content": "Ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004629228,
+      "content": "\u00c3\u0089  o giro que estava a falar comigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672004612918,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004480889,
+      "content": ":",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ezequiel Costa",
+      "timestamp_ms": 1672004479326,
+      "content": "Ola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ezequiel Costa",
+  "is_still_participant": true,
+  "thread_path": "inbox/ezequielcosta_1081657653234408",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,2810 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1671029342023,
+      "content": "Vai fazer especializa\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671028992533,
+      "content": "E estudar tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980878781,
+      "content": "Vc foi pra trabalhar ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980872806,
+      "content": "Vai rolar kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980868805,
+      "content": "Mas ainda tenho a f\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980859106,
+      "content": "Juro que n\u00c3\u00a3o \u00c3\u00a9 pq quero kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670980839475,
+      "content": "voc\u00c3\u00aa \u00c3\u00a9 muito enrolado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980819717,
+      "content": "Aff, n\u00c3\u00a3o acredito que eu n\u00c3\u00a3o te beijei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670980762211,
+      "content": "sim rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980523462,
+      "content": "Eita! S\u00c3\u00a9rio? Vai morar em portuga?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670980482721,
+      "content": "vim para morar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670980478793,
+      "content": "hmm acho que demora agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980317146,
+      "content": "Quando volta pra bh?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670980175640,
+      "content": "vamoo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670980111460,
+      "content": "Me beija",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670672885456,
+      "content": "Muito obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1670647561653,
+      "content": "Parab\u00c3\u00a9ns lindo! Tudo de bommm \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2989863790365838797"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1660958500620,
+      "content": "obrigado, gatinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1660957106752,
+      "content": "Parab\u00c3\u00a9nssssss",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2908639826174288691"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1660956918526,
+      "content": "hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1660956120263,
+      "content": "Amo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2908626515835904500"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1658843895145,
+      "content": "s\u00c3\u00b3 enrola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1658801363676,
+      "content": "Ainda quero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1658801291440,
+      "content": "j\u00c3\u00a1 deveria ter sentado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1658795034690,
+      "content": "Que vontade de sentar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1658795034098,
+      "share": {
+        "link": "https://www.instagram.com/p/Cgc6cXZvRV-a9smuwzDvO-4FBK-kFDb2AdLgmY0/?carousel_share_child_media_id=2890442096835892606_10124873647",
+        "share_text": "\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0098\u008e",
+        "original_content_owner": "richardferr.ra"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1655087971028,
+      "content": "kkkkkkk bobo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1655087658804,
+      "content": "S\u00c3\u00b3 prestei aten\u00c3\u00a7\u00c3\u00a3o na beleza",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2859404121722559995"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648399618950,
+      "content": "T\u00c3\u00a1 bom ent\u00c3\u00a3o gato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648399456338,
+      "content": "Ahh depois vou assistir ela ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648398942384,
+      "content": "Eu gostei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648398867593,
+      "content": "Essa \u00c3\u00a9 boa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648354138976,
+      "content": "Eu assisti bridgerton",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648354106012,
+      "content": "Naooo, mas tava na minha lista",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648354095890,
+      "content": "S\u00c3\u00a9rio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648354092601,
+      "content": "Uai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648353847943,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/5094138554011571.mp4",
+          "creation_timestamp": 1648353848
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648353838812,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/5096649383725415.mp4",
+          "creation_timestamp": 1648353838
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353632004,
+      "content": "T\u00c3\u00a1 vendo qual?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353627090,
+      "content": "A gente combina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353616579,
+      "content": "Brincadeira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353614006,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353612010,
+      "content": "Se vc quiser podemos ver Netflix a\u00c3\u00ad na sua casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353592314,
+      "content": "A gente resolve durante a semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353580761,
+      "content": "Isso \u00c3\u00a9 f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648353278369,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/333581285407464.mp4",
+          "creation_timestamp": 1648353278
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648353260415,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/996650321273887.mp4",
+          "creation_timestamp": 1648353260
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353068605,
+      "content": "A\u00c3\u00ad a gente combina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353063864,
+      "content": "Mas posso ir pra casa da minha amiga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353054478,
+      "content": "N\u00c3\u00a3o tenho planos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648353048629,
+      "content": "Escutei um barulho de Netflix kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648352597097,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/1983646521843951.mp4",
+          "creation_timestamp": 1648352597
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648352348319,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648352347586,
+      "content": "Vc quer fazer oq",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648352335247,
+      "content": "Se minha semana na faculdade for tranquila, acho que vou estar tamb\u00c3\u00a9m kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648351960960,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/934886827178939.mp4",
+          "creation_timestamp": 1648351961
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351778973,
+      "content": "Que \u00c3\u00b3dio kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351768081,
+      "content": "Pra eu poder te dar um beijoooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351650903,
+      "content": "Que dia a?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351647624,
+      "content": "Mas vamos marcar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351640797,
+      "content": "Para de show",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351638040,
+      "content": "Deu simmmmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351625016,
+      "content": "A gente passa um pano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351619992,
+      "content": "Pode ser os dois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351606257,
+      "content": "Pregui\u00c3\u00a7oso kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351602772,
+      "content": "J\u00c3\u00a1 que gosta que ficar mais em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351595698,
+      "content": "Mas vc n\u00c3\u00a3o pode reclamar uai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648351590917,
+      "content": "O famoso convida por educa\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648351256770,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/2513255138808805.mp4",
+          "creation_timestamp": 1648351256
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648351248421,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/731944507788812.mp4",
+          "creation_timestamp": 1648351248
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648351241588,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/1152669618899153.mp4",
+          "creation_timestamp": 1648351241
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350686734,
+      "content": "Podemos marcar kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350683382,
+      "content": "Se vc n\u00c3\u00a3o for me dar outro bolo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350670357,
+      "content": "Vc \u00c3\u00a9 uma pessoa muito boa em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350658057,
+      "content": "Na casa de uma amiga que vc disse que nunca te chamou na casa dela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350636406,
+      "content": "E voltar de madrugada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350632359,
+      "content": "Ir pra Neves tarde da noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350625583,
+      "content": "Que aventura kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350622205,
+      "content": "Meu Deus do c\u00c3\u00a9u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648350470128,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/650801946223647.mp4",
+          "creation_timestamp": 1648350470
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648350464414,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gustavooliveira_733220918068873/audio/5862159090485468.mp4",
+          "creation_timestamp": 1648350464
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350069388,
+      "content": "Tadinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350063864,
+      "content": "Muito tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350059995,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350057540,
+      "content": "Senhor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350055358,
+      "content": "Mas vc mora perto pelo menos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648350049158,
+      "content": "Miseric\u00c3\u00b3rdia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648349659644,
+      "content": "Mas deu tudo certo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648349656364,
+      "content": "Da madrugada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648349653417,
+      "content": "Cheguei em casa as 3:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648349647994,
+      "content": "Simmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648309163948,
+      "content": "Deu certo a vida de marceneiro ontem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648309155699,
+      "content": "Eu t\u00c3\u00b4 bem, e vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648309049806,
+      "content": "Como voc\u00c3\u00aa est\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648309044765,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648301349822,
+      "content": "Ent\u00c3\u00a3o t\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648301347547,
+      "content": "Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648301346461,
+      "content": "Aiai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648274844968,
+      "content": "Voc\u00c3\u00aa quem \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648274840249,
+      "content": "Eu nada rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648258220411,
+      "content": "Enrolado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648258159638,
+      "content": "Obrigado rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1648255890519,
+      "content": "gatinhoo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2802093611561310214"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646745483452,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1646741100492,
+      "content": "Uma formiga",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2788995009670372451"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1646241063279,
+      "content": "\u00f0\u009f\u0099\u0083\u00f0\u009f\u0099\u0083\u00f0\u009f\u0099\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646188667060,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645740828577,
+      "content": "Pode deixar ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645740122788,
+      "content": "Salva como \u00e2\u0080\u009cAmor da minha vida\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645740112513,
+      "content": "31973634587",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645740105597,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645737357319,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645737356597,
+      "content": "Me passa seu WhatsApp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645737356273,
+      "content": "Gatinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645446675896,
+      "content": "T\u00c3\u00a1 fazendo o que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645446668569,
+      "content": "Tudo bem tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645442271730,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645442063294,
+      "content": "Como c t\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645442057716,
+      "content": "Bomm dia gatinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645442021997,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645442020102,
+      "content": "N\u00c3\u00a9 kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645441983022,
+      "content": "Tem que sair kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645441978651,
+      "content": "Vai sairrrr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645417073677,
+      "content": "S\u00c3\u00b3 quero ver se esse date sai mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645417065268,
+      "content": "Vamos nos conhecendo ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645417058675,
+      "content": "Tabom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645417056822,
+      "content": "Hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645415149549,
+      "content": "Esses clichezinhos baratos kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645415138337,
+      "content": "O que gosta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645415136162,
+      "content": "Saber o que faz da vida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645415130514,
+      "content": "Quero te conhecer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645415119503,
+      "content": "\u00c3\u0089 exatamente isso ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645414549669,
+      "content": "Fica at\u00c3\u00a9 melhor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645414544306,
+      "content": "E pega intimidade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645414540849,
+      "content": "Bom que a gnt se conhece bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645414535084,
+      "content": "Por mim tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645414530331,
+      "content": "De boa rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645414012271,
+      "content": "\u00f0\u009f\u0099\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645414008878,
+      "content": "Mas eu quero tranquilinho primeiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413983354,
+      "content": "T\u00c3\u00a1 tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413981140,
+      "content": "N\u00c3\u00a3o kkk, eu entendi, rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413940523,
+      "content": "Claro rs eu falei, mas n\u00c3\u00a3o quis dizer no primeiro rol\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413923582,
+      "content": "Ahh que \u00c3\u00b3timo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413868692,
+      "content": "Quero ter mais motivo pra ver vc novamente kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413832440,
+      "content": "Pra ver se rola uma qu\u00c3\u00admica legal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413823014,
+      "content": "Mas acho que a gente pode sair pra se conhecer, normal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413786394,
+      "content": "Sou passivo kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413756002,
+      "content": "Sou ativo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413714939,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413713575,
+      "content": "O que voc\u00c3\u00aa curte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413709397,
+      "content": "A gente n\u00c3\u00a3o falou sobre, eu acho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413701818,
+      "content": "Outra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413699324,
+      "content": "Ent\u00c3\u00a3o t\u00c3\u00a1 beleza ahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413681841,
+      "content": "Mas posso te chamar quando ficar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413675361,
+      "content": "Aqui em casa a noite \u00c3\u00a9 dif\u00c3\u00adcil eu ficar sozinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413666112,
+      "content": "Lugar a gnt arruma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413658745,
+      "content": "Pergunta n\u00c3\u00bamero 1 kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413641172,
+      "content": "E onde seria ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413638207,
+      "content": "Eita ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413578570,
+      "content": "Eu e voc\u00c3\u00aa numa cama, peladinhos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645413360677,
+      "content": "Ahahahah, e como seria esse date, em?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413290810,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413289562,
+      "content": "Se quiser um date mais quente eu topo tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645413280731,
+      "content": "Haha tabom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645398062785,
+      "content": "Eu te chamo pra gente combinar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645398057751,
+      "content": "Pode deixar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645398055810,
+      "content": "T\u00c3\u00a1 beleza ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645392110278,
+      "content": "A\u00c3\u00ad a gnt combina direitinho o que vamos fazer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645392100637,
+      "content": "Quando for o dia que quiser, me fala ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645392086607,
+      "content": "Showw",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645389463633,
+      "content": "Eu tamb\u00c3\u00a9m \u00f0\u009f\u0099\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645389457244,
+      "content": "Ahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645389333642,
+      "content": "Ohh eu topo hein",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645388520748,
+      "content": "Podem virar dois dates ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645388370896,
+      "content": "Pode ser at\u00c3\u00a9 os dois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645388364332,
+      "content": "Eu topo qualquer um rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384895983,
+      "content": "Filme ou bar ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384891080,
+      "content": "Prefere*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384883508,
+      "content": "O que vc preferi?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645384728398,
+      "content": "Gosto sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645384726157,
+      "content": "Eu pensei o mesmo rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384306022,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384305246,
+      "content": "Vc gosta de cinema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384296924,
+      "content": "Que bomm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384293030,
+      "content": "Eu achei que tivesse esquecido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384288055,
+      "content": "A\u00c3\u00ad como vc n\u00c3\u00a3o disse mais nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645384282867,
+      "content": "Esqueci n\u00c3\u00a3o kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645384030987,
+      "content": "Quero sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645384027975,
+      "content": "Achei que j\u00c3\u00a1 tinha esquecido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645384021912,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1645384019883,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645383773680,
+      "content": "Se vc ainda quiser ahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645383770215,
+      "content": "In\u00c3\u00adcio de mar\u00c3\u00a7o t\u00c3\u00a1 a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645383764715,
+      "content": "N\u00c3\u00a3o esqueci de vc n\u00c3\u00a3o em kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1645383759573,
+      "content": "Ei gato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643508070946,
+      "content": "\u00f0\u009f\u00a4\u00a4\u00f0\u009f\u00a4\u00a4\u00f0\u009f\u00a4\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643506334121,
+      "content": "Sem pensar 2 vezes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643501888754,
+      "content": "Me beija",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643496105384,
+      "content": "Gato",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2762151597917298670"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643480371530,
+      "content": "E o meu, melhor aindaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643480295334,
+      "content": "Ahh isso faria meu dia melhor, com certeza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643480027220,
+      "content": "Na verdade, te dando um beijo estaria melhor ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643480014448,
+      "content": "Melhor agora, rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643479940916,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643479938745,
+      "content": "Estou bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643479542576,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643479541107,
+      "content": "Como vc est\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643478336752,
+      "content": "Seu lindooo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1643479379
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643478332822,
+      "content": "Gostoso \u00c3\u00a9 vccc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643334164840,
+      "content": "que gostoso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643334146498,
+      "content": "Claro, sem problemas rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643280083402,
+      "content": "Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643280081983,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643280080880,
+      "content": "Podemos marcar depois desse dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643237655712,
+      "content": "Haha eu te entendo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643233194616,
+      "content": "Mkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643233193143,
+      "content": "Quando a alegria chega no bolso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643233186884,
+      "content": "Agora, s\u00c3\u00b3 no in\u00c3\u00adcio do m\u00c3\u00aas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643218319051,
+      "content": "Quando voc\u00c3\u00aa pode?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643210154560,
+      "content": "Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643210152582,
+      "content": "Quando ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643210122211,
+      "content": "Rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643210120636,
+      "content": "Vamo logo re",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643202822268,
+      "content": "Deixo que beijar essa sua boquinha ahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643202216958,
+      "content": "Haha temos diveras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643201746128,
+      "content": "A gente tem que marcar nosso rol\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643201735864,
+      "content": "\u00c3\u0089 o tempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643201732546,
+      "content": "N\u00c3\u00a3o enrolo kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643168132278,
+      "content": "Mas s\u00c3\u00b3 enrola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643165273137,
+      "content": "Quero demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643165270294,
+      "content": "N\u00c3\u00a3o fala isso kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643165262017,
+      "content": "Meu Deus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643165220489,
+      "content": "Ali\u00c3\u00a1s, j\u00c3\u00a1 passou de hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643165210164,
+      "content": "Deve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643164730935,
+      "content": "Posso ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643164728114,
+      "content": "Nossa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643164675548,
+      "content": "Me bj ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643164671978,
+      "content": "Haha obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643164075822,
+      "content": "E vc tamb\u00c3\u00a9m \u00c3\u00a9 ahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643164070962,
+      "content": "Simmmm, muito !!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643163844851,
+      "content": "Ele \u00c3\u00a9 lindinho mesmo \u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1643146965074,
+      "content": "Coisa mais linda meu Deus",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2759224937418755533"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1642696949363,
+      "content": "Olha quem fala ahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642643302266,
+      "content": "gato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641908697407,
+      "content": "Vccc \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641871816474,
+      "content": "que gato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641395413463,
+      "content": "Tabom \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641351158116,
+      "content": "Qualquer coisa, s\u00c3\u00b3 me falar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641351152411,
+      "content": "Okey lindao !!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641349758098,
+      "content": "Amanh\u00c3\u00a3 ao longo do dia eu j\u00c3\u00a1 olho rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641349750903,
+      "content": "Dmr rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641323261982,
+      "content": "\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641323259330,
+      "content": "Ansioso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641323254940,
+      "content": "S\u00c3\u00b3 me falar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641323252074,
+      "content": "Quando tiver pensando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641323239524,
+      "content": "Ent\u00c3\u00a3o todo mundo de boa aha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641321668072,
+      "content": "Vou dar uma olhada nos lugares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641321657954,
+      "content": "Ent\u00c3\u00a3o \u00c3\u00a9 de boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641321653640,
+      "content": "Eu n\u00c3\u00a3o como, mas n\u00c3\u00a3o ligo de frequentar lugar que serve rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320948544,
+      "content": "Fico de boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320941092,
+      "content": "Mas pra mim n\u00c3\u00a3o \u00c3\u00a9 necessidade nenhuma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320925542,
+      "content": "Eu vi mesmo, no seu perfil, ahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320908689,
+      "content": "Eu como frango",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641320850182,
+      "content": "Ali\u00c3\u00a1s, n\u00c3\u00a3o como carne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641320839952,
+      "content": "Eu n\u00c3\u00a3o como peixe tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641320831236,
+      "content": "Tabom kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320799219,
+      "content": "N\u00c3\u00a3o ligo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320796025,
+      "content": "O resto pode ser qualquer lugar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320789027,
+      "content": "S\u00c3\u00b3 n\u00c3\u00a3o gosto de peixe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641320784788,
+      "content": "Eu n\u00c3\u00a3o tenho restri\u00c3\u00a7\u00c3\u00b5es kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641320717425,
+      "content": "Vou procurar saber",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641320710573,
+      "content": "Hmm n\u00c3\u00a3o sei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641320704545,
+      "content": "Eu fui l\u00c3\u00a1 s\u00c3\u00b3 em um bar kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319479447,
+      "content": "L\u00c3\u00a1 tem cafeteria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319472249,
+      "content": "O que disser, \u00c3\u00a9 isso a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319460835,
+      "content": "Deve saber",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319455839,
+      "content": "Vc que j\u00c3\u00a1 \u00c3\u00a9 de casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319450498,
+      "content": "Como eu ainda n\u00c3\u00a3o fui em nenhum bar, n\u00c3\u00a3o sei qual \u00c3\u00a9 bom ou ruim kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319432811,
+      "content": "L\u00c3\u00a1 vai ser um ponto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319424050,
+      "content": "Ent\u00c3\u00a3o okey lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641319385520,
+      "content": "Tem bastante lugar por ali",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641319372714,
+      "content": "Ahh ent\u00c3\u00a3o \u00c3\u00a9 tranquilo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641319362687,
+      "content": "De boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319263162,
+      "content": "Na fleming",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319253038,
+      "content": "Ela mora na moradia da UFMG",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641319244050,
+      "content": "Desculpe!!! Eu havia esquecido geral",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641319118765,
+      "content": "Tem a fleming aqui perto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641319112567,
+      "content": "Sim, pode ser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641319101162,
+      "content": "Tranquilo rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641318449326,
+      "content": "Se for de boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641318446228,
+      "content": "Mas por vc morar l\u00c3\u00a1 perto e eu gostar de ficar l\u00c3\u00a1 na casa dela, acho que pode ser uma boa a gente marcar algo por l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641318414061,
+      "content": "\u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641318399682,
+      "content": "\u00c3\u0089 anivers\u00c3\u00a1rio de uma das minhas amigas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641318369702,
+      "content": "T\u00c3\u00b4 achando que essa semana n\u00c3\u00a3o vai dar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641318361291,
+      "content": "Ent\u00c3\u00a3o a gente v\u00c3\u00aa direitinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641316611532,
+      "content": "Pra mim \u00c3\u00a9 de boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641316607665,
+      "content": "Mas a gnt pode olhar um lugar a\u00c3\u00ad por perto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641316588756,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641307062406,
+      "content": "Ser\u00c3\u00a1 mais f\u00c3\u00a1cil ir pra l\u00c3\u00a1 pra nos vermos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641307045705,
+      "content": "Se vc est\u00c3\u00a1 dizendo, ent\u00c3\u00a3o t\u00c3\u00a1 bom haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641305743284,
+      "content": "Ahh pertinho daqui rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641305287205,
+      "content": "Vou l\u00c3\u00a1 sempre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641305283716,
+      "content": "Minha amiga mora na UFMG",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641302696114,
+      "content": "Fica pr\u00c3\u00b3ximo a ufmg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641299486916,
+      "content": "Bomm dia!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641299482159,
+      "content": "Onde fica ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641299480237,
+      "content": "Id\u00c3\u00a1i\u00c3\u00a1 eu n\u00c3\u00a3o conhe\u00c3\u00a7o n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641263167625,
+      "content": "Sabe onde fica?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641263163379,
+      "content": "Moro no Indai\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641263159441,
+      "content": "J\u00c3\u00a1 ouvi falar, mas n\u00c3\u00a3o conhe\u00c3\u00a7o bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641176109311,
+      "content": "E vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641176104102,
+      "content": "Conhece ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641176102442,
+      "content": "Nova gameleira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641176097916,
+      "content": "Eu moro no gameleira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641173778634,
+      "content": "Voc\u00c3\u00aa mora onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641173771924,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167934665,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167927547,
+      "content": "Melhor mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167920441,
+      "content": "Ent\u00c3\u00a3o \u00c3\u00b3timo!!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641167820095,
+      "content": "Mais calmo rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641167817466,
+      "content": "Um caf\u00c3\u00a9 acho que seria uma boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167183818,
+      "content": "Gosto de praticamente tudo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167173188,
+      "content": "Cinema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167164057,
+      "content": "Boates n\u00c3\u00a3o conhe\u00c3\u00a7o muitas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167153397,
+      "content": "Caf\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167151414,
+      "content": "Rol\u00c3\u00aa tipo ccbb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641167147119,
+      "content": "Gosto de barzinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641165964407,
+      "content": "Que tipo de rol\u00c3\u00aa voc\u00c3\u00aa curte? Pra eu pensar em algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641165720282,
+      "content": "Vc sugere algum?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641165714972,
+      "content": "N\u00c3\u00a3o conhe\u00c3\u00a7o muitos lugares aqui, quase n\u00c3\u00a3o saio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641165587021,
+      "content": "O que quer fazer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641165579955,
+      "content": "Eu animo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641165232727,
+      "content": "No s\u00c3\u00a1bado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641165230472,
+      "content": "Ou podemos deixar pra semana que vem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641165222999,
+      "content": "Caso vc queira, podemos marcar na sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641164727631,
+      "content": "S\u00c3\u00a1bado e domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641164723158,
+      "content": "No s\u00c3\u00a1bado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641164521891,
+      "content": "Sexta ou s\u00c3\u00a1bado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641164517897,
+      "content": "Seus compromissos come\u00c3\u00a7am quando?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641164179326,
+      "content": "Os finais de semana desse mesmo eu j\u00c3\u00a1 fiz compromisso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641164159481,
+      "content": "A\u00c3\u00ad fico mais de boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641164152051,
+      "content": "Eu entrei de f\u00c3\u00a9rias da faculdade e trabalho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641163742832,
+      "content": "E vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641163741012,
+      "content": "Mas fim de semana \u00c3\u00a9 livre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641163733537,
+      "content": "Bom, agora que estou de f\u00c3\u00a9rias da facul, tenho durante a semana depois das 19:00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641163196790,
+      "content": "Geralmente quando voc\u00c3\u00aa tem tempo livre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641163187441,
+      "content": "Claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641157030610,
+      "content": "Se quiser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641157027025,
+      "content": "Podemos marcar alguma coisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641157000120,
+      "content": "Fiquei feliz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156994994,
+      "content": "Opa kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156897118,
+      "content": "Sim, podemos desenrolar esse lance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156767924,
+      "content": "Kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156765711,
+      "content": "Ser\u00c3\u00a1 que isso significa que eu talvez eu tenha chances de te beijar ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156739294,
+      "content": "Tamb\u00c3\u00a9m sou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156733248,
+      "content": "Foi muito bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156728346,
+      "content": "Simmm. N\u00c3\u00b3s amamos kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156657624,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156652084,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156646747,
+      "content": "Ahh ent\u00c3\u00a3o deu bom, duas comemora\u00c3\u00a7\u00c3\u00b5es em um dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156526039,
+      "content": "Vc \u00c3\u00a9 solteiro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156468072,
+      "content": "Que nada. N\u00c3\u00a3o \u00c3\u00a9 bondade aha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156456854,
+      "content": "Era anivers\u00c3\u00a1rio de uma delas kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156451483,
+      "content": "Simm, estava com minhas amigas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156353985,
+      "content": "Haha bondade sua",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156346036,
+      "content": "com umas meninas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156341687,
+      "content": "que vi l\u00c3\u00a1 em cima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156337335,
+      "content": "eu acho que era voc\u00c3\u00aas ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156193939,
+      "content": "Na verdade, \u00c3\u00a9 kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156187612,
+      "content": "Vc estava lindo!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156179867,
+      "content": "Lembro de vc do Night ahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156159624,
+      "content": "Anima\u00c3\u00a7\u00c3\u00a3o da Disney",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641156153935,
+      "content": "\u00c3\u0089 novo rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641156101505,
+      "content": "Hmm esse n\u00c3\u00a3o conhe\u00c3\u00a7o rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641155939340,
+      "content": "Um filme muito fofo!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641155933336,
+      "content": "Estou assistindo \u00e2\u0080\u009cencanto\u00e2\u0080\u009d ahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641155887498,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641155885324,
+      "content": "Mas agora em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641155880693,
+      "content": "Estava levando um amigo pra ir pra cidade dele",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641155803947,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641155803134,
+      "content": "O que faz por a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641155799566,
+      "content": "Tudo tranquilo tbm!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641155735266,
+      "content": "Tranquilo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641155638778,
+      "content": "Joia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641155420102,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+      "timestamp_ms": 1641155373735,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0086\u00f0\u009d\u0090\u00ae\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00ad\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u00a8 \u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u009a",
+  "is_still_participant": true,
+  "thread_path": "inbox/gustavooliveira_733220918068873",
+  "magic_words": [
+    
+  ]
+}

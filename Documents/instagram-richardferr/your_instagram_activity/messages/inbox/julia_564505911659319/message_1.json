@@ -1,0 +1,135 @@
+{
+  "participants": [
+    {
+      "name": "Julia"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628787175754,
+      "content": "Agrade\u00c3\u00a7o sua aten\u00c3\u00a7\u00c3\u00a3o de qualquer maneira!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628787166233,
+      "content": "Ah que pena. Est\u00c3\u00a1 bem ent\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628782836118,
+      "content": "N\u00c3\u00a3o tenho contato mais com o respons\u00c3\u00a1vel pela filmagem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628779011369,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628779010614,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628779008210,
+      "content": "Voc\u00c3\u00aa sabe me indicar quem gravou o v\u00c3\u00addeo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628778996010,
+      "content": "Oi Richard, obrigada pelo retorno! Estou bem!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628776734282,
+      "content": "O v\u00c3\u00addeo n\u00c3\u00a3o fui eu quem gravei",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Julia",
+          "timestamp": 1628779011
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1628776726382,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Julia",
+          "timestamp": 1628779010
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628608819817,
+      "content": "Audio call ended",
+      "call_duration": 25,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628608794079,
+      "content": "callmerulia started an audio call",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628302338576,
+      "content": "Estou escrevendo em nome de um projeto para a Netflix, que est\u00c3\u00a1 interessada em possivelmente usar um clipe do seu v\u00c3\u00addeo postado no TikTok (https://www.tiktok.com/@richardferr/video/6849173973192805638). Voc\u00c3\u00aa pode, por favor, confirmar se voc\u00c3\u00aa \u00c3\u00a9 o detentor dos direitos autorais e se esta filmagem est\u00c3\u00a1 dispon\u00c3\u00advel para uma poss\u00c3\u00advel licen\u00c3\u00a7a? Depois de confirmar os direitos autorais, terei o maior prazer em lhe contar mais sobre o projeto. Se sua filmagem for usada no projeto, voc\u00c3\u00aa ser\u00c3\u00a1 pago. Uma colega minha, chamada Tammy Vo tentou te contactar anteriormente, mas n\u00c3\u00a3o tivemos retorno. Se voc\u00c3\u00aa quiser, estou dispon\u00c3\u00advel no LinkedIn e tamb\u00c3\u00a9m via WhatsApp. Te aguardo! Obrigada!",
+      "share": {
+        "link": "https://www.tiktok.com/@richardferr/video/6849173973192805638",
+        "share_text": "Richard Ferr (@richardferr) criou um v\u00c3\u00addeo curto no TikTok com m\u00c3\u00basica som original. | Recomendo assistir at\u00c3\u00a9 o final #boombay #ravesbr #rave #ravesbrasil #PLUR #fy #edm #prog #fullon #musicaeletronica | Pra quem nunca foi numa rave... | ...essa \u00c3\u00a9 a sensa\u00c3\u00a7\u00c3\u00a3o"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628302299312,
+      "content": "Meu nome \u00c3\u00a9 Julia Brand\u00c3\u00a3o, eu trabalho com licenciamento de v\u00c3\u00addeos e fotos para projetos diversos, incluindo publicidade e propaganda at\u00c3\u00a9 filmes.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julia",
+      "timestamp_ms": 1628302282659,
+      "content": "Oi Richard, tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Julia",
+  "is_still_participant": true,
+  "thread_path": "inbox/julia_564505911659319",
+  "magic_words": [
+    
+  ]
+}

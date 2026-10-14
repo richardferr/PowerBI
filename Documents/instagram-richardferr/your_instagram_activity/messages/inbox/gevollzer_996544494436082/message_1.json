@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Ge Vollzer"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ge Vollzer",
+      "timestamp_ms": 1634141396007,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1634141288134,
+      "content": "Hahaha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ge Vollzer",
+          "timestamp": 1634141396
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ge Vollzer",
+  "is_still_participant": true,
+  "thread_path": "inbox/gevollzer_996544494436082",
+  "magic_words": [
+    
+  ]
+}

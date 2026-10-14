@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Cristiano Ribeiro"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643059053824,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristiano Ribeiro",
+      "timestamp_ms": 1643056660731,
+      "content": "Hahaha da pra fazer em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristiano Ribeiro",
+      "timestamp_ms": 1643056642299,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643056625226,
+      "content": "14 pa\u00c3\u00adses, meta de vida",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Cristiano Ribeiro",
+          "timestamp": 1643056642
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristiano Ribeiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristianoribeiro_804982347564914",
+  "magic_words": [
+    
+  ]
+}
