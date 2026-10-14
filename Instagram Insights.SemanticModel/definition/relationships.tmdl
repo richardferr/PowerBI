@@ -1,0 +1,6 @@
+relationship cc169960-f201-8a96-555a-c6aa15fa4b2f
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: CLOSE_FRIENDS.USERNAME
+	toColumn: FOLLOWING.USERNAME
+

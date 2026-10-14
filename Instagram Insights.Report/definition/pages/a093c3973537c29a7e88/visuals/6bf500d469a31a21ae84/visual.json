@@ -1,0 +1,69 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "6bf500d469a31a21ae84",
+  "position": {
+    "x": 0,
+    "y": 100.88924818108326,
+    "z": 1000,
+    "height": 563.42764753435733,
+    "width": 1147.0331447049311,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FOLLOWING"
+                    }
+                  },
+                  "Property": "USERNAME"
+                }
+              },
+              "queryRef": "FOLLOWING.USERNAME",
+              "nativeQueryRef": "Username",
+              "displayName": "Username"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FOLLOWING"
+                    }
+                  },
+                  "Property": "FOLLOW_BACK"
+                }
+              },
+              "queryRef": "FOLLOWING.FOLLOW_BACK",
+              "nativeQueryRef": "Follow Back?",
+              "displayName": "Follow Back?"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FOLLOWING"
+                    }
+                  },
+                  "Property": "CLOSE_FRIENDS"
+                }
+              },
+              "queryRef": "FOLLOWING.CLOSE_FRIENDS",
+              "nativeQueryRef": "Close Friends",
+              "displayName": "Close Friends"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

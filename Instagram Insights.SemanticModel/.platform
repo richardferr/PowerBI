@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Instagram Insights"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "87da9dc9-1606-4152-a722-590220a99563"
+  }
+}

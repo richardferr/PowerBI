@@ -1,0 +1,82 @@
+table FOLLOWING
+	lineageTag: d789a8be-2c14-4179-8796-1d1ed56c0b6a
+
+	column USERNAME
+		dataType: string
+		lineageTag: d3460f8f-3511-4639-83f6-93501786b69b
+		summarizeBy: none
+		sourceColumn: USERNAME
+
+		annotation SummarizationSetBy = Automatic
+
+	column URL
+		dataType: string
+		lineageTag: 9d20a709-b2c4-48dc-a183-75777918f741
+		summarizeBy: none
+		sourceColumn: URL
+
+		annotation SummarizationSetBy = Automatic
+
+	column FOLLOW_BACK = ```
+			
+			
+			-- Check if find the person following back
+			VAR __FB = 
+			LOOKUPVALUE(
+			    FOLLOWERS[USERNAME],
+			    FOLLOWERS[USERNAME],
+			    FOLLOWING[USERNAME]
+			)
+			
+			RETURN
+			
+			IF(
+			    ISBLANK(__FB),
+			    "NO",
+			    "YES"
+			)
+			```
+		lineageTag: d92b6f56-39aa-4cc2-986a-c32bd5985012
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column CLOSE_FRIENDS = ```
+			
+			
+			VAR __CF = 
+			
+			RELATED(CLOSE_FRIENDS[USERNAME])
+			
+			RETURN
+			
+			IF(
+			    ISBLANK(__CF),
+			    "NO",
+			    "YES"
+			)
+			```
+		lineageTag: c52eabce-6b89-4d62-abe8-5773799557b9
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition FOLLOWING = m
+		mode: import
+		queryGroup: DIMENSIONS
+		source =
+				let
+				  Source = Json.Document(File.Contents("C:\Mac\Home\Documents\Repositories\PowerBI\Documents\instagram-richardferr\connections\followers_and_following\following.json")),
+				  #"Converted to table" = Table.FromRecords({Source}),
+				  #"Expanded relationships_following" = Table.ExpandListColumn(#"Converted to table", "relationships_following"),
+				  #"Expanded relationships_following1" = Table.ExpandRecordColumn(#"Expanded relationships_following", "relationships_following", {"title", "string_list_data"}, {"relationships_following.title", "relationships_following.string_list_data"}),
+				  #"Expanded relationships_following.string_list_data" = Table.ExpandListColumn(#"Expanded relationships_following1", "relationships_following.string_list_data"),
+				  #"Expanded relationships_following.string_list_data1" = Table.ExpandRecordColumn(#"Expanded relationships_following.string_list_data", "relationships_following.string_list_data", {"href", "timestamp"}, {"relationships_following.string_list_data.href", "relationships_following.string_list_data.timestamp"}),
+				  #"Changed column type" = Table.TransformColumnTypes(#"Expanded relationships_following.string_list_data1", {{"relationships_following.title", type text}, {"relationships_following.string_list_data.href", type text}, {"relationships_following.string_list_data.timestamp", Int64.Type}}),
+				  #"Removed columns" = Table.RemoveColumns(#"Changed column type", {"relationships_following.string_list_data.timestamp"}),
+				  #"Renamed columns" = Table.RenameColumns(#"Removed columns", {{"relationships_following.title", "USERNAME"}, {"relationships_following.string_list_data.href", "URL"}})
+				in
+				  #"Renamed columns"
+
+	annotation PBI_ResultType = Table
+

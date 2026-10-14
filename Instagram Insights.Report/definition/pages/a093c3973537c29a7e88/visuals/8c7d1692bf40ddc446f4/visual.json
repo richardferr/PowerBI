@@ -1,0 +1,234 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "8c7d1692bf40ddc446f4",
+  "position": {
+    "x": 471.8512530315279,
+    "y": 0,
+    "z": 3000,
+    "height": 55.87712206952304,
+    "width": 675.18189167340336,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "cardVisual",
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MEASURE_TABLE"
+                    }
+                  },
+                  "Property": "FOLLOWERS"
+                }
+              },
+              "queryRef": "MEASURE_TABLE.FOLLOWERS",
+              "nativeQueryRef": "FOLLOWERS",
+              "format": "#,0"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MEASURE_TABLE"
+                    }
+                  },
+                  "Property": "FOLLOWING"
+                }
+              },
+              "queryRef": "MEASURE_TABLE.FOLLOWING",
+              "nativeQueryRef": "FOLLOWING",
+              "format": "#,0"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MEASURE_TABLE"
+                    }
+                  },
+                  "Property": "CLOSE FRIENDS"
+                }
+              },
+              "queryRef": "MEASURE_TABLE.CLOSE FRIENDS",
+              "nativeQueryRef": "CLOSE FRIENDS",
+              "format": "#,0"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MEASURE_TABLE"
+                    }
+                  },
+                  "Property": "NON FOLLOW BACK"
+                }
+              },
+              "queryRef": "MEASURE_TABLE.NON FOLLOW BACK",
+              "nativeQueryRef": "NON FOLLOW BACK",
+              "format": "#,0"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "MEASURE_TABLE"
+                  }
+                },
+                "Property": "FOLLOWERS"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "objects": {
+      "value": [
+        {
+          "properties": {
+            "labelDisplayUnits": {
+              "expr": {
+                "Literal": {
+                  "Value": "1D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.FOLLOWERS"
+          }
+        },
+        {
+          "properties": {
+            "labelDisplayUnits": {
+              "expr": {
+                "Literal": {
+                  "Value": "1D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.FOLLOWING"
+          }
+        },
+        {
+          "properties": {
+            "labelDisplayUnits": {
+              "expr": {
+                "Literal": {
+                  "Value": "1D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.CLOSE FRIENDS"
+          }
+        },
+        {
+          "properties": {
+            "labelDisplayUnits": {
+              "expr": {
+                "Literal": {
+                  "Value": "1D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.NON FOLLOW BACK"
+          }
+        },
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "16D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        }
+      ],
+      "label": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Non Follow Back'"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.NON FOLLOW BACK"
+          }
+        },
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Close Friends'"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.CLOSE FRIENDS"
+          }
+        },
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Following'"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.FOLLOWING"
+          }
+        },
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Followers'"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "MEASURE_TABLE.FOLLOWERS"
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

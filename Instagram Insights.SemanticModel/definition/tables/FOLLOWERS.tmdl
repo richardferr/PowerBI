@@ -1,0 +1,38 @@
+table FOLLOWERS
+	lineageTag: f373ac1d-085e-4683-9b93-a8358ef63b3a
+
+	column USERNAME
+		dataType: string
+		lineageTag: ebfb069d-aa73-4bc0-8d98-0e48f46b282a
+		summarizeBy: none
+		sourceColumn: USERNAME
+
+		annotation SummarizationSetBy = Automatic
+
+	column URL
+		dataType: string
+		lineageTag: d0920c65-f41b-4768-8275-0c36e664e448
+		summarizeBy: none
+		sourceColumn: URL
+
+		annotation SummarizationSetBy = Automatic
+
+	partition FOLLOWERS = m
+		mode: import
+		queryGroup: DIMENSIONS
+		source =
+				let
+				  Source = Json.Document(File.Contents("C:\Mac\Home\Documents\Repositories\PowerBI\Documents\instagram-richardferr\connections\followers_and_following\followers_1.json")),
+				  #"Converted to table" = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+				  #"Expanded Column1" = Table.ExpandRecordColumn(#"Converted to table", "Column1", {"title", "media_list_data", "string_list_data"}, {"title", "media_list_data", "string_list_data"}),
+				  #"Changed column type" = Table.TransformColumnTypes(#"Expanded Column1", {{"title", type text}}),
+				  #"Expanded string_list_data" = Table.ExpandListColumn(#"Changed column type", "string_list_data"),
+				  #"Expanded string_list_data 1" = Table.ExpandRecordColumn(#"Expanded string_list_data", "string_list_data", {"href", "value", "timestamp"}, {"href", "value", "timestamp"}),
+				  #"Removed other columns" = Table.SelectColumns(#"Expanded string_list_data 1", {"value", "href"}),
+				  #"Renamed columns" = Table.RenameColumns(#"Removed other columns", {{"value", "USERNAME"}, {"href", "URL"}}),
+				  #"Changed column type 1" = Table.TransformColumnTypes(#"Renamed columns", {{"URL", type text}, {"USERNAME", type text}})
+				in
+				  #"Changed column type 1"
+
+	annotation PBI_ResultType = Table
+

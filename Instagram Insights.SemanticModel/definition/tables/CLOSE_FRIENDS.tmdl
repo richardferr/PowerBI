@@ -1,0 +1,37 @@
+table CLOSE_FRIENDS
+	isHidden
+	lineageTag: 0172d874-d61e-4fd7-9e65-e6f97e7ffa21
+
+	column USERNAME
+		dataType: string
+		isHidden
+		lineageTag: 66d408a4-b783-4186-b140-5c5f2914c9c1
+		summarizeBy: none
+		sourceColumn: USERNAME
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	partition CLOSE_FRIENDS = m
+		mode: import
+		queryGroup: DIMENSIONS
+		source =
+				let
+				  Source = Json.Document(File.Contents("C:\Mac\Home\Documents\Repositories\PowerBI\Documents\instagram-richardferr\connections\followers_and_following\close_friends.json")),
+				  #"Converted to table" = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+				  #"Expanded Column1" = Table.ExpandRecordColumn(#"Converted to table", "Column1", {"timestamp", "media", "label_values", "fbid"}, {"timestamp", "media", "label_values", "fbid"}),
+				  #"Changed column type" = Table.TransformColumnTypes(#"Expanded Column1", {{"timestamp", Int64.Type}, {"fbid", Int64.Type}}),
+				  #"Expanded label_values" = Table.ExpandListColumn(#"Changed column type", "label_values"),
+				  #"Expanded label_values 1" = Table.ExpandRecordColumn(#"Expanded label_values", "label_values", {"label", "value"}, {"label", "value"}),
+				  #"Filtered rows" = Table.SelectRows(#"Expanded label_values 1", each ([label] = "Username")),
+				  #"Removed other columns" = Table.SelectColumns(#"Filtered rows", {"value"}),
+				  #"Renamed columns" = Table.RenameColumns(#"Removed other columns", {{"value", "USERNAME"}}),
+				  #"Changed column type 1" = Table.TransformColumnTypes(#"Renamed columns", {{"USERNAME", type text}})
+				in
+				  #"Changed column type 1"
+
+	changedProperty = IsHidden
+
+	annotation PBI_ResultType = Table
+
