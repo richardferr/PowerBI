@@ -1,0 +1,223 @@
+{
+  "participants": [
+    {
+      "name": "Henrigo Fortunato"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663670226146,
+      "content": "31973634587",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663670219577,
+      "content": "Hmm nao conhe\u00c3\u00a7o rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663670023547,
+      "content": "Interior, cidade chamada Medina. Ouviu falar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663669975580,
+      "content": "Vc mora onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663669852951,
+      "content": "Hehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663669851406,
+      "content": "Se tiver afim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663669847902,
+      "content": "Mando.msg",
+      "share": {
+        "share_text": "Mando.msg"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663669845166,
+      "content": "M\u00c3\u00aas que vem devo aparecer a\u00c3\u00ad de novo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663669369351,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663668742251,
+      "content": "Rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663668739255,
+      "content": "Pois\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663668734117,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663642731899,
+      "content": "Hoje que vi rs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Henrigo Fortunato",
+          "timestamp": 1663668734
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1663642242243,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1663642502
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2931157729476021585"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651856738328,
+      "content": "vai colar l\u00c3\u00a1 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651784879951,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2831541405658528806"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651617945173,
+      "content": "Estou em Bh a trabalho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651617934572,
+      "content": "Estou de boa no momento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651617934249,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651614185326,
+      "content": "Estava trabalhando e voc\u00c3\u00aa?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Henrigo Fortunato",
+          "timestamp": 1651617934
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651538697943,
+      "content": "Arrumando o q por l\u00c3\u00a1 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651538685692,
+      "content": "Segui do app hehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651538653680,
+      "content": "Bem tmb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651537557279,
+      "content": "Tranquilo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Henrigo Fortunato",
+      "timestamp_ms": 1651534258288,
+      "content": "blz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Henrigo Fortunato",
+  "is_still_participant": true,
+  "thread_path": "inbox/henrigofortunato_894439498622436",
+  "magic_words": [
+    
+  ]
+}

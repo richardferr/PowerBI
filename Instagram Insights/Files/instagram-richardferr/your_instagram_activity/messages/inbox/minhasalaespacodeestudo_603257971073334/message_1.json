@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Minha Sala - Espac\u00cc\u00a7o de Estudo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Minha Sala - Espac\u00cc\u00a7o de Estudo",
+      "timestamp_ms": 1547146856519,
+      "content": "Bem vindo \u00c3\u00a0 Minha Sala Espa\u00c3\u00a7o de Estudo, a melhor sala de estudos de Goi\u00c3\u00a2nia na melhor localiza\u00c3\u00a7\u00c3\u00a3o.\nNavegue pelo nosso perfil, visite nosso site  www.minhasala.com.br e nos chame no (62) 99833-5196 para conhecer melhor nossos servi\u00c3\u00a7os.\nEstamos aqui para dar a voc\u00c3\u00aa todo o apoio para que voc\u00c3\u00aa alcance seus objetivos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Minha Sala - Espac\u00cc\u00a7o de Estudo",
+  "is_still_participant": true,
+  "thread_path": "inbox/minhasalaespacodeestudo_603257971073334",
+  "magic_words": [
+    
+  ]
+}

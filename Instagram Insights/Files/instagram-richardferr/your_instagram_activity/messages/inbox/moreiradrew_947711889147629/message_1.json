@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Moreira Dr\u00c3\u00a9w"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Moreira Dr\u00c3\u00a9w",
+      "timestamp_ms": 1642805887816,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moreira Dr\u00c3\u00a9w",
+      "timestamp_ms": 1639956255604,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moreira Dr\u00c3\u00a9w",
+      "timestamp_ms": 1639956254543,
+      "content": "A s\u00c3\u00b3\n\u00f0\u009f\u00a4\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1639948297908,
+      "content": "Sim, \u00c3\u00a9 a decora\u00c3\u00a7\u00c3\u00a3o do bar mesmo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Moreira Dr\u00c3\u00a9w",
+          "timestamp": 1639956255
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moreira Dr\u00c3\u00a9w",
+      "timestamp_ms": 1639947615014,
+      "content": "Ainda t\u00c3\u00a1 rolando os cen\u00c3\u00a1rios?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2732382631374285585"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Moreira Dr\u00c3\u00a9w",
+  "is_still_participant": true,
+  "thread_path": "inbox/moreiradrew_947711889147629",
+  "magic_words": [
+    
+  ]
+}

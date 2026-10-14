@@ -1,0 +1,25 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Location",
+      "dict": [
+        {
+          "label": "Country",
+          "value": "Spain"
+        },
+        {
+          "label": "Region",
+          "value": "Comunidad Valenciana, Spain"
+        },
+        {
+          "label": "City",
+          "value": "Valencia"
+        }
+      ]
+    }
+  ],
+  "fbid": "10124873647"
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Steve P"
+    },
+    {
+      "name": "Daniel Bergamelli"
+    },
+    {
+      "name": "Trevor Hoogendoorn"
+    },
+    {
+      "name": "Fernando Jos\u00c3\u00a9 Narv\u00c3\u00a1ez Cordero"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Evan Richards"
+    },
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Scott Murray"
+    },
+    {
+      "name": "Shilee Myers \u00f0\u009f\u0091\u00bd\u00f0\u009f\u0092\u008b"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Jake Butchart"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569930390310,
+      "content": "A contact added Steve P and 3 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569930388778,
+      "content": "A contact added you and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569930387230,
+      "content": "\u00e2\u009d\u0084\u00f0\u009f\u008c\u00ba\u00f0\u009f\u0092\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Steve P, Daniel Bergamelli, Trevor Hoogendoorn and 7 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/stevepdanielbergamellitrevorhoogendoornand7others_2541103779314293",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

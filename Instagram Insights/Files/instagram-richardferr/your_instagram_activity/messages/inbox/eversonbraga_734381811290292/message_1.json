@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Everson Braga"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Everson Braga",
+      "timestamp_ms": 1640633771359,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1669318513
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2738057965896429481"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Everson Braga",
+      "timestamp_ms": 1635628161075,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1635628272
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2696163470524808363"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Everson Braga",
+  "is_still_participant": true,
+  "thread_path": "inbox/eversonbraga_734381811290292",
+  "magic_words": [
+    
+  ]
+}

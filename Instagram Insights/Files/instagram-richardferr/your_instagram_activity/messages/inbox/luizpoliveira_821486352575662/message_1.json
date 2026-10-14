@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Luiz P. Oliveira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luiz P. Oliveira",
+      "timestamp_ms": 1652267387084,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652266434801,
+      "content": "simmm kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz P. Oliveira",
+      "timestamp_ms": 1652266200963,
+      "content": "Fun\u00c3\u00a7\u00c3\u00a3o afim kkkkkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2835522880958264370"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luiz P. Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/luizpoliveira_821486352575662",
+  "magic_words": [
+    
+  ]
+}

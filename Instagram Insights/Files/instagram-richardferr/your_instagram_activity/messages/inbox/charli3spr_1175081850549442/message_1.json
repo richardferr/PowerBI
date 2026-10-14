@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "charli3spr"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "charli3spr",
+      "timestamp_ms": 1694721549113,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1694606698796,
+      "content": "que fofinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1694274827926,
+      "content": "Ohh, u are a bad boy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "charli3spr",
+      "timestamp_ms": 1694274442182,
+      "content": "Kkk I cannot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1694263857087,
+      "content": "d\u00c3\u00a1 para mim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "charli3spr",
+      "timestamp_ms": 1694263678749,
+      "content": "Siiiim \u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1694261552940,
+      "content": "que lindo gatinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "charli3spr",
+  "is_still_participant": true,
+  "thread_path": "inbox/charli3spr_1175081850549442",
+  "magic_words": [
+    
+  ]
+}

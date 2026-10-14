@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Lopez"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Lopez",
+      "timestamp_ms": 1762929686013,
+      "content": "Por patraix",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1762904504391,
+      "content": "Y d\u00c3\u00b3nde vives?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Lopez",
+      "timestamp_ms": 1762891081464,
+      "content": "Me alegro, bien por casa \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1762890092242,
+      "content": "Estoy bien y t\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Lopez",
+      "timestamp_ms": 1762889611094,
+      "content": "Buenas qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1762884096208,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Lopez",
+  "is_still_participant": true,
+  "thread_path": "inbox/daniellopez_1779379143453040",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "MAXIMA TALENTS AND MODELS"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MAXIMA TALENTS AND MODELS",
+      "timestamp_ms": 1640040243496,
+      "content": "que perfil \u00c3\u00b3timooo, j\u00c3\u00a1 veio nos fazer uma visita?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MAXIMA TALENTS AND MODELS",
+      "timestamp_ms": 1640040227830,
+      "content": "ooioi Richard boa noite!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MAXIMA TALENTS AND MODELS",
+  "is_still_participant": true,
+  "thread_path": "message_requests/maximatalentsandmodels_724652608925704",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

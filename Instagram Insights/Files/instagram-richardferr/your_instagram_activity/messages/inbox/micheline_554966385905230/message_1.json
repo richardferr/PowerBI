@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Micheline"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micheline",
+      "timestamp_ms": 1612554506173,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1612543467504,
+      "content": "Haha valeuu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1612543459479,
+      "content": "Vamooo \u00f0\u009f\u0091\u00bd\u00f0\u009f\u0091\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1612543449768,
+      "content": "Opaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micheline",
+      "timestamp_ms": 1612492428046,
+      "content": "Curti sua vibe nos v\u00c3\u00addeos do Tik tok v\u00c3\u00a9i",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Micheline",
+      "timestamp_ms": 1612492395856,
+      "content": "Bora col\u00c3\u00a1 nas Pvt",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Micheline",
+  "is_still_participant": true,
+  "thread_path": "inbox/micheline_554966385905230",
+  "magic_words": [
+    
+  ]
+}

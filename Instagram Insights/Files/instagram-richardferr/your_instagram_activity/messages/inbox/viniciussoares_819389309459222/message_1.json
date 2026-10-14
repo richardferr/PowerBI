@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Vin\u00c3\u00adcius Soares"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644552763562,
+      "content": "N\u00c3\u00a3o te vi l\u00c3\u00a1 mais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644552757025,
+      "content": "Sei la",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644552754139,
+      "content": "Uai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644552721222,
+      "content": "Eu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644512749944,
+      "content": "N\u00c3\u00a3o t\u00c3\u00a1 afim ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644512746555,
+      "content": "Me bloqueou no app ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644512742103,
+      "content": "J\u00c3\u00b3ia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644512732541,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644511935415,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644511933026,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vin\u00c3\u00adcius Soares",
+      "timestamp_ms": 1644511931433,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vin\u00c3\u00adcius Soares",
+  "is_still_participant": true,
+  "thread_path": "inbox/viniciussoares_819389309459222",
+  "magic_words": [
+    
+  ]
+}

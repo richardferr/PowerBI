@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Ant\u00c3\u00b3nio Fialho Ricardo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686992751624,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ant\u00c3\u00b3nio Fialho Ricardo",
+      "timestamp_ms": 1686984584497,
+      "content": "Na Damaia, Amadora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686938137151,
+      "content": "Onde voc\u00c3\u00aa mora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ant\u00c3\u00b3nio Fialho Ricardo",
+      "timestamp_ms": 1686917465780,
+      "content": "Estou bem tambem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686898904490,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686898900705,
+      "content": "Sempre rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686898896662,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ant\u00c3\u00b3nio Fialho Ricardo",
+      "timestamp_ms": 1686893716123,
+      "content": "Bom dia!!! Bem disposto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686837245363,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ant\u00c3\u00b3nio Fialho Ricardo",
+      "timestamp_ms": 1686836958860,
+      "content": "Hallo!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686761697167,
+      "content": "Eii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ant\u00c3\u00b3nio Fialho Ricardo",
+      "timestamp_ms": 1686759322577,
+      "content": "Ant\u00c3\u00b3nio aqui!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ant\u00c3\u00b3nio Fialho Ricardo",
+  "is_still_participant": true,
+  "thread_path": "inbox/antoniofialhoricardo_1238017147599938",
+  "magic_words": [
+    
+  ]
+}

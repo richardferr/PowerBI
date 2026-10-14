@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "asdf3tettyty"
+    },
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Acelya Ece"
+    },
+    {
+      "name": "Corinna"
+    },
+    {
+      "name": "Tammy Nztn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nici",
+      "timestamp_ms": 1569478447676,
+      "content": "Nici left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569476470747,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569476469536,
+      "content": "A contact added you and 3 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569476466430,
+      "content": "A contact named the group m\u00d0\u00b5in\u00d0\u00b5 f\u00d0\u00betos und vid\u00d0\u00b5\u00d0\u00bes (881).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "m\u00d0\u00b5in\u00d0\u00b5 f\u00d0\u00betos und vid\u00d0\u00b5\u00d0\u00bes (881)",
+  "is_still_participant": true,
+  "thread_path": "message_requests/meinefotosundvideos881_434917723791990",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

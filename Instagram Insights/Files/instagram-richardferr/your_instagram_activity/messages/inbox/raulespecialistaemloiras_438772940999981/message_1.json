@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Raul Especialista em Loiras"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raul Especialista em Loiras",
+      "timestamp_ms": 1630843626073,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1630843590831,
+      "content": "Obrigado rs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Raul Especialista em Loiras",
+          "timestamp": 1630843626
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Especialista em Loiras",
+      "timestamp_ms": 1630841954575,
+      "content": "Lindo demais",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2655660793209348146"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raul Especialista em Loiras",
+  "is_still_participant": true,
+  "thread_path": "inbox/raulespecialistaemloiras_438772940999981",
+  "magic_words": [
+    
+  ]
+}

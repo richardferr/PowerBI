@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Chiara"
+    },
+    {
+      "name": "Hamza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hamza",
+      "timestamp_ms": 1777223766336,
+      "content": "Hamza sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DXka0YyjvTh/?id=3883346727940322529_6663628781",
+        "share_text": "xd #dentista",
+        "original_content_owner": "soyzukaa"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chiara and Hamza",
+  "is_still_participant": false,
+  "thread_path": "inbox/chiaraandhamza_1988441738441407",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

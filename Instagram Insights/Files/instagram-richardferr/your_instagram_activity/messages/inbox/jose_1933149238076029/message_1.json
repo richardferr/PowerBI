@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Jos\u00c3\u00a9"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jos\u00c3\u00a9",
+      "timestamp_ms": 1779548567711,
+      "content": "Boa",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3903457297379248166"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9",
+      "timestamp_ms": 1778247103839,
+      "content": "Boa mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778245538175,
+      "content": "Se estiver em valencia e quiser ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778245531849,
+      "content": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkyMDA1NzMzNTg3Mzk2?story_media_id=3888199258210122726&igsh=Z3lscHhjNXM0Njhq",
+      "share": {
+        "link": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkyMDA1NzMzNTg3Mzk2?story_media_id=3888199258210122726&igsh=Z3lscHhjNXM0Njhq",
+        "share_text": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkyMDA1NzMzNTg3Mzk2?story_media_id=3888199258210122726&igsh=Z3lscHhjNXM0Njhq"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9",
+      "timestamp_ms": 1777807036235,
+      "content": "Vlw man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9",
+      "timestamp_ms": 1777807032723,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777806749978,
+      "content": "Aproveita muito",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jos\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777806743574,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9",
+      "timestamp_ms": 1777758039324,
+      "content": "Tou na Fran\u00c3\u00a7a n vou conseguir ir amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9",
+      "timestamp_ms": 1777758031075,
+      "content": "Fala mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777756459405,
+      "content": "Amanh\u00c3\u00a3 v\u00c3\u00a3o a praia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1777756443451,
+      "content": "E a\u00c3\u00ad, blz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jos\u00c3\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/jose_1933149238076029",
+  "magic_words": [
+    
+  ]
+}

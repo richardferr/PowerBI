@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Santos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gustavo Santos",
+      "timestamp_ms": 1637021036834,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636939233014,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustavo Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/gustavosantos_700932531297712",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678183120247,
+      "content": "hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1678106422865,
+      "content": "Kkkkkkkkk vou at\u00c3\u00a9 printar aqui, pra voc\u00c3\u00aa n\u00c3\u00a3o dar pra tr\u00c3\u00a1s kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678104207144,
+      "content": "Meu quarto, minha cama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1678041485989,
+      "content": "Tem que me fornecer uma estadia viu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1678041471398,
+      "content": "Kkkkkkkkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678031429207,
+      "content": "vem diveras haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1678030729246,
+      "content": "Vou ter que ir em Portugal, vai ser o jeito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1678029866138,
+      "content": "Foda isso",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Richard",
+          "timestamp": 1678030711
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678024996461,
+      "content": "Aff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678024994652,
+      "content": "Pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677967904361,
+      "content": "Poxa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677967903169,
+      "content": "Nem tive a oportunidade de te ver presencialmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677967884879,
+      "content": "Poxaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677966179125,
+      "content": "Devo demorar bastante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677966174157,
+      "content": "Hmm n\u00c3\u00a3o sei quando volto n\u00c3\u00a3o viu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677952583836,
+      "content": "Ce n\u00c3\u00a3o volta mais n\u00c3\u00a3o bb?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677952560268,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677952076321,
+      "content": "eu tamb\u00c3\u00a9m achei \u00f0\u009f\u00a5\u00b9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1677952560
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1677948700494,
+      "content": "Que lugarzinho gostosooooo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3051157437970924466"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672357556027,
+      "content": "gostei muito daqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672357552249,
+      "content": "n\u00c3\u00a3o rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1672355774669,
+      "content": "Kkk pretende voltar pro Brasil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672351983852,
+      "content": "hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1672349817104,
+      "content": "Eu achando que voc\u00c3\u00aa ia falar \"hmm, l\u00c3\u00a1 na Fleming\" dkskksks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1672349779809,
+      "content": "Ai eu querooo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3004190441650067629"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671902424182,
+      "content": "Portugal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1671902062537,
+      "content": "Onde \u00c3\u00a9 esse gentee",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3000129685689554360"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1671028972065,
+      "content": "rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670991774138,
+      "content": "Olhaaaaaa",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2992722785990343934"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670640995094,
+      "content": "\u00f0\u009f\u00a4\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670640991712,
+      "content": "Ahhhhh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670640794535,
+      "content": "Poxa de manh\u00c3\u00a3 cedinho quem sabe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670640783076,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670640021840,
+      "content": "ahh que pena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670639935833,
+      "content": "Mas quem sabe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670639891768,
+      "content": "Olha como eu t\u00c3\u00b4 num role n\u00c3\u00a3o da pra mandar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670639576670,
+      "content": "rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670639295524,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670639294331,
+      "content": "Eitaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670637606945,
+      "content": "cad\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670637506343,
+      "content": "Pode ser tamb\u00c3\u00a9m kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670637154421,
+      "content": "achei que era nude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670637150800,
+      "content": "top",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670636750600,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670636703132,
+      "content": "Vou cobrar em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670636699977,
+      "content": "Poxaaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670636301664,
+      "content": "cad\u00c3\u00aa o seu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670636298566,
+      "content": "eu t\u00c3\u00b4 com um produto no cabelo, a\u00c3\u00ad nem d\u00c3\u00a1 pra ver ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670636281487,
+      "content": "diveras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670636277850,
+      "content": "kkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670636237665,
+      "content": "Por\u00c3\u00a9m com cacha\u00c3\u00a7a a gente sustenta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670636228771,
+      "content": "T\u00c3\u00b4 quase surtando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670636222580,
+      "content": "Cad\u00c3\u00aa a fotinho do corte caraaaaaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670636213534,
+      "content": "haha uma coisa que n\u00c3\u00a3o sei fazer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670635885607,
+      "content": "E vendo o povo jogar truco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670635862056,
+      "content": "Agora estou bebendo aqui em casaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670635857046,
+      "content": "Sai da barbearia a pouco kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670633123100,
+      "content": "estava na barbearia e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670633028808,
+      "content": "E o que voc\u00c3\u00aa est\u00c3\u00a1 fazendo agora ???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670633021410,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670631925796,
+      "content": "Ah sim rsrs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1670633021
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670630466132,
+      "content": "Desculpa, n\u00c3\u00a3o havia lido sua mensagem kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670630457889,
+      "content": "Da balada kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670628662376,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1670629842
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670628605565,
+      "content": "do que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670628562477,
+      "content": "Acho que meu povo desistiuu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670628514806,
+      "content": "Eu gosto bastante de l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670628421202,
+      "content": "N\u00c3\u00a3ooooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670628414515,
+      "content": "Tudo otimooooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670628268420,
+      "content": "Conhece a major?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670628264573,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670626941722,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670626937624,
+      "content": "Conhece baladas em BH que n\u00c3\u00a3o seja a church  dduck ou sapucai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670626886295,
+      "content": "Nego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670626883626,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1670626860621,
+      "content": "Oieee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_989410812449881",
+  "magic_words": [
+    
+  ]
+}

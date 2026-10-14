@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Camila Carvalho"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Camila Carvalho",
+      "timestamp_ms": 1787795050212,
+      "content": "Camila sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DchoqsbFOLj/?carousel_share_child_media_id=3972635202094949091_75678249051",
+        "share_text": "Talvez, a vida n\u00c3\u00a3o seja sobre estar adiantada ou atrasada, e sim sobre continuar. #33anos \u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+        "original_content_owner": "camila_rcmarques"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Camila Carvalho",
+  "is_still_participant": true,
+  "thread_path": "inbox/camilacarvalho_1594877539023579",
+  "magic_words": [
+    
+  ]
+}

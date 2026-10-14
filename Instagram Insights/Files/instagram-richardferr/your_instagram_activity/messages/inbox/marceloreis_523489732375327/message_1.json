@@ -1,0 +1,161 @@
+{
+  "participants": [
+    {
+      "name": "Marcelo Reis"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1597619125119,
+      "content": "Oq faz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1597619123221,
+      "content": "Tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1597618997819,
+      "content": "Tranquilo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1597615803634,
+      "content": "Tudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1597615741135,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1597614880462,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596512618226,
+      "content": "Achei que ia sair um encontro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1596512603303,
+      "content": "Rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596512054740,
+      "content": "Arram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596512051854,
+      "content": "Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1596511954657,
+      "content": "Eu quase nem mexo no celular mais rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596511565658,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596511564189,
+      "content": "No me deixa no v\u00c3\u00a1cuo no wats",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596511558261,
+      "content": "bem tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1596511232610,
+      "content": "\u00c3\u0089 a correria que est\u00c3\u00a1 demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1596511219210,
+      "content": "Tudo bem e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596510894465,
+      "content": "Sumiu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596510892083,
+      "content": "Tudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1596510773327,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Reis",
+      "timestamp_ms": 1596422682323,
+      "content": "Oi",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2367286737598499088"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcelo Reis",
+  "is_still_participant": true,
+  "thread_path": "inbox/marceloreis_523489732375327",
+  "magic_words": [
+    
+  ]
+}

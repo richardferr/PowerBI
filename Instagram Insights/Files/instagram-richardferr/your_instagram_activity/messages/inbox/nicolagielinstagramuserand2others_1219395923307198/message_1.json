@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Nicola"
+    },
+    {
+      "name": "Giel"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Courtney McNary"
+    },
+    {
+      "name": "Gio"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1762284511762,
+      "content": "I will try to get a table",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1762284506792,
+      "content": "I am here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1762284309563,
+      "content": "I\u00e2\u0080\u0099m on my way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gio",
+      "timestamp_ms": 1762274336009,
+      "content": "Hey, im not going to be able to go today :/ I have lots of work due for tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1762264380061,
+      "content": "Perfecto. 8:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1762263338849,
+      "content": "Hey, I can arrive at 8:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1762263183011,
+      "content": "Maybe 8.30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicola",
+      "timestamp_ms": 1762252639945,
+      "content": "Shall we do 8pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1762251191022,
+      "content": "Sad to see you leave but I am in for La finestra tonight",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Courtney McNary",
+      "timestamp_ms": 1762248177288,
+      "content": "Holaaaa do you have plans tonight? Nicola and I were thinking it could be nice to head to La finestra tonight since we leave Valencia on Saturday\u00f0\u009f\u0098\u00ad",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nicola"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Instagram User"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Courtney McNary",
+      "timestamp_ms": 1762248176532,
+      "content": "Courtney created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicola, Giel, Instagram User and 2 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicolagielinstagramuserand2others_1219395923307198",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbZrCs98jevO18jo/"
+  }
+}

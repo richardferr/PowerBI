@@ -1,0 +1,480 @@
+{
+  "participants": [
+    {
+      "name": "Fabiano Marques"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1644978532199,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644953414132,
+      "content": "Rsrs \u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Fabiano Marques",
+          "timestamp": 1644978532
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1644882857913,
+      "content": "Quem fala \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1644882841324,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1641780450371,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1639011975259,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1639011972355,
+      "content": "Estou bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1639010773473,
+      "content": "E vc como que t\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1638939678335,
+      "content": "Eu falo de lagoa de rio mesmo rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1638939669747,
+      "content": "N\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1638919034259,
+      "content": "Vc conhece Lagoa Santa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1638842975287,
+      "content": "amo lagoa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1616883229338,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1616883225400,
+      "content": "A bunda aparecendo \u00f0\u009f\u00a4\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1614456651754,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1612653627242,
+      "content": "\u00f0\u009f\u0098\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1612650219182,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1612650217201,
+      "content": "\u00f0\u009f\u0098\u0099\u00f0\u009f\u0098\u0099\u00f0\u009f\u0098\u0099\u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1612644745334,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Fabiano Marques",
+          "timestamp": 1612650219
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1611837952907,
+      "content": "\u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1611837166069,
+      "content": "Valeu Richard \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1611837150885,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1611832288073,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Fabiano Marques",
+          "timestamp": 1611837150
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1608502453179,
+      "content": "\u00f0\u009f\u0098\u0089\u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1608502430474,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1605136159994,
+      "content": "Que nada kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1605135594937,
+      "content": "J\u00c3\u00a1 virou cordenador rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1605135578348,
+      "content": "Nada trabalhando bastante e vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1605109144995,
+      "content": "Sumiu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1605094570964,
+      "content": "Obrigado Richard \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1605094543367,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1605068819056,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Fabiano Marques"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1594480606832,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1586993771841,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580618828925,
+      "content": "31973634587",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580618790295,
+      "content": "Qual seu zape?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580618650291,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580618607339,
+      "content": "Sempre fui loko para beijar essa bokinha!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580618353272,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580618246686,
+      "content": "Honesto, \u00c3\u00a9tico e carism\u00c3\u00a1tico! Me apaixonei!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580617767032,
+      "content": "Kkkkkkk s\u00c3\u00b3 vc mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580617582477,
+      "content": "Tinha carinha de s\u00c3\u00a9rio mas tinha sorriso lindo!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580617321370,
+      "content": "Sim rs correria demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580617229402,
+      "content": "Fabiano sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/correria.Depois"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580617033400,
+      "content": "Kkkk nunca reparei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580616619294,
+      "content": "Viajava em vc ...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580616432659,
+      "content": "Principalmente quando vc era meu super!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580614893222,
+      "content": "Saudades tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580614883334,
+      "content": "T\u00c3\u00b4 bem tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580591395471,
+      "content": "Saudades de vc! Vc \u00c3\u00a9 um cara incr\u00c3\u00advel!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580591192412,
+      "content": "Eu to de boa! E vc como que t\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580578359731,
+      "content": "Como vc, t\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580569468027,
+      "content": "obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580556569736,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1580556559814,
+      "content": "Obrigado Richard! Vc que \u00c3\u00a9 muito gato!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1580521894118,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Fabiano Marques"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575972290073,
+      "content": "Muito obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabiano Marques",
+      "timestamp_ms": 1575946623831,
+      "content": "Richard feliz anivers\u00c3\u00a1rio! Que Deus aben\u00c3\u00a7oe!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2195279388002384447"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabiano Marques",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabianomarques_420554262668875",
+  "magic_words": [
+    
+  ]
+}

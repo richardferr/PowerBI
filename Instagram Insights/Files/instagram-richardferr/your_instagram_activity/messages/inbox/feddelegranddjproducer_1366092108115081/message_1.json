@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Fedde Le Grand \u00f0\u009f\u008e\u00a7 DJ & Producer"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1720349978391,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3406864882282681823"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fedde Le Grand \u00f0\u009f\u008e\u00a7 DJ & Producer",
+  "is_still_participant": true,
+  "thread_path": "inbox/feddelegranddjproducer_1366092108115081",
+  "magic_words": [
+    
+  ]
+}

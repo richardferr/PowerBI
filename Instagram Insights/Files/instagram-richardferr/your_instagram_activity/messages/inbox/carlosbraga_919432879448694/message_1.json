@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Carlos Braga"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670198561209,
+      "content": "correria demais rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Braga",
+      "timestamp_ms": 1670197623733,
+      "content": "Ta sumido ein",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Braga",
+      "timestamp_ms": 1670197621514,
+      "content": "Obrigado amooor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670184879448,
+      "content": "feliz anivers\u00c3\u00a1riooooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Braga",
+      "timestamp_ms": 1661013244445,
+      "content": "Juro kkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661012599563,
+      "content": "a cara dela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661012586066,
+      "content": "vc parece a sininho do peter pan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos Braga",
+  "is_still_participant": true,
+  "thread_path": "inbox/carlosbraga_919432879448694",
+  "magic_words": [
+    
+  ]
+}

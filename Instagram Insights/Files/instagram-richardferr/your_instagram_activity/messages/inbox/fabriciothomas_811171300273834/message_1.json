@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0098\u0085Fabricio Thomas\u00e2\u0098\u0085"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u0098\u0085Fabricio Thomas\u00e2\u0098\u0085",
+      "timestamp_ms": 1651080298439,
+      "content": "\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1651081326
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0098\u0085Fabricio Thomas\u00e2\u0098\u0085",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabriciothomas_811171300273834",
+  "magic_words": [
+    
+  ]
+}

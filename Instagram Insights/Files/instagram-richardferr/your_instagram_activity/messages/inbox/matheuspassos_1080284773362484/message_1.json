@@ -1,0 +1,1168 @@
+{
+  "participants": [
+    {
+      "name": "Matheus Passos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784215793361,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784152090686,
+      "content": "Amanh\u00c3\u00a3 vou para Coimbra",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matheus Passos"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784151853808,
+      "content": "E quando vai embora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784151849346,
+      "content": "Sei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784148526922,
+      "content": "Perto do bolh\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784148349204,
+      "content": "E tu t\u00c3\u00a1 aonde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784147166796,
+      "content": "Ah bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784146751870,
+      "content": "Vila nova de Gaia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784146737014,
+      "content": "Mas devesas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784145764761,
+      "content": "Onde voc\u00c3\u00aa mora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784138889253,
+      "content": "T\u00c3\u00a1 pertinho aqui de casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784132648580,
+      "content": "Estou sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1784131623230,
+      "content": "T\u00c3\u00a1 no Porto?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3941838066025238584"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778484797847,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778446738125,
+      "content": "\u00c3\u0089 sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Matheus Passos"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778432755198,
+      "content": "Que bom. Espanha n\u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778430249031,
+      "content": "T\u00c3\u00b4 em Val\u00c3\u00aancia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778430238033,
+      "content": "Tu ainda t\u00c3\u00a1 na mesma cidade?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778430231222,
+      "content": "Gosto sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778430221013,
+      "content": "Gostando da\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778430069147,
+      "content": "To em Gaia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778430060243,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778430057119,
+      "content": "N\u00c3\u00a3o, mudei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778429969763,
+      "content": "Ainda moras no mesmo lugar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778429953701,
+      "content": "Muito bem obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778429671612,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778429633434,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1778422992570,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1778332964429,
+      "content": "Boa tarde",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3892759376041924479"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1713007443776,
+      "content": "Bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1713003982867,
+      "content": "Muito bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1712997534033,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1712996399621,
+      "content": "T\u00c3\u00a1 bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1712996397259,
+      "content": "Hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1712996375641,
+      "content": "Safado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1712996371989,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1712994735311,
+      "content": "Bom dia hehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1712994732814,
+      "content": "T\u00c3\u00a1 a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711242313701,
+      "content": "Cad\u00c3\u00aa seus nudes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1711242300412,
+      "content": "Fica mais f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711241731281,
+      "content": "Eu vou todas as quintas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1711241620727,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711241440454,
+      "content": "\u00c3\u0089 no Porto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1711241390733,
+      "content": "Mas e a\u00c3\u00ad, quando vens por aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1711241375972,
+      "content": "Heheh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711241267885,
+      "content": "Eu imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1711241022441,
+      "content": "Muito bem e muito trabalho hehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711240650986,
+      "content": "matt.passos wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711240650589,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1711240610141,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711195963017,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1711185446911,
+      "content": "Bom dia hehheheh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1711183252591,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1706726685396,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3292567345150013526"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1691452025457,
+      "content": "eu trabalho de manh\u00c3\u00a3 rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1691450716373,
+      "content": "Quinta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1691450712175,
+      "content": "S\u00c3\u00b3 se for pela manh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1691450708289,
+      "content": "Quanta eu trabalho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1691450678356,
+      "content": "eu vou ir toda quinta, at\u00c3\u00a9 ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1691450147073,
+      "content": "Dif\u00c3\u00adcil te ver ent\u00c3\u00a3o hehehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1691450122184,
+      "content": "acabei de chegar em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1691450120629,
+      "content": "Hehehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1691450097296,
+      "content": "estava rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1691449165022,
+      "content": "Estar em Porto?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3164370696435371202"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1686133990020,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1686133986837,
+      "content": "Ol\u00c3\u00a1 \nBom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1686132786865,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1686096115702,
+      "content": "Oi",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3119454596153759169"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685546085213,
+      "content": "jkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685546014206,
+      "content": "Quem dorme assim hahhahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685546009421,
+      "content": "Nao hahhahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685546001883,
+      "content": "Mas com a lagarta dentro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685545997305,
+      "content": "Igual conchinha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685545398775,
+      "content": "Casulo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685545385633,
+      "content": "assim que \u00c3\u00a9 bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685545381327,
+      "content": "casulo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685545330343,
+      "content": "E conchinha hahhaha eu gosto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685545319097,
+      "content": "Abra\u00c3\u00a7o, cheirinho no pesco\u00c3\u00a7o, bons beijos e amassos e depois\u00e2\u0080\u00a6 pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685545280112,
+      "content": "mas, o que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685544923723,
+      "content": "MAs\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685544920213,
+      "content": "Pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685544874647,
+      "content": "atab\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685544784054,
+      "content": "S\u00c3\u00b3 dormir heheh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685544776364,
+      "content": "Dormir n\u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685533964824,
+      "content": "Vendem dormir comigo hoje hehheheh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685533959130,
+      "content": "Muito bem.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685531119364,
+      "content": "Dormi sim e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685525713620,
+      "content": "Dormiu bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685525710362,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685525688136,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685525686740,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685493875294,
+      "content": "Restaura\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685493733607,
+      "content": "voc\u00c3\u00aa faz o que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685493729017,
+      "content": "ahh ent\u00c3\u00a3o eu imagino o cansa\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685493566697,
+      "content": "Trabalhei direto das 14 \u00c3\u00a0s 23",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685493557520,
+      "content": "To hehehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685493510134,
+      "content": "Carinha de cansado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685493499823,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492819674,
+      "content": "Tirada na hora hahahhah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492804429,
+      "content": "Nao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492802931,
+      "content": "Hahahaahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492792987,
+      "content": "rapaz, voc\u00c3\u00aa mandou foto que expira e eu achei que era nude kkkk scr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492766397,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492733602,
+      "content": "Pois t\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492701119,
+      "content": "se voc\u00c3\u00aa fica mais confort\u00c3\u00a1vel a\u00c3\u00ad, ent\u00c3\u00a3o eu vou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492664921,
+      "content": "MAs voc\u00c3\u00aa que sabe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492660240,
+      "content": "Aqui vou me sentir mais \u00c3\u00a0 vontade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492644497,
+      "content": "voc\u00c3\u00aa prefere que eu v\u00c3\u00a1 ou que voc\u00c3\u00aa venha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492600204,
+      "content": "Porto, Matosinhos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492540944,
+      "content": "Onde \u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492380635,
+      "content": "Sim. Voc\u00c3\u00aa quer vir aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492286717,
+      "content": "Se for mesmo, podemos marcar algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685492155798,
+      "content": "Coisa boa hehehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492089009,
+      "content": "se tiver, eu folgo tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492082981,
+      "content": "Acho que tem um feriado na pr\u00c3\u00b3xima quarta, n\u00c3\u00a3o tenho certeza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685492062798,
+      "content": "ahh saquei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685491964927,
+      "content": "Hoje por exemplo t\u00c3\u00b4 de folga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685491957848,
+      "content": "S\u00c3\u00b3 nas quartas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685491942662,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685491940841,
+      "content": "Eu folgo sempre aos finais de semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685491860135,
+      "content": "Quais s\u00c3\u00a3o os dias que pode?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685491845785,
+      "content": "Ent\u00c3\u00a3o podemos ver isso hehheh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685491837140,
+      "content": "Pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685491820650,
+      "content": "sim, eu quero tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685491676101,
+      "content": "Ou aqui ou a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685491672220,
+      "content": "Queria marcar um dia pra gente se ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685491275362,
+      "content": "Rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685490396895,
+      "content": "Bem tarde hehhehehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685489769790,
+      "content": "Chegou tarde em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685489764110,
+      "content": "Ahh sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685489676165,
+      "content": "Cheguei do trabalho 11:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685489667926,
+      "content": "Quase indo deitar. Na mesa ainda, como tem uma meia hora e ainda n\u00c3\u00a3o levantei heheh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685489647549,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685489644035,
+      "content": "deitado e com t\u00c3\u00a9dio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685489619091,
+      "content": "O que fazes agora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685489612192,
+      "content": "Muito bem .",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685489477501,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685489362561,
+      "content": "Como voc\u00c3\u00aa t\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1685489299633,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1685489132252,
+      "content": "Ola!",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3114369971454344980"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683540655344,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683540653535,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683532781007,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683532774399,
+      "content": "Pessoal do meu trabalho est\u00c3\u00a3o fazendo as escalas ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683487262131,
+      "content": "Quando \u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683485183667,
+      "content": "Podemos ver algo pra uma folga minha, se quiser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683470661456,
+      "content": "Quando vem a Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683470653519,
+      "content": "Ainda n\u00c3\u00a3o sei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683447830034,
+      "content": "Lindao! Quando vem por Porto?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3096902116198662169"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683067011197,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683064845463,
+      "content": "Agora assistindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683064256359,
+      "content": "Estou estudando e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683064157006,
+      "content": "O que fazes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683064150365,
+      "content": "Muito bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683063050835,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683062701808,
+      "content": "Como voc\u00c3\u00aa t\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683060050895,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1683058055220,
+      "content": "Boa noite",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3093992274678318927"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matheus Passos",
+      "timestamp_ms": 1681081365772,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3077326937806643521"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Matheus Passos",
+  "is_still_participant": true,
+  "thread_path": "inbox/matheuspassos_1080284773362484",
+  "magic_words": [
+    
+  ]
+}

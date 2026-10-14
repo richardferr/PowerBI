@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "a i s l a"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659123267440,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659095030553,
+      "content": "Depois vamos marcar de ir num fim de semana",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "a i s l a",
+          "timestamp": 1659123267
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659095021833,
+      "content": "Pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659090252216,
+      "content": "ah que pena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659055234367,
+      "content": "no final estava legalzinho l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659055224603,
+      "content": "pena que foram embora cedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659055215852,
+      "content": "ainda bem rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659044819679,
+      "content": "no final deu tudo certo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659044811537,
+      "content": "mas agora j\u00c3\u00a1 estou bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659044807828,
+      "content": "nossa, passei mal depois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659044799721,
+      "content": "Reacted \u00f0\u009f\u00a5\u00b0 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659026694114,
+      "content": "voc\u00c3\u00aa est\u00c3\u00a1 bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659026689955,
+      "content": "foi o calor do momento",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a5\u00b0",
+          "actor": "a i s l a",
+          "timestamp": 1659044799
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659026668940,
+      "content": "Imagina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659026661704,
+      "content": "Eii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659018000339,
+      "content": "pe\u00c3\u00a7a mil desculpas pra sua amiga, no desespero eu acabei sendo grossa com ela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659017955372,
+      "content": "obrigada por me ajudar a procurar o celular ontem \u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "a i s l a",
+      "timestamp_ms": 1659017938624,
+      "content": "migo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "a i s l a",
+  "is_still_participant": true,
+  "thread_path": "inbox/aisla_928390985227950",
+  "magic_words": [
+    
+  ]
+}

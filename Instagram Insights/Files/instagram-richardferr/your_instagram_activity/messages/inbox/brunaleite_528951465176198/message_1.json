@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Bruna Leite"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1599964572687,
+      "content": "Kkkk casamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruna Leite",
+      "timestamp_ms": 1599963572686,
+      "content": "Saudades tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruna Leite",
+      "timestamp_ms": 1599963569169,
+      "content": "Que hist\u00c3\u00b3ria \u00c3\u00a9 essa de marido de Ludi?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1599959910192,
+      "content": "Ahhh saudadesssss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruna Leite",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunaleite_528951465176198",
+  "magic_words": [
+    
+  ]
+}

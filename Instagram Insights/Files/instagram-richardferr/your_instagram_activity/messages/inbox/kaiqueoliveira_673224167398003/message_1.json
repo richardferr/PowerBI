@@ -1,0 +1,165 @@
+{
+  "participants": [
+    {
+      "name": "Kaique Oliveira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640787203762,
+      "content": "Vamos sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1640787464
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640787198937,
+      "content": "Dmmmr!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640787198247,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640745845633,
+      "content": "Depois vamos marcar um rol\u00c3\u00aa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kaique Oliveira",
+          "timestamp": 1640787198
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640745823534,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640743752867,
+      "content": "Podexa ent\u00c3\u00a3o!! Vou segurar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640743746725,
+      "content": "Hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640738873295,
+      "content": "Fica lindo assim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640738870060,
+      "content": "Haha n\u00c3\u00a3o faz mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640738833292,
+      "content": "Ainda n\u00c3\u00a3o criei essa coragem rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640738826787,
+      "content": "Naoo hahahha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640738504700,
+      "content": "Quase chorei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640738501994,
+      "content": "Achei que ia pintar de outra cor kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640738501762,
+      "content": "Ahh simm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640738363633,
+      "content": "Ssim, retocar a cor rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640738157054,
+      "content": "Vai pintar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640737071927,
+      "content": "Amanh\u00c3\u00a3 vou dar um jeitinho nele rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaique Oliveira",
+      "timestamp_ms": 1640737061878,
+      "content": "Aiii, obgdxxxx \u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640736235260,
+      "content": "ahhh eu acho seu cabelo t\u00c3\u00a3o lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kaique Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaiqueoliveira_673224167398003",
+  "magic_words": [
+    
+  ]
+}

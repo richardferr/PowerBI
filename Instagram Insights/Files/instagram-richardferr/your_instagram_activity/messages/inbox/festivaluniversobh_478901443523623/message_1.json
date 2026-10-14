@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "FESTIVAL UNIVERSO BH"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1576355672315,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2198953037636931759"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1576355002616,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2198946827298763410"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FESTIVAL UNIVERSO BH",
+  "is_still_participant": true,
+  "thread_path": "inbox/festivaluniversobh_478901443523623",
+  "magic_words": [
+    
+  ]
+}

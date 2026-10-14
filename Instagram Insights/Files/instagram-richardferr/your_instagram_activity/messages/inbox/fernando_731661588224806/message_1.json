@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Fernando"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernando",
+      "timestamp_ms": 1641069937103,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640970126324,
+      "content": "que fofinho",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Fernando",
+          "timestamp": 1641069937
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernando_731661588224806",
+  "magic_words": [
+    
+  ]
+}

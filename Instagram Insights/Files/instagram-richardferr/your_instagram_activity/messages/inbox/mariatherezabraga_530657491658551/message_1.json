@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Maria Thereza Braga"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1571018038302,
+      "content": "Maria sent an attachment.",
+      "share": {
+        "link": "https://www.sympla.com.br/kvsh-apresenta-festa-krush--bh__658331?afid=28958",
+        "share_text": "Come\u00c3\u00a7a: Quinta, 14 de novembro de 2019, 23h Termina: Sexta, 15 de novembro de 2019, 08h"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569896743257,
+      "content": "\u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569896650857,
+      "content": "!*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569896648593,
+      "content": "Muito obrigada.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569896645657,
+      "content": "Tem o contador sim!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569896619574,
+      "content": "Ele tem o contador ou precisa te mandar o print da compra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569896545699,
+      "content": "Precisando e s\u00c3\u00b3 chamar aqui!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569896535216,
+      "content": "Nadaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569896192591,
+      "content": "Valeuu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569895839461,
+      "content": "Maria sent an attachment.",
+      "share": {
+        "link": "https://www.sympla.com.br/kvsh-apresenta-festa-krush--bh__658331?afid=28958",
+        "share_text": "Come\u00c3\u00a7a: Quinta, 14 de novembro de 2019, 23h Termina: Sexta, 15 de novembro de 2019, 08h"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569895794052,
+      "content": "Libera amanh\u00c3\u00a3 meio dia!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Thereza Braga",
+      "timestamp_ms": 1569895788374,
+      "content": "Mando sim!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569895735090,
+      "content": "Me manda o link quando liberar as vendas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria Thereza Braga",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariatherezabraga_530657491658551",
+  "magic_words": [
+    
+  ]
+}

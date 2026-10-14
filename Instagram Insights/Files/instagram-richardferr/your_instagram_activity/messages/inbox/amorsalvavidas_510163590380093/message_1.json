@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "AMOR SALVA VIDAS \u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1614704205752,
+      "content": "Chamo agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AMOR SALVA VIDAS \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1614704095609,
+      "content": "Se puder me chama que te coloco no grupo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AMOR SALVA VIDAS \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1614704073942,
+      "content": "31988133049",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AMOR SALVA VIDAS \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1614704065475,
+      "content": "Vamos esses FDS, s\u00c3\u00a1bado ou domingo, se vc quiser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AMOR SALVA VIDAS \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "timestamp_ms": 1614704048186,
+      "content": "Boa tarde, sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1614482639336,
+      "content": "Precisam de volunt\u00c3\u00a1rios para ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1614482630298,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1614482626668,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1614482624339,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AMOR SALVA VIDAS \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/amorsalvavidas_510163590380093",
+  "magic_words": [
+    
+  ]
+}

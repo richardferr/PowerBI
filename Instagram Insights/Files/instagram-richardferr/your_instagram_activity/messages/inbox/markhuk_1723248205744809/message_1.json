@@ -1,0 +1,133 @@
+{
+  "participants": [
+    {
+      "name": "Mark Huk"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1774211300686,
+      "content": "Okey \u00f0\u009f\u0091\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1774211300019,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1774210982547,
+      "content": "come to Valencia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mark Huk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1767219335140,
+      "content": "Happy new year",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1767215557665,
+      "content": "Happy New Year!\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u0086",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1767215546598,
+      "content": "Yeah, vip lounge)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1767215529195,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1767207332406,
+      "content": "Fancy",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mark Huk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1759055997094,
+      "content": "Good \u00f0\u009f\u0091\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1759055994316,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759055776377,
+      "content": "Nice, let me know when u come here",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mark Huk"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark Huk",
+      "timestamp_ms": 1759055358445,
+      "content": "Yeah, I plan to visit Valencia one day\u00f0\u009f\u008f\u009d\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759028940750,
+      "content": "come to visit Valencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mark Huk",
+  "is_still_participant": true,
+  "thread_path": "inbox/markhuk_1723248205744809",
+  "magic_words": [
+    
+  ]
+}

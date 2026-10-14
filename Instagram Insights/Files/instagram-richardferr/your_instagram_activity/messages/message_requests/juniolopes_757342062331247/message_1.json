@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Junio Lopes"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Junio Lopes",
+      "timestamp_ms": 1638720649206,
+      "content": "Gato de mais",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2722103666519450436"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Junio Lopes",
+  "is_still_participant": true,
+  "thread_path": "message_requests/juniolopes_757342062331247",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

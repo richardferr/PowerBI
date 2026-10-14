@@ -1,0 +1,200 @@
+{
+  "participants": [
+    {
+      "name": "Airton Robert's"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1608504302478,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1608496941794,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Airton Robert's",
+          "timestamp": 1608504302
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1573437458754,
+      "content": "Queroo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1573437226080,
+      "content": "Meu sonho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1573437222523,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1573437110447,
+      "content": "Al\u00c3\u00a1 o menage",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Airton Robert's"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569074501133,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569071885663,
+      "content": "Faz e me fala se foi aprovado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569031075355,
+      "content": "N\u00c3\u00a3o sei, acho que j\u00c3\u00a1, vou fazer outra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569020172677,
+      "content": "A \u00c3\u00baltima que vc fez j\u00c3\u00a1 espirou?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569019352654,
+      "content": "Expirava eu ia l\u00c3\u00a1 e fazia um novo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569019344899,
+      "content": "Sim, v\u00c3\u00a1rias vezes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569008019873,
+      "content": "Vc cadastrou naquele link?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569001966554,
+      "content": "C\u00c3\u00aa podia me indicar kkkk t\u00c3\u00b4 precisando muito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569001959454,
+      "content": "Oxi nem fiquei sabendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569001546798,
+      "content": "Santo*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569001543602,
+      "content": "Esses dias estavam contratando l\u00c3\u00a1 na portaria da esp\u00c3\u00adrito danto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569001522638,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569001195973,
+      "content": "Richard faz a aec me contratar de novo kkkk j\u00c3\u00a1 tentei v\u00c3\u00a1rias vezes e n\u00c3\u00a3o me chamam \u00f0\u009f\u0098\u00a2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1569001173320,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1568946264088,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Airton Robert's"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Airton Robert's",
+      "timestamp_ms": 1566767952696,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2117940586799234117"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Airton Robert's",
+  "is_still_participant": true,
+  "thread_path": "inbox/airtonroberts_538819580842342",
+  "magic_words": [
+    
+  ]
+}

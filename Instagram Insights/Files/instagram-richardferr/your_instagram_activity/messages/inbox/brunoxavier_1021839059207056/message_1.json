@@ -1,0 +1,173 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Xavier\u00e2\u009c\u00a8"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1675031871662,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1675035068
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3026689812880841816"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1674423454133,
+      "content": "fui com amigos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1674423263756,
+      "content": "Foi pra\nNb bem convocou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673988915472,
+      "content": "960244550",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673988911779,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673988885476,
+      "content": "Quase sempre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673988869331,
+      "content": "Voc\u00c3\u00aa mora sozinho?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673988804600,
+      "content": "932467347",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673988800181,
+      "content": "Vc vai dizer junto vamos nos ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673988791204,
+      "content": "Mais pra n\u00c3\u00a3o ser ansioso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673988785059,
+      "content": "Por mim agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673988762960,
+      "content": "E a Netflix?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673988271001,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673987745485,
+      "content": "10 meses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673987312182,
+      "content": "voc\u00c3\u00aa mora aqui tem quanto tempo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673987304359,
+      "content": "rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673987164521,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/brunoxavier_1021839059207056/audio/732019641518245.mp4",
+          "creation_timestamp": 1673987161
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673985668439,
+      "content": "O que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Xavier\u00e2\u009c\u00a8",
+      "timestamp_ms": 1673985559717,
+      "content": "Por onde come\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673985153960,
+      "content": "E a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Xavier\u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunoxavier_1021839059207056",
+  "magic_words": [
+    
+  ]
+}

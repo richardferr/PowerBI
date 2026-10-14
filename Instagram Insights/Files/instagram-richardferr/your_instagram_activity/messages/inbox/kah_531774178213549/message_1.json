@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089",
+      "timestamp_ms": 1586390005481,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1586389718566,
+      "content": "Que batom? Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089",
+      "timestamp_ms": 1586387948172,
+      "content": "Me passa o nome desse batom kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089",
+      "timestamp_ms": 1577049070893,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089",
+      "timestamp_ms": 1577049067411,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1576811505703,
+      "content": "Invejosa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089",
+      "timestamp_ms": 1576792976370,
+      "content": "Que palha\u00c3\u00a7ada \u00c3\u00a9 essa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2201945057112437605"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0091\u00b2\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0089",
+  "is_still_participant": true,
+  "thread_path": "inbox/kah_531774178213549",
+  "magic_words": [
+    
+  ]
+}

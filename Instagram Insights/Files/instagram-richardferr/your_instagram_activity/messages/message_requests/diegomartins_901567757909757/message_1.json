@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Martins"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Martins",
+      "timestamp_ms": 1654128721503,
+      "content": "Lindo vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Martins",
+      "timestamp_ms": 1654128715741,
+      "content": "TD bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Martins",
+      "timestamp_ms": 1654128713635,
+      "content": "Oi boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego Martins",
+  "is_still_participant": true,
+  "thread_path": "message_requests/diegomartins_901567757909757",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

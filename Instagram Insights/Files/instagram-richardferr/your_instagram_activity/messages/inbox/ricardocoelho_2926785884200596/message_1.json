@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Ricardo Coelho"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ricardo Coelho",
+      "timestamp_ms": 1638731165181,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1638731230
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2722187437299067743"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1633028753627,
+      "content": "haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Coelho",
+      "timestamp_ms": 1633028323416,
+      "content": "Vc gostos\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1633028280419,
+      "content": "gostoso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Coelho",
+      "timestamp_ms": 1633028127645,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1633028277
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2674333312150769349"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ricardo Coelho",
+  "is_still_participant": true,
+  "thread_path": "inbox/ricardocoelho_2926785884200596",
+  "magic_words": [
+    
+  ]
+}

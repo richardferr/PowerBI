@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Rafael Aguiar"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657151489304,
+      "content": "que? 2003? eu j\u00c3\u00a1 tinha 8 anos kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657151456682,
+      "content": "feliz anivers\u00c3\u00a1rioooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafael Aguiar",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafaelaguiar_839931390731158",
+  "magic_words": [
+    
+  ]
+}

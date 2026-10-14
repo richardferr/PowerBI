@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "T\u00c3\u00a1ssara"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "T\u00c3\u00a1ssara",
+      "timestamp_ms": 1569877916399,
+      "content": "Obrigada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569876185512,
+      "content": "Posso olhar com eles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569876179790,
+      "content": "Tem uns amigos meus de Divin\u00c3\u00b3polis querendo vir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569876168350,
+      "content": "Vou sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569876161221,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569876155458,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00a1ssara",
+      "timestamp_ms": 1569875212923,
+      "content": "Se vc souber de algum grup\u00c3\u00a3o me fala que tlvz de pra chamar algu\u00c3\u00a9m pra dividir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00a1ssara",
+      "timestamp_ms": 1569875186478,
+      "content": "eu to mt animada pra ir e tls, moro em Valadares da\u00c3\u00ad to vendo algum Hostel pra ficar e tls",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00a1ssara",
+      "timestamp_ms": 1569875138127,
+      "content": "Voce na KRUSH?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00a1ssara",
+      "timestamp_ms": 1569875035859,
+      "content": "Eu vi que voc\u00c3\u00aa \u00c3\u00a9 de bh e p\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00a1ssara",
+      "timestamp_ms": 1569875026397,
+      "content": "T\u00c3\u00a1 joia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00a1ssara",
+      "timestamp_ms": 1569875022830,
+      "content": "Olaaar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "T\u00c3\u00a1ssara",
+  "is_still_participant": true,
+  "thread_path": "inbox/tassara_535656134492020",
+  "magic_words": [
+    
+  ]
+}

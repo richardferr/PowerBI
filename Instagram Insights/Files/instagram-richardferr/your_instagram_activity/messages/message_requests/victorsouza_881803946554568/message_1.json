@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Victor Souza"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Victor Souza",
+      "timestamp_ms": 1652201483847,
+      "content": "Tudo bom?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Souza",
+      "timestamp_ms": 1651597708295,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor Souza",
+  "is_still_participant": true,
+  "thread_path": "message_requests/victorsouza_881803946554568",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

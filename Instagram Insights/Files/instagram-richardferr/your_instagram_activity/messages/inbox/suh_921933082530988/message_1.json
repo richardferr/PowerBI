@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Suh"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suh",
+      "timestamp_ms": 1663670535350,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2931157729476021585"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Suh",
+  "is_still_participant": true,
+  "thread_path": "inbox/suh_921933082530988",
+  "magic_words": [
+    
+  ]
+}

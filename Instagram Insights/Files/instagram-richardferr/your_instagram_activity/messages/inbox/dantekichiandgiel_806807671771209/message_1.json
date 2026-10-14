@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Dante Kichi"
+    },
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Giel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dante Kichi",
+      "timestamp_ms": 1757768005464,
+      "content": "No worries",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giel",
+      "timestamp_ms": 1757767964885,
+      "content": "Hey, I thought a bit more about it too. But I will skip this one",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dante Kichi"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dante Kichi",
+      "timestamp_ms": 1757682032391,
+      "content": "dantekichi reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dante Kichi",
+      "timestamp_ms": 1757682026550,
+      "content": "Ideally soon as I think there aren\u00e2\u0080\u0099t many tickets left",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dante Kichi",
+      "timestamp_ms": 1757682012850,
+      "content": "They are paying athletic club and sorry it\u00e2\u0080\u0099s on the 20th",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giel",
+      "timestamp_ms": 1757680149233,
+      "content": "Hey! When do u want to buy the tickets and who are they playing?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757673665370,
+      "content": "Ohh, I won\u00e2\u0080\u0099t 21st, I\u00e2\u0080\u0099ll have a compromise :/",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Dante Kichi"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1757673617547,
+      "content": "Hey, all good and u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dante Kichi",
+      "timestamp_ms": 1757668987435,
+      "content": "Hey guys how\u00e2\u0080\u0099s it going? Are either of you guys interested in going to see a Valencia CF match? I\u00e2\u0080\u0099m thinking of going Sept 21st, tickets are 50-60 euros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dante Kichi and Giel",
+  "is_still_participant": true,
+  "thread_path": "inbox/dantekichiandgiel_806807671771209",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbZD4ZWPHLSk5kWQ/"
+  }
+}

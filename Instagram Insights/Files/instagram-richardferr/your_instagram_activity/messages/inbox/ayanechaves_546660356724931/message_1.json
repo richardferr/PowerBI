@@ -1,0 +1,333 @@
+{
+  "participants": [
+    {
+      "name": "Ayane Chaves"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1663630734801,
+      "content": "Obrigada !!!!\u00f0\u009f\u0092\u0097",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1663630728410,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663626231116,
+      "content": "parab\u00c3\u00a9ns \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ayane Chaves",
+          "timestamp": 1663630728
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579180832986,
+      "content": "Salto nem pensar",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579180826168,
+      "content": "pq \u00c3\u00a9 na terra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579180819230,
+      "content": "N\u00c3\u00a3o v\u00c3\u00a1 com roupa nova e nem salto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579180806666,
+      "content": "hahaha vc vai gostar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579180739534,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579180737444,
+      "content": "N sei nem que tipo de roupa eu uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579180728783,
+      "content": "Eu tenho at\u00c3\u00a9 medo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579180703335,
+      "content": "se conseguirmos rs pq vai gnt demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579180692502,
+      "content": "talvez a gnt encontre l\u00c3\u00a1 ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579180674988,
+      "content": "\u00c3\u00a9 ela mesmo, ela \u00c3\u00a9 \u00c3\u00b3tima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579172749679,
+      "content": "Dia 14 eu acho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579172743559,
+      "content": "Mas \u00c3\u00a9 em mar\u00c3\u00a7o ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579172734943,
+      "content": "N\u00c3\u00a3o sei o nome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579144126149,
+      "content": "na Boombay?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1579144119871,
+      "content": "hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579130349243,
+      "content": "Talvez a gente se esbarre l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579130343304,
+      "content": "Como eu sei q vc sempre vai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579130333408,
+      "content": "Ele t\u00c3\u00a1 querendo me arrastar pra minha primeira rave em Betim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579130288586,
+      "content": "Kkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579130286172,
+      "content": "Pra mim ele \u00c3\u00a9 lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579130279582,
+      "content": "Uaaaai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1579130276774,
+      "content": "Moro em Divin\u00c3\u00b3polis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578954906009,
+      "content": "Qual a ra\u00c3\u00a7a do namorado? Bonito?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578954883042,
+      "content": "Serio? Mudou pra onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1578842911337,
+      "content": "Me mudei pra estudar, agr tenho um namorido \u00c3\u00a9 um cachorro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578789065347,
+      "content": "Como vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578789061856,
+      "content": "E vc?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578789059747,
+      "content": "Sem nada de bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578789055712,
+      "content": "Aqui nessa BH",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578789050905,
+      "content": "Eu na mesma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1578780692378,
+      "content": "O que tem feito?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578756992297,
+      "content": "Saudades tbm \u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1578752008581,
+      "content": "Saudades \u00f0\u009f\u00a5\u00b0",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2218617465080672451"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1577847125566,
+      "content": "\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1577847112480,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1577846313483,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ayane Chaves"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1569800905850,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ayane Chaves",
+      "timestamp_ms": 1568769193850,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1568768085998,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ayane Chaves",
+  "is_still_participant": true,
+  "thread_path": "inbox/ayanechaves_546660356724931",
+  "magic_words": [
+    
+  ]
+}

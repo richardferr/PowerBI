@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Parlei bernardoni"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Parlei bernardoni",
+      "timestamp_ms": 1738666294750,
+      "content": "Ent\u00c3\u00a3o ? Rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Parlei bernardoni",
+      "timestamp_ms": 1738405147741,
+      "content": "E ter\u00c3\u00a7a se vemos ? Heheh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Parlei bernardoni",
+      "timestamp_ms": 1738405143674,
+      "content": "To bem tamb\u00c3\u00a9m hehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738405115586,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Parlei bernardoni",
+      "timestamp_ms": 1738404837336,
+      "content": "T\u00c3\u00a1 bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1738404824553,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Parlei bernardoni",
+      "timestamp_ms": 1738404652939,
+      "content": "Eii bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Parlei bernardoni",
+  "is_still_participant": true,
+  "thread_path": "inbox/parleibernardoni_1537177491006541",
+  "magic_words": [
+    
+  ]
+}

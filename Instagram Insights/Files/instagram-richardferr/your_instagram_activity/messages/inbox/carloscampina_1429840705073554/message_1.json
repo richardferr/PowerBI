@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "carlos campina"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "carlos campina",
+      "timestamp_ms": 1789241409675,
+      "content": "Ola  tudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "carlos campina",
+      "timestamp_ms": 1787939251312,
+      "content": "Ola tudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "carlos campina",
+  "is_still_participant": true,
+  "thread_path": "inbox/carloscampina_1429840705073554",
+  "magic_words": [
+    
+  ]
+}

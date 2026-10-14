@@ -1,0 +1,182 @@
+{
+  "participants": [
+    {
+      "name": "Oliver S. Oerding"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677528014233,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1677527914859,
+      "content": "I am in Germany  right now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1677527911032,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1677527860600,
+      "content": "\u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673483425714,
+      "content": "And u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673483419845,
+      "content": "I\u00e2\u0080\u0099m here there is one month",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Oliver S. Oerding",
+          "timestamp": 1677527911
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673483397619,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673483331200,
+      "content": "Do I study there ?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1673855223
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673483323118,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673481322305,
+      "content": "I\u00e2\u0080\u0099m Coimbra",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Oliver S. Oerding",
+          "timestamp": 1673483323
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673479885587,
+      "content": "I am in cascais right now and where are u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673479865978,
+      "content": "I am from Germany",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673479846546,
+      "content": "And u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673479843265,
+      "content": "But I\u00e2\u0080\u0099m from Brasil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673479836611,
+      "content": "I live in Portugal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673468892490,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3013565791660230501"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673468692802,
+      "content": "Where do you live ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673468687156,
+      "content": "Not bad here !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673466360150,
+      "content": "I\u00e2\u0080\u0099m fine and u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver S. Oerding",
+      "timestamp_ms": 1673454145833,
+      "content": "Hey all good with you ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Oliver S. Oerding",
+  "is_still_participant": true,
+  "thread_path": "inbox/oliversoerding_1017219949668967",
+  "magic_words": [
+    
+  ]
+}

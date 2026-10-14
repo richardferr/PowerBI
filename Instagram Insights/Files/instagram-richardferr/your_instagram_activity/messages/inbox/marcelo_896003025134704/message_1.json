@@ -1,0 +1,119 @@
+{
+  "participants": [
+    {
+      "name": "Marcelo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1670622923256,
+      "content": "Muito obrigado \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo",
+      "timestamp_ms": 1670618611195,
+      "content": "Parab\u00c3\u00a9ns bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1658106751256,
+      "content": "Igual o dono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo",
+      "timestamp_ms": 1658106617628,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo",
+      "timestamp_ms": 1658106616351,
+      "content": "Muito linda n\u00c3\u00a9 aaaA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1658105565552,
+      "content": "que fofinho",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Marcelo",
+          "timestamp": 1658106617
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo",
+      "timestamp_ms": 1652630002052,
+      "content": "Vc bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo",
+      "timestamp_ms": 1652629998019,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652577573697,
+      "content": "que lindinho",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Marcelo",
+          "timestamp": 1652629998
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652027231450,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651770248560,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo",
+      "timestamp_ms": 1651766544409,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2831541405658528806"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcelo",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcelo_896003025134704",
+  "magic_words": [
+    
+  ]
+}

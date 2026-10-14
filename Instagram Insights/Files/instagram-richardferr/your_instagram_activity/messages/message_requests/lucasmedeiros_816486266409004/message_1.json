@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Medeiros"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Medeiros",
+      "timestamp_ms": 1651683351920,
+      "content": "\u00f0\u009f\u0098\u008b\u00f0\u009f\u0098\u008b\u00f0\u009f\u0098\u008b\u00f0\u009f\u0098\u008b",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2830846292463262240"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Medeiros",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lucasmedeiros_816486266409004",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

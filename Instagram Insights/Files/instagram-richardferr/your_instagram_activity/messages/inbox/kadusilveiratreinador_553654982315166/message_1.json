@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Kadu Silveira Treinador"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1627010759024,
+      "content": "Sumi nada rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1627010750988,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1627010748371,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kadu Silveira Treinador",
+      "timestamp_ms": 1627009848270,
+      "content": "Nunca mais falou comigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kadu Silveira Treinador",
+      "timestamp_ms": 1627009844245,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kadu Silveira Treinador",
+      "timestamp_ms": 1627009839213,
+      "content": "Meu gostoso sumiu hein",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kadu Silveira Treinador",
+  "is_still_participant": true,
+  "thread_path": "inbox/kadusilveiratreinador_553654982315166",
+  "magic_words": [
+    
+  ]
+}

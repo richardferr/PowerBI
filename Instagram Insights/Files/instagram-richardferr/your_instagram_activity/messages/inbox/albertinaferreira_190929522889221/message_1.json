@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Albertina Ferreira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Albertina Ferreira",
+      "timestamp_ms": 1621809609883,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2579583349142005598"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albertina Ferreira",
+      "timestamp_ms": 1621809609030,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2579583349142005598"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Albertina Ferreira",
+      "timestamp_ms": 1621809606917,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2579583349142005598"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Albertina Ferreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/albertinaferreira_190929522889221",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "DR Sunga Bulge"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DR Sunga Bulge",
+      "timestamp_ms": 1613423996027,
+      "content": "Ben vindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DR Sunga Bulge",
+  "is_still_participant": true,
+  "thread_path": "inbox/drsungabulge_488784675845833",
+  "magic_words": [
+    
+  ]
+}

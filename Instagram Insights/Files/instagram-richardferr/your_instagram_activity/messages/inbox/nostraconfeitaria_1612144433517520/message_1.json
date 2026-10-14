@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Nostra Confeitaria"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nostra Confeitaria",
+      "timestamp_ms": 1736888391693,
+      "content": "Boa noite, fazemos sim.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nostra Confeitaria",
+      "timestamp_ms": 1736884315435,
+      "content": "\u00f0\u009f\u008d\u00b0Ol\u00c3\u00a1, seja muito bem-vindo(a) \u00c3\u00a0 Nostra Confeitaria! \u00f0\u009f\u00a7\u0081Neste momento estamos ausentes, o nosso hor\u00c3\u00a1rio de funcionamento \u00c3\u00a9 de Segunda a S\u00c3\u00a1bado das 9:30 \u00c3\u00a0s 19h! Deixamos-lhe o nosso contacto do WhatsApp para fazer o seu pedido ou esclarecer as suas duvidas de forma mais r\u00c3\u00a1pida, +351 912 556 194. Atrav\u00c3\u00a9s do nosso link pode consultar todos os nossos produtos https://linktr.ee/nostraconfeitaria  \u00f0\u009f\u008e\u0082  At\u00c3\u00a9 amanha!\n\nAguardamos a sua visita! Avenida Dr. Dias da Silva 186, Loja 1, 3000-135 Coimbra, Portugal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1736884313419,
+      "content": "Ol\u00c3\u00a1, boa noite\nVoc\u00c3\u00aas fazem bolos de anivers\u00c3\u00a1rio por encomenda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nostra Confeitaria",
+  "is_still_participant": true,
+  "thread_path": "inbox/nostraconfeitaria_1612144433517520",
+  "magic_words": [
+    
+  ]
+}

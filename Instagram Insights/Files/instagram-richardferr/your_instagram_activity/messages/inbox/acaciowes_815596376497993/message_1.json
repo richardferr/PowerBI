@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Ac\u00c3\u00a1cio Wes"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ac\u00c3\u00a1cio Wes",
+      "timestamp_ms": 1651616844093,
+      "content": "Bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac\u00c3\u00a1cio Wes",
+      "timestamp_ms": 1651616826822,
+      "content": "Hahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac\u00c3\u00a1cio Wes",
+      "timestamp_ms": 1651616821128,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651615187649,
+      "content": "obrigado rs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ac\u00c3\u00a1cio Wes",
+          "timestamp": 1651616821
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac\u00c3\u00a1cio Wes",
+      "timestamp_ms": 1651595233314,
+      "content": "Gato",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2829705836890735700"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ac\u00c3\u00a1cio Wes",
+  "is_still_participant": true,
+  "thread_path": "inbox/acaciowes_815596376497993",
+  "magic_words": [
+    
+  ]
+}

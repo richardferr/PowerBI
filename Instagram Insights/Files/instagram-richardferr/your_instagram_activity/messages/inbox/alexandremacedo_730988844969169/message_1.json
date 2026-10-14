@@ -1,0 +1,535 @@
+{
+  "participants": [
+    {
+      "name": "Alexandre Macedo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1643494555602,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1643494545151,
+      "content": "Hahaha que nada",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Alexandre Macedo",
+          "timestamp": 1643494555
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1643494330432,
+      "content": "Todo boizinho",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2762151597917298670"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642031865375,
+      "content": "Beleza ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642031841691,
+      "content": "Qualquer hor\u00c3\u00a1rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642031838080,
+      "content": "Pode ser rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642027185066,
+      "content": "Sexta eu tenho aula, a\u00c3\u00ad s\u00c3\u00b3 se for l\u00c3\u00a1 pelas 20:30 kk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642027166421,
+      "content": "Ent\u00c3\u00a3o voc\u00c3\u00aa n\u00c3\u00a3o vem hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642024084229,
+      "content": "Golpe kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642023205531,
+      "content": "Achei que era sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642023199641,
+      "content": "Nossa, tinha esquecido completamente kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642010768934,
+      "content": "T\u00c3\u00b4 te esperando mais tarde em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642010760997,
+      "content": "Tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642010747504,
+      "content": "Tranquilo e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642010414847,
+      "content": "Beleza?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642009927600,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1642004654895,
+      "content": "Oi\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1641303596913,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1641302667309,
+      "content": "Kkkkk sim",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Alexandre Macedo",
+          "timestamp": 1641303596
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1641284670054,
+      "content": "Gente que evolu\u00c3\u00addo, super amigo do ex kkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2743488683169807484"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640282441897,
+      "content": "Ohh kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1640282168943,
+      "content": "Rica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1640282158995,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2735192794295396372"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1639614432698,
+      "content": "Kkkkkk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1639615373
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2729598889931700972"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1639147355909,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1639146849690,
+      "content": "obrigadooo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Alexandre Macedo",
+          "timestamp": 1639147355
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1639131422257,
+      "content": "Parab\u00c3\u00a9ns gatinho",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2725334251292636278"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1638800005767,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1638800002443,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1638799738179,
+      "content": "Vc me chama em cima da hora kkkkkk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Alexandre Macedo",
+          "timestamp": 1638800002
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1638744225641,
+      "content": "Kkkk bora hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1638744209190,
+      "content": "Voc\u00c3\u00aa \u00c3\u00a9 mais enrolado que eu u\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1638733664428,
+      "content": "E a gente nunca se viu n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1638733650101,
+      "content": "O skin cara da gata kkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2722197309587895870"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1637744786623,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1637719748928,
+      "content": "Ohhh obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Alexandre Macedo",
+          "timestamp": 1637744786
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1637719743144,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1637714280366,
+      "content": "De fam\u00c3\u00adlia pelo jeito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1637714272904,
+      "content": "Cara\u00c3\u00ad sua irm\u00c3\u00a3 \u00c3\u00a9 m\u00c3\u00b3 gata",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636317537477,
+      "content": "Dmr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636317535163,
+      "content": "Dm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1636317421179,
+      "content": "Pode ser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636317407386,
+      "content": "Umas 22h?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1636317375975,
+      "content": "Uai que horas voc\u00c3\u00aa quer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636317311302,
+      "content": "Que horas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1636317200305,
+      "content": "E a\u00c3\u00ad vai rolar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1636317189614,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636316978938,
+      "content": "Ei rs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Alexandre Macedo",
+          "timestamp": 1636317189
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1636316694574,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1636316687213,
+      "content": "Ei",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2701942080774601159"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635633911267,
+      "content": "Sim kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635633905404,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1635630825976,
+      "content": "Kkkk motivacional ainda",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Alexandre Macedo",
+          "timestamp": 1635633905
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635630362541,
+      "content": "Kkkkkkk coach",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2696181337810784029"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635630321347,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635630319685,
+      "content": "Olha que chique",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1635630217678,
+      "content": "Marcar um dia que eu fa\u00c3\u00a7o para vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1635630210599,
+      "content": "Kkkkkkkk s\u00c3\u00b3 voc\u00c3\u00aa mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635629720511,
+      "content": "J\u00c3\u00a1 que voc\u00c3\u00aa vai me dar bolo que seja esse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635629710701,
+      "content": "Kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635629701711,
+      "content": "Eu quero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandre Macedo",
+      "timestamp_ms": 1635629692435,
+      "content": "Meu deus",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2696163470524808363"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alexandre Macedo",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexandremacedo_730988844969169",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Filipe Correia"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722872472496,
+      "content": "Hm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722872359494,
+      "content": "N\u00c3\u00a3o sei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722866794909,
+      "content": "Consegue vir aqui?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722864269439,
+      "content": "N\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722863433936,
+      "content": "E tem local?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722863186888,
+      "content": "Fim de semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722863118825,
+      "content": "Quando costuma ter tempo livre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722862098429,
+      "content": "Por mim sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722862063894,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722862033305,
+      "content": "vamos marcar algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722860634502,
+      "content": "N\u00c3\u00a3o sei ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722860461029,
+      "content": "Quando vem a Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722859380542,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722857341441,
+      "content": "Gostoso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722853835348,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722852914191,
+      "content": "Ando fora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722852200116,
+      "content": "Posso ver?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722852176702,
+      "content": "Tou normal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722852064486,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722852058948,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722852057229,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722851969550,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722851966822,
+      "content": "Acordou assim?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1722851961913,
+      "content": "Muito bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1722851869993,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379671203,
+      "content": "O resto tenho fotos no Instagram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721379652533,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379553287,
+      "content": "N\u00c3\u00a3o tenho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721379541817,
+      "content": "Posso ver mais nudes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379510622,
+      "content": "Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721379504834,
+      "content": "Vemos depois como resolver isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379438936,
+      "content": "Tu \u00c3\u00a9s Coimbra eu santa maria da feira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721379420384,
+      "content": "N\u00c3\u00a3o precisa me dar o rabo, s\u00c3\u00b3 me mamar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379382784,
+      "content": "Sou ativo tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721379287942,
+      "content": "N\u00c3\u00a3o curte?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379259001,
+      "content": "\u00c3\u0089s bonito arranja f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379251513,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721379244386,
+      "content": "Curti voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379236849,
+      "content": "Eu!? Ent\u00c3\u00a3o pk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721379171858,
+      "content": "Podia ser voc\u00c3\u00aa :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379150273,
+      "content": "Tu arranjas f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721379144152,
+      "content": "Boa \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721378993063,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721378831261,
+      "content": "Vamos trocar nudes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721378584758,
+      "content": "Sta Maria da feira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721378580449,
+      "content": "Sim e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721378575203,
+      "content": "Queria um amigo que me mamasse com frequ\u00c3\u00aancia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721378571191,
+      "content": "\u00c3\u0093timo. \u00c3\u0089s de Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721378551930,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721378445889,
+      "content": "Mas , n\u00c3\u00a3o impede amizade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721378439164,
+      "content": "Na boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721378433815,
+      "content": "Sou ativo tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721378413236,
+      "content": "Pk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721378330272,
+      "content": "Pena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721377986556,
+      "content": "Sou ativo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721377829193,
+      "content": "O que curte?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721377490923,
+      "content": "Tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721377485050,
+      "content": "\u00c3\u0093timo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721377369652,
+      "content": "Sim e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721377125680,
+      "content": "Solteiro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721377122440,
+      "content": "Que bom \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721377069325,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721377067365,
+      "content": "Tudo bem tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721376600935,
+      "content": "Bom dia \u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721376598868,
+      "content": "Bem e tu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721375781818,
+      "content": "Como est\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721375776405,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721370459020,
+      "content": "Gat\u00c3\u00a3o \u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3414837101508132698"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721370455336,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3414837101508132698"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721370189298,
+      "content": "Bonito tu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721370178961,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Filipe Correia",
+      "timestamp_ms": 1721370177251,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1721368552199,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Filipe Correia",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunofilipecorreia_1449777643083844",
+  "magic_words": [
+    
+  ]
+}

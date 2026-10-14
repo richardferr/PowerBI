@@ -1,0 +1,42 @@
+{
+  "organic_insights_audience": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "value": "Jul 15 - Oct 12",
+          "timestamp": 0
+        },
+        "Followers": {
+          "href": "",
+          "value": "1,884",
+          "timestamp": 0
+        },
+        "Followers Delta": {
+          "href": "",
+          "value": "-5.9% vs Apr 16 - Jul 14",
+          "timestamp": 0
+        },
+        "Follows": {
+          "href": "",
+          "value": "97",
+          "timestamp": 0
+        },
+        "Unfollows": {
+          "href": "",
+          "value": "215",
+          "timestamp": 0
+        },
+        "Overall followers": {
+          "href": "",
+          "value": "-118",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

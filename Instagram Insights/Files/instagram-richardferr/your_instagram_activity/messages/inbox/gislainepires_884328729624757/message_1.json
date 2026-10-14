@@ -1,0 +1,381 @@
+{
+  "participants": [
+    {
+      "name": "Gislaine Pires"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675384003492,
+      "content": "Q gracinha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1675472515
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675382970951,
+      "content": "Pra portugal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675382866487,
+      "content": "Pra onde vc foi gente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675382815740,
+      "content": "haha s\u00c3\u00a9rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675291605258,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675291599784,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675291597828,
+      "content": "Oo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675289456637,
+      "content": "Eu mudei de bh rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675274485163,
+      "content": "O q vc t\u00c3\u00a1 aprontando q n\u00c3\u00a3o apareceu mais na dduck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675274466696,
+      "content": "Sumiu uai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675270578332,
+      "content": "tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675270574532,
+      "content": "eii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675260244562,
+      "content": "Como vc t\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1675260222506,
+      "content": "Oh sumido",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3028605025662202591"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1664000339998,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gislainepires_884328729624757/photos/486951653064398.jpg",
+          "creation_timestamp": 1664000338
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1663992138226,
+      "content": "Parab\u00c3\u00a9nnssssssss \u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u0088",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1662686908011,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662682841310,
+      "content": "aff s\u00c3\u00b3 vou depois das 4 agr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1662654925566,
+      "content": "Eu s\u00c3\u00b3 posso beber dps das 4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662652341895,
+      "content": "quando eu vou, vc nao bebe n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1662454185538,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662431325691,
+      "content": "meus cunhados",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Gislaine Pires",
+          "timestamp": 1662454185
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138876153,
+      "content": "Vc fala o dia q for vim q a\u00c3\u00ad te falo se vou vim ou nao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138858761,
+      "content": "Ah pois \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138851236,
+      "content": "Tadinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138822606,
+      "content": "no dia que eu vou vc n\u00c3\u00a3o vai u\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138810844,
+      "content": "a gnt ia mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138807480,
+      "content": "KKKKKKKKK",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138747602,
+      "content": "Pq",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138745466,
+      "content": "Uai oq",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138741296,
+      "content": "Ele t\u00c3\u00a1 achando q vc t\u00c3\u00a1 aki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138685142,
+      "content": "lament\u00c3\u00a1vel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138680831,
+      "content": "um dos meninos desistiu, a\u00c3\u00ad ficou todo mundo aqui em casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138676671,
+      "content": "Ontem estava de folga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138662258,
+      "content": "ontem fui e vc n\u00c3\u00a3o foi \u00f0\u009f\u0098\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138657833,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138656172,
+      "content": "Ele falou q vc estava aki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138644699,
+      "content": "eu estou em casa \u00f0\u009f\u008c\u009a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138632217,
+      "content": "normal n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1661138623825,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138554376,
+      "content": "O celular do Cesar descarregou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138326791,
+      "content": "Onde c ta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1661138282623,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1659630509252,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659590911018,
+      "content": "terminei de estudar agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659590904769,
+      "content": "eu estava estudando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659590896621,
+      "content": "KKKKKKKKKK",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gislaine Pires",
+      "timestamp_ms": 1659584559658,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gislainepires_884328729624757/audio/814803516567352.mp4",
+          "creation_timestamp": 1659584557
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gislaine Pires",
+  "is_still_participant": true,
+  "thread_path": "inbox/gislainepires_884328729624757",
+  "magic_words": [
+    
+  ]
+}

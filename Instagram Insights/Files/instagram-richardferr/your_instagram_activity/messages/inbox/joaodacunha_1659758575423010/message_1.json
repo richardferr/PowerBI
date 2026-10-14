@@ -1,0 +1,1157 @@
+{
+  "participants": [
+    {
+      "name": "Jo\u00c3\u00a3o Da Cunha"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1748205791119,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1743271086256,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1743271013020,
+      "content": "Pois \u00c3\u00a9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jo\u00c3\u00a3o Da Cunha"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1743270947698,
+      "content": "Mesmo, temos que combinar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1743269867090,
+      "content": "Quando te boto pra dar uma mamada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1743269854032,
+      "content": "Tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1743269491788,
+      "content": "Bem e tu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1743268409283,
+      "content": "Como vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1743263672873,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1743258696603,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742775486353,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742772056160,
+      "content": "\u00c3\u0089 mais f\u00c3\u00a1cil voc\u00c3\u00aa me dizer e eu dou um jeito de encaixar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742771216652,
+      "content": "Fiquei com vontade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742771213846,
+      "content": "Oh tu tamb\u00c3\u00a9m, vai dizendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742770430759,
+      "content": "Quando voc\u00c3\u00aa puder ent\u00c3\u00a3o, voc\u00c3\u00aa diz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742770412043,
+      "content": "Porra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742770219397,
+      "content": "Esta semana estou a trabalhar sempre a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742770000211,
+      "content": "Que noite voc\u00c3\u00aa est\u00c3\u00a1 livre ent\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742769798299,
+      "content": "Tamb\u00c3\u00a9m queria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742769766974,
+      "content": "Hmm pretendia cumprir minha promessa\u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742769744194,
+      "content": "Sim \u00f0\u009f\u0098\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742769735440,
+      "content": "Voc\u00c3\u00aa trabalha amanh\u00c3\u00a3 a noite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742769730579,
+      "content": "E tamb\u00c3\u00a9m n\u00c3\u00a3o me vou esquecer desta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742769706799,
+      "content": "Veremos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742769657123,
+      "content": "N\u00c3\u00a3o esque\u00c3\u00a7o ahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742769636545,
+      "content": "N\u00c3\u00a3o esque\u00c3\u00a7a da promessa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742769502064,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742769069019,
+      "content": "Caralho \u00f0\u009f\u00a5\u00b5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742768967378,
+      "content": "Botava de quatro e fodia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jo\u00c3\u00a3o Da Cunha"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742751958516,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742750146008,
+      "content": "Posso tirar depois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742750142225,
+      "content": "Mas n\u00c3\u00a3o tenho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742747164116,
+      "content": "Eu pretendo, mas at\u00c3\u00a9 l\u00c3\u00a1, gostaria de ver umas fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742747112831,
+      "content": "V\u00c3\u00aas ao vivo ahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742747077072,
+      "content": "Manda o que tiver ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742747040958,
+      "content": "N\u00c3\u00a3o tenho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742746871244,
+      "content": "Do seu rabo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742746847671,
+      "content": "De que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742746733915,
+      "content": "Mas posso ver algumas fotos suas ent\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742746658776,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742746503731,
+      "content": "\u00c3\u0089 que n\u00c3\u00a3o tenho muita vontade de ir ao shopping por agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742746486694,
+      "content": "Ah \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742746480784,
+      "content": "Desculpa, tinha lido errado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742746480407,
+      "content": "Aqui no shopping era o que estava a perguntar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742746260428,
+      "content": "Aqui n\u00c3\u00a3o achas piada n\u00c3\u00a3o \u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742745698855,
+      "content": "Vou aguardar sua mensagem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742745688944,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742745528982,
+      "content": "Eu digo-te um dia que tenha tempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742745508417,
+      "content": "Haha hmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742745253289,
+      "content": "Alma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742745246522,
+      "content": "Onde \u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742745233781,
+      "content": "S\u00c3\u00b3 se for c\u00c3\u00a1 \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742745156722,
+      "content": "Entendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742745111490,
+      "content": "Tou no trabalho agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742745025339,
+      "content": "Quando tem tempo para me fazer uma mamada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742745010161,
+      "content": "Tudo indo bem tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742744403067,
+      "content": "Vou bem, e tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742742910665,
+      "content": "Como vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742742662023,
+      "content": "E ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742706075776,
+      "content": "E a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742597770872,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742596688656,
+      "content": "E o rabo? Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742596664729,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742596638920,
+      "content": "Why? :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742596537958,
+      "content": "N\u00c3\u00a3o sei n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742596167906,
+      "content": "Manda um nudezinho para mim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742596103151,
+      "content": "Hum",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742594947267,
+      "content": "J\u00c3\u00a1 hoje eu n\u00c3\u00a3o consigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742578823457,
+      "content": "Eu hoje tou livre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742578762238,
+      "content": "Me diz quando voc\u00c3\u00aa est\u00c3\u00a1 livre e eu dou um jeito ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742577559319,
+      "content": "Eu trabalho mais aos fim\u00e2\u0080\u0091de\u00e2\u0080\u0091semana \u00f0\u009f\u00a5\u00b2 \nMas posso ver se consigo algum dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742577545008,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742577528026,
+      "content": "E \u00c3\u00a0s vezes a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742577522461,
+      "content": "Posso qualquer fim de semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742574866742,
+      "content": "E vejo se consigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742574864025,
+      "content": "Tamb\u00c3\u00a9m me podes dizer quando d\u00c3\u00a1 para ti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742574858241,
+      "content": "Pois fiquei! Mas tenho andando cheio de trabalho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742574745684,
+      "content": "Voc\u00c3\u00aa ficou de me dar um retorno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742574478014,
+      "content": "Ainda n\u00c3\u00a3o combinamos \u00f0\u009f\u0098\u0092",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742574467955,
+      "content": "Tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742574455100,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742573786577,
+      "content": "Tudo bom?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1742573777512,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1742573517733,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1739797342526,
+      "content": "Temos que ver!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1739741892539,
+      "content": "Ent\u00c3\u00a3o, quando combinamos algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1739740521973,
+      "content": "Tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1739733887715,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1739733359312,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1739702548453,
+      "content": "E a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1739006590313,
+      "content": "Ah sei",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737932275388,
+      "content": "Pr\u00c3\u00b3ximo ao hospital da Luz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737932263558,
+      "content": "Onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737932218665,
+      "content": "Voc\u00c3\u00aa consegue vir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737932084657,
+      "content": "Est\u00c3\u00a1 bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737931981609,
+      "content": "As quintas eu tenho de ir ao escrit\u00c3\u00b3rio, s\u00c3\u00b3 volto a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737931948944,
+      "content": "Eu s\u00c3\u00b3 poderei a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737931741110,
+      "content": "Durante o dia todo sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737931463398,
+      "content": "A noite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737931441011,
+      "content": "Quinta talvez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737931428299,
+      "content": "Quando voc\u00c3\u00aa estar\u00c3\u00a1 livre?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737931420730,
+      "content": "Ahhh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737931006785,
+      "content": "N\u00c3\u00a3o tenho fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737930888612,
+      "content": "Mostra o rabo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737930853538,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737930509083,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737930226547,
+      "content": "Mando quando mandares ahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737928555259,
+      "content": "Ent\u00c3\u00a3o manda para mim (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737928548978,
+      "content": "Enredo manda para mim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737928522708,
+      "content": "Tamb\u00c3\u00a9m eu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737925039593,
+      "content": "Estava esperando por voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737924903637,
+      "content": "Ahahah nem tu!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737924877836,
+      "content": "Voc\u00c3\u00aa nem me enviou as fotos que disse que enviaria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737924727466,
+      "content": "Pois era ahaha mas n\u00c3\u00a3o disseste nada tamb\u00c3\u00a9m \u00f0\u009f\u0091\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737924518557,
+      "content": "Era para ter sido ontem, n\u00c3\u00a9? Rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737924470189,
+      "content": "Quando combinamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737924465845,
+      "content": "Tamb\u00c3\u00a9m!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737924453218,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737924232432,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737924220940,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737923998374,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737923131894,
+      "content": ":|",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737493980102,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737493352790,
+      "content": "Manda tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737491267968,
+      "content": "Manda a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737491265930,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737491217274,
+      "content": "Tenho, e tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737491210587,
+      "content": "Tem mais nudes ou v\u00c3\u00addeo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737491195123,
+      "content": "Safado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737490813871,
+      "content": "Mamar, sentar.. quero no teu colo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737490782260,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737490777447,
+      "content": "Ser mamado, comer, lamber o cuzinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737490665601,
+      "content": "E que curtes fazer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737490585353,
+      "content": "Boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737490401220,
+      "content": "Sou ativo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737490345345,
+      "content": "Vers\u00c3\u00a1til, e tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737490334559,
+      "content": "Voc\u00c3\u00aa \u00c3\u00a9 passivo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737490079366,
+      "content": "Sem problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737490076868,
+      "content": "Ah entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737490058295,
+      "content": "S\u00c3\u00b3 tenho que ver se vou ter visitas no dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737490042485,
+      "content": "De boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737473077658,
+      "content": "Mas se der a\u00c3\u00ad melhor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737473066722,
+      "content": "Como eu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737472823506,
+      "content": "Tenho de ver na data",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737472817362,
+      "content": "Acho que sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737472142414,
+      "content": "Talvez sim, tu n\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737467863455,
+      "content": "Voc\u00c3\u00aa tem local?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737467854001,
+      "content": "Mas s\u00c3\u00b3 consigo tarde/noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737467845769,
+      "content": "Pode ser ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737466773768,
+      "content": "S\u00c3\u00a1bado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737466766354,
+      "content": "Hum pois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737466764237,
+      "content": "Quando s\u00c3\u00a3o suas folgas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737466741826,
+      "content": "N\u00c3\u00a3o estou em Coimbra agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737466722115,
+      "content": "Hoje n\u00c3\u00a3o consegues?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737466715464,
+      "content": "N\u00c3\u00a3o sei se consigo, vou estar a trabalhar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737466645747,
+      "content": "Sexta a noite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737466222154,
+      "content": "Quando combinamos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737466219227,
+      "content": "Tamb\u00c3\u00a9m!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1737451236413,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Da Cunha",
+      "timestamp_ms": 1737449255767,
+      "content": "E ent\u00c3\u00a3o, tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo\u00c3\u00a3o Da Cunha",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaodacunha_1659758575423010",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Raphael Caius"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Raphael Caius",
+      "timestamp_ms": 1657060546141,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2875783089381852736"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raphael Caius",
+      "timestamp_ms": 1657060538247,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2875781154650177101"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raphael Caius",
+  "is_still_participant": true,
+  "thread_path": "inbox/raphaelcaius_807215740672146",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "victornunes_98"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "victornunes_98",
+      "timestamp_ms": 1647794362918,
+      "content": "Vem pra c\u00c3\u00a1 rs",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2798155979508267162"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "victornunes_98",
+  "is_still_participant": true,
+  "thread_path": "message_requests/victornunes_98_784601756264122",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

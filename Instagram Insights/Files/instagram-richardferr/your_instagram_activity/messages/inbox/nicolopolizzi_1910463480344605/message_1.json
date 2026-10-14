@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "NICOL\u00c3\u0092 POLIZZI"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1775683489075,
+      "content": "Ahh que pena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NICOL\u00c3\u0092 POLIZZI",
+      "timestamp_ms": 1775675056450,
+      "content": "Eu vou estar de folga aquele dia, em gran canaria \u00f0\u009f\u0098\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1775674945555,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DWzNw2DjU_f/?id=3869497036022566879_73252334474",
+        "share_text": "ENTRADAS CON DESCUENTO EN EL LINK DEL PERFIL\n\nBAILE FUNK viernes #17 de Abril en discoteca Tulum\n#erasmus #braziliancore #morandofora #fiestabrasil",
+        "original_content_owner": "dalefunk_es"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "NICOL\u00c3\u0092 POLIZZI",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicolopolizzi_1910463480344605",
+  "magic_words": [
+    
+  ]
+}

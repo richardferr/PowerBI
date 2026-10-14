@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Gujelly"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gujelly",
+      "timestamp_ms": 1625194270099,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1625184240406,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2608556907200249306"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gujelly",
+  "is_still_participant": true,
+  "thread_path": "inbox/gujelly_138979431669885",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Juan SER"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1765408063033,
+      "content": "S\u00c3\u00ad, me parece bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1765408057713,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan SER",
+      "timestamp_ms": 1765408022480,
+      "content": "Yo la verdad soy m\u00c3\u00a1s de ver q de poner. Un d\u00c3\u00ada de estos hacemos una videollamada y nos conocemos m\u00c3\u00a1s. Te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan SER",
+      "timestamp_ms": 1765407974625,
+      "content": "Q de fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan SER",
+      "timestamp_ms": 1765407964012,
+      "content": "Hola guapi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan SER",
+  "is_still_participant": true,
+  "thread_path": "inbox/juanser_1957294709000582",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ant\u00c3\u00b4nio Jorge"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ant\u00c3\u00b4nio Jorge",
+      "timestamp_ms": 1635731769281,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ant\u00c3\u00b4nio Jorge",
+  "is_still_participant": true,
+  "thread_path": "message_requests/antoniojorge_691730568884575",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

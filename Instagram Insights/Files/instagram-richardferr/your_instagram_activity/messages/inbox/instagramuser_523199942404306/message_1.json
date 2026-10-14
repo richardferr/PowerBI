@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1548215607032,
+      "content": "Ol\u00c3\u00a1 Richard, obrigado por seguir.\nContinue acompanhando, em breve teremos muitas novidades.\nEntre em contato atrav\u00c3\u00a9s do whatsapp (16) 992067952, link dispon\u00c3\u00advel na bio.\nXoXo, L.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_523199942404306",
+  "magic_words": [
+    
+  ]
+}

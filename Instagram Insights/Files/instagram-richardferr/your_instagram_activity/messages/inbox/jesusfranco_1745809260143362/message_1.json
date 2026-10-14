@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Jesus Franco"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jesus Franco",
+      "timestamp_ms": 1759825935385,
+      "content": "\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759824209730,
+      "content": "A vale, outro d\u00c3\u00ada entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759824183756,
+      "content": "Estoy bien, gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Franco",
+      "timestamp_ms": 1759818470855,
+      "content": "Pero para otro si!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Franco",
+      "timestamp_ms": 1759818465261,
+      "content": "No puedo \u00f0\u009f\u0098\u0095 estar\u00c3\u00a9 fuera este finde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Franco",
+      "timestamp_ms": 1759818447093,
+      "content": "Hola Richard! Muy bien y tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759790658369,
+      "content": "Vamos a umbracle este s\u00c3\u00a1bado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1759790649146,
+      "content": "Hola, qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jesus Franco",
+  "is_still_participant": true,
+  "thread_path": "inbox/jesusfranco_1745809260143362",
+  "magic_words": [
+    
+  ]
+}

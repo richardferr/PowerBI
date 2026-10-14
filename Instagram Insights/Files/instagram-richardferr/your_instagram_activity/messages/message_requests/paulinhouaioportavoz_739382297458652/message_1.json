@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Paulinho UAI O Portavoz"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paulinho UAI O Portavoz",
+      "timestamp_ms": 1637320386233,
+      "content": "E ae blz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Paulinho UAI O Portavoz",
+  "is_still_participant": true,
+  "thread_path": "message_requests/paulinhouaioportavoz_739382297458652",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "William Bazoli"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Bazoli",
+      "timestamp_ms": 1675882319206,
+      "content": "Morrendo \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3033796472807232357"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "William Bazoli",
+      "timestamp_ms": 1672432938245,
+      "content": "William shared a story.",
+      "share": {
+        "original_content_owner": "bbb_ai5"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "William Bazoli",
+      "timestamp_ms": 1670961168168,
+      "content": "Mds kkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2992542316402745579"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1653851885301,
+      "content": "\u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "William Bazoli",
+      "timestamp_ms": 1653851108611,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1653851872
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2848523681046446166"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "William Bazoli",
+      "timestamp_ms": 1648314064756,
+      "content": "Morto kkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2802116062135627756"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "William Bazoli",
+  "is_still_participant": true,
+  "thread_path": "inbox/williambazoli_600265254705604",
+  "magic_words": [
+    
+  ]
+}

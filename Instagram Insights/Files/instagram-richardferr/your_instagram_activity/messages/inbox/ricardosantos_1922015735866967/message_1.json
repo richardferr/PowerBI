@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Ricardo Santos"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ricardo Santos",
+      "timestamp_ms": 1787245701207,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3967986943684351849"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Santos",
+      "timestamp_ms": 1787245696670,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3967986389683913964"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Santos",
+      "timestamp_ms": 1787245688864,
+      "content": "Fotos lindas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Santos",
+      "timestamp_ms": 1768130479031,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3807292666959107356"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ricardo Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/ricardosantos_1922015735866967",
+  "magic_words": [
+    
+  ]
+}

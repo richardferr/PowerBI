@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Beatriz Barata"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672172175198,
+      "content": "haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beatriz Barata",
+      "timestamp_ms": 1672172125900,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/beatrizbarata_1005788950812067/audio/6212383145438889.mp4",
+          "creation_timestamp": 1672172123
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672172036025,
+      "content": "https://instagram.com/mazelado_?igshid=YmMyMTA2M2Y=",
+      "share": {
+        "link": "https://www.instagram.com/_u/mazelado_",
+        "profile_share_username": "mazelado_",
+        "profile_share_name": "Davi Luna"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672171912656,
+      "content": "Pera, vou te passar agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beatriz Barata",
+      "timestamp_ms": 1672171839507,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/beatrizbarata_1005788950812067/audio/565468778356858.mp4",
+          "creation_timestamp": 1672171837
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672171395775,
+      "content": "Me fala como era que eu te passo o insta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672171384268,
+      "content": "Qual deles era?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672171378093,
+      "content": "Lembro sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1672171370918,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beatriz Barata",
+      "timestamp_ms": 1672168117142,
+      "content": "Oi tudo bem? Olha nao sei se te lembras de mim mas eu gostaria muito de ter o insta do teu amigo que estava la na festa +55 obrigada \u00f0\u009f\u0098\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beatriz Barata",
+  "is_still_participant": true,
+  "thread_path": "inbox/beatrizbarata_1005788950812067",
+  "magic_words": [
+    
+  ]
+}

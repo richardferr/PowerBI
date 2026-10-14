@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pedro"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pedro",
+      "timestamp_ms": 1648740867773,
+      "content": "curte o q?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro",
+      "timestamp_ms": 1648740865174,
+      "content": "hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648740136301,
+      "content": "Rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648740134206,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro",
+      "timestamp_ms": 1648730336117,
+      "content": "te vi no tinder e curti dms",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro",
+      "timestamp_ms": 1648730331308,
+      "content": "opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pedro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pedro_792243272166637",
+  "magic_words": [
+    
+  ]
+}

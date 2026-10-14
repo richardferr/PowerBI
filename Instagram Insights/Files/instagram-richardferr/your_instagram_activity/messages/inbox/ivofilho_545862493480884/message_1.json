@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Ivo Filho"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ivo Filho",
+      "timestamp_ms": 1635480607515,
+      "content": "aaaaa obrigado \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivo Filho",
+      "timestamp_ms": 1635480602506,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1635478352176,
+      "content": "pqp \u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ivo Filho",
+          "timestamp": 1635480602
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ivo Filho",
+  "is_still_participant": true,
+  "thread_path": "inbox/ivofilho_545862493480884",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "participants": [
+    {
+      "name": "Juan Portero"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750068221624,
+      "content": "Y t\u00c3\u00ba que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750068217905,
+      "content": "Todo bien, terminando de ultimar y preparar cosas para bajarme a casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750068124842,
+      "content": "Qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750068013155,
+      "content": "Buenos d\u00c3\u00adas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750068009150,
+      "content": "Si jeje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750067911521,
+      "content": "Buenos d\u00c3\u00adas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750067907357,
+      "content": "Ah que bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750024772822,
+      "content": "Que se quedara con ella hasta que le den el alta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750024764737,
+      "content": "No, ma\u00c3\u00b1ana me bajo para casa y ya est\u00c3\u00a1 con su madre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750023825340,
+      "content": "Vas volver para ver su amiga nuevamente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750023646497,
+      "content": "Tranquilo jeje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750023638521,
+      "content": "Si, pero sue\u00c3\u00b1o ninguno y solo dormir 2 horitas jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750023627459,
+      "content": "He confundido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750023623290,
+      "content": "Disculpa, la cena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750023612802,
+      "content": "Jantar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750023605506,
+      "content": "Ocupado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750023603725,
+      "content": "Que bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750023532116,
+      "content": "Creo que est\u00c3\u00a9s agotado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750023488286,
+      "content": "Ahora hice el jantar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750023475204,
+      "content": "Fue al mercado y arregl\u00c3\u00a9 mi habitaci\u00c3\u00b3n y mis ropas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750011277003,
+      "content": "Pues cansadete, estuve con mi amiga hasta las 13:50 que ya vinieron sus padres y me qued\u00c3\u00a9 un rato m\u00c3\u00a1s con ella, luego fui a comer con una amiga y a echar un caf\u00c3\u00a9 y luego para casa y pegue una cabezadita de algunos minutos, pero poco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750011208519,
+      "content": "Qu\u00c3\u00a9 hiciste hoy??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750011203593,
+      "content": "Bueno, en la noche descansar\u00c3\u00a1s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750011191450,
+      "content": "Y el tuyo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750011187995,
+      "content": "Muy bien, aunque estoy un poco cansado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1750011171688,
+      "content": "Hola, rey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1750011104727,
+      "content": "Qu\u00c3\u00a9 tal tu d\u00c3\u00ada hoy? El domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749984722649,
+      "content": "Est\u00c3\u00a1 bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749984582121,
+      "content": "Pobrecito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749984330392,
+      "content": "Y aqu\u00c3\u00ad sigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749984327718,
+      "content": "Me qued\u00c3\u00a9 con ella toda la noche",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749984321479,
+      "content": "Que va",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749984299408,
+      "content": "Vish, pero fuiste a la casa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749983919470,
+      "content": "Pues la m\u00c3\u00ada dormi 2h y ella nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749983706854,
+      "content": "Como fue su noche?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749983637224,
+      "content": "Guay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749983618816,
+      "content": "Lo que sea tambi\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749983583409,
+      "content": "Busco conocer, quedar, charlar e ir viendo y t\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749983566500,
+      "content": "A valeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749983428392,
+      "content": "no s\u00c3\u00a9 como es esa expresi\u00c3\u00b3n en espa\u00c3\u00b1ol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749983406962,
+      "content": "Por cierto*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749983104350,
+      "content": "What?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749982751301,
+      "content": "By the way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749957413799,
+      "content": "Btw?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749956283362,
+      "content": "Btw, qu\u00c3\u00a9 busca?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749955364540,
+      "content": "Jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749955265627,
+      "content": "Jajajajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749955191143,
+      "content": "Bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749955169995,
+      "content": "Jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749955162287,
+      "content": "Y que ma\u00c3\u00b1ana esteja muy disposto, para hablarmos de traviesuras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749955129762,
+      "content": "Ya dormir\u00c3\u00a9 en la ma\u00c3\u00b1ana si eso tranquilo en casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749955119796,
+      "content": "Veremos a ver, con estos ruidos y la gente rara lo dudo mucho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749955097985,
+      "content": "Entiendo, te deseo que puedas dormir bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749954766108,
+      "content": "Pues la verdad si, no s\u00c3\u00a9 si dormir\u00c3\u00a9 algo aqu\u00c3\u00ad, como es un hospital y estamos en la sala de observaci\u00c3\u00b3n con m\u00c3\u00a1s gente en sus camillas, pues son sitios y situaciones que me cuesta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749954723147,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749954584769,
+      "content": "Debes estar cansado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749954572843,
+      "content": "Ah menos mal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749954450977,
+      "content": "Si, cen\u00c3\u00a9 en casa antes de acercarnos a urgencias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749954322686,
+      "content": "T\u00c3\u00ba no?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749954279495,
+      "content": "Pues por lo menos ya cenaste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749954269733,
+      "content": "Ostras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749954260070,
+      "content": "Si, veremos a ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749954181013,
+      "content": "Es que estava llegando en mi ciudad jaja llegu\u00c3\u00a9 hace una hora en casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749954136736,
+      "content": "Eso es muy malo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749954127054,
+      "content": "Espero que ella se quede mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749953922290,
+      "content": "Si cenas tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749953919396,
+      "content": "Que bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749953910266,
+      "content": "Pues lleva desde el martes mal con los ri\u00c3\u00b1ones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749953874437,
+      "content": "Yo estaba cenando, ahora en mi cama, finalmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749953853046,
+      "content": "Ui, pasa algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749953530299,
+      "content": "Y t\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749953524210,
+      "content": "En urgencias con una amiga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749953514104,
+      "content": "Qu\u00c3\u00a9 haces?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Portero",
+      "timestamp_ms": 1749953459904,
+      "content": "Hola reyyy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1749953304339,
+      "content": "Hola, bebecito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan Portero",
+  "is_still_participant": true,
+  "thread_path": "inbox/juanportero_1647906323266990",
+  "magic_words": [
+    
+  ]
+}

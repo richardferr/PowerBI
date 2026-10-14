@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Allison\u00e2\u0080\u00a2"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Allison\u00e2\u0080\u00a2",
+      "timestamp_ms": 1555275505788,
+      "content": "Richard WTF you are really on here, @Nasty_List_43, you are ranked 30! this is horrible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Allison\u00e2\u0080\u00a2",
+  "is_still_participant": true,
+  "thread_path": "inbox/allison_546414946749472",
+  "magic_words": [
+    
+  ]
+}

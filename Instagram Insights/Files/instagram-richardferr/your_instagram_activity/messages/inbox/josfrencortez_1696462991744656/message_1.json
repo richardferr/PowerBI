@@ -1,0 +1,809 @@
+{
+  "participants": [
+    {
+      "name": "Josfren Cort\u00c3\u00a9z"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755716308688,
+      "content": "No me gusta perder mi tiempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755716303583,
+      "content": "Y sino d\u00c3\u00a9jalo as\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755716300557,
+      "content": "Si quieres quedar se honesto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755716269549,
+      "content": "Me dijiste que iba a decirme la hora el domingo, no dijiste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755689882074,
+      "content": "Suerte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755689879570,
+      "content": "Jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755689878055,
+      "content": "En principio ten\u00c3\u00adas muchas ganas de conocerme y ya cuando llego el d\u00c3\u00ada ni respondes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755605706097,
+      "content": "Y tu q haces?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755605701984,
+      "content": "Todo bien, en la piscina con unos amigos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755605290733,
+      "content": "Bien y t\u00c3\u00ba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755605286955,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755604709154,
+      "content": "Que tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755604703908,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755470607786,
+      "content": "C\u00c3\u00b3mo fue con tus amigos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755470585046,
+      "content": "Me olvid\u00c3\u00a9 del Instagram despu\u00c3\u00a9s que llegu\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755470567019,
+      "content": "Yo estuve en la playa hoy y mi m\u00c3\u00b3vil se qued\u00c3\u00b3 sin bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755470543937,
+      "content": "Ops, disculpameeeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755469851499,
+      "content": "Gracias por responder",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755442999039,
+      "content": "Menos mal no \u00c3\u00adbamos a ver ayer Jajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755218462839,
+      "content": "Y tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755218460082,
+      "content": "Igual ma\u00c3\u00b1ana si salgo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755218453559,
+      "content": "Siii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755218153603,
+      "content": "As\u00c3\u00ad vas a tener m\u00c3\u00a1s energia para el domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755218131977,
+      "content": "Que bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755217834014,
+      "content": "Descansando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755217825686,
+      "content": "Hoy estuve en casa todo el d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755217813287,
+      "content": "Y qu\u00c3\u00a9 hiciste hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755217807519,
+      "content": "S\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755217737494,
+      "content": "Ah vale vale con raz\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755217713547,
+      "content": "Mis amigos y yo caminamos mucho hoy e fuimos a biopark",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755216842463,
+      "content": "Que hiciste que te duele las piernas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755216300762,
+      "content": "Y eso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755216289592,
+      "content": "Acostado, con mucho dolor en mis piernas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755216204782,
+      "content": "T\u00c3\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755216203102,
+      "content": "Viendo TV",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755216194416,
+      "content": "Qu\u00c3\u00a9 haces?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755216125756,
+      "content": "Vale rey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755215785113,
+      "content": "Despu\u00c3\u00a9s dime algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755215779154,
+      "content": "Est\u00c3\u00a1 bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755214929960,
+      "content": "Porque yo tambi\u00c3\u00a9n tendr\u00c3\u00a9 mis amigos y se van el domingo temprano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755214917427,
+      "content": "Pero mejor el domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755214913391,
+      "content": "D\u00c3\u00a9jame pensar y te digo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755214904412,
+      "content": "Bueno vamos viendo entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755214731352,
+      "content": "Cualquier lugar, donde podemos beber y charlar un rato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755214225927,
+      "content": "Depende de que tipo de lugares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755214177799,
+      "content": "Conoces alg\u00c3\u00ban lugar bueno para beber?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755214144501,
+      "content": "Genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755190931489,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755189964240,
+      "content": "Unos drinks?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755131414938,
+      "content": "Nose que quieres tu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755131384652,
+      "content": "Tiene algo en la mente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755131375252,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755130589173,
+      "content": "Bueno sino el\nDomingo salimos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755130581892,
+      "content": "Ah vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755129928833,
+      "content": "Estar\u00c3\u00a1n aqu\u00c3\u00ad hasta el s\u00c3\u00a1bado por la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755129911438,
+      "content": "Llegaron hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755129552428,
+      "content": "Y tus amigos vienen??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755129470730,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755129323406,
+      "content": "Si va ma\u00c3\u00b1ana te confirmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755129312260,
+      "content": "Dime despu\u00c3\u00a9s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755129297955,
+      "content": "S\u00c3\u00ad, vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755129172632,
+      "content": "Que vienen unos amigos de Madrid",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755129165299,
+      "content": "D\u00c3\u00a9jame ma\u00c3\u00b1ana te confirmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755129149585,
+      "content": "El s\u00c3\u00a1bado por la noche?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755129091546,
+      "content": "Si va yo estoy libre hasta el viernes de la otra semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755129072259,
+      "content": "Qu\u00c3\u00a9 te parece ese finde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755129034937,
+      "content": "Cuando te voy a ver ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755064402698,
+      "content": "Buenos d\u00c3\u00adas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755064398884,
+      "content": "Yo estaba bebiendo con un amigo y llegu\u00c3\u00a9 tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755048035243,
+      "content": "Y tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755048032437,
+      "content": "Pero no puedo dormir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755048025820,
+      "content": "Llegu\u00c3\u00a9 hace rato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755046552243,
+      "content": "Llegaste del trabajo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755046543563,
+      "content": "Jaja no tardo a ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755046533182,
+      "content": "Hola, guapet\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1755046331784,
+      "content": "Vaya a dormir Jajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754958919392,
+      "content": "Hasta m\u00c3\u00a1s tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754958910831,
+      "content": "Vale, buen descanso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754958827196,
+      "content": "Que descanses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754958824496,
+      "content": "Bueno ma\u00c3\u00b1ana seguimos hablando entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754958810342,
+      "content": "Ah bueno van hacer de todo Jajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754958380757,
+      "content": "Yo tambi\u00c3\u00a9n ya me acost\u00c3\u00a9, casi durmiendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754958360718,
+      "content": "Visitar el oceanografic, museos, hemisferic, la playa, paseo de barco, bioparque, paseo en la ciudad, unos restaurantes y una cosas m\u00c3\u00a1s que ya no me acuerdo jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754958152936,
+      "content": "T\u00c3\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754958152041,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754958147774,
+      "content": "Que van hacer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754958144254,
+      "content": "Super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754958132310,
+      "content": "Ya est\u00c3\u00a1s acostado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754958123322,
+      "content": "Es lo que salva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754958106687,
+      "content": "Estava haciendo un itinerario de viaje para mis amigos que van a venir visitarme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754957878723,
+      "content": "Por suerte en casa tengo aire",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754957869247,
+      "content": "Horrible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754957862668,
+      "content": "Tan tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754957858187,
+      "content": "Que haces despierto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754957853412,
+      "content": "Cuando quieras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754956565569,
+      "content": "Verdad, hoy estaba muy dif\u00c3\u00adcil com todo ese calor \u00f0\u009f\u00a5\u00b5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754956534802,
+      "content": "Hmm necesito probar sus platos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754956516226,
+      "content": "Lo imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956401102,
+      "content": "Me imagino es que hoy hab\u00c3\u00ada mucha calor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956382983,
+      "content": "T\u00c3\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956381868,
+      "content": "Soy cocinero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956376236,
+      "content": "Llegu\u00c3\u00a9 cansado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956370933,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754956289972,
+      "content": "Y el tuyo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754956285874,
+      "content": "Agotador y con demasiado calor, pero muy bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754956268094,
+      "content": "A qu\u00c3\u00a9 te dedicas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754956262123,
+      "content": "Joder, tan tarde? Jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956136428,
+      "content": "Tu que? Que tal el d\u00c3\u00ada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956125105,
+      "content": "Llegando del trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754956120434,
+      "content": "Igual bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754955687131,
+      "content": "Tudo bien y t\u00c3\u00ba, qu\u00c3\u00a9 tal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josfren Cort\u00c3\u00a9z",
+      "timestamp_ms": 1754955594847,
+      "content": "Que m\u00c3\u00a1s, todo bien?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1754955574475,
+      "content": "\u00c3\u0089pale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Josfren Cort\u00c3\u00a9z",
+  "is_still_participant": true,
+  "thread_path": "inbox/josfrencortez_1696462991744656",
+  "magic_words": [
+    
+  ]
+}

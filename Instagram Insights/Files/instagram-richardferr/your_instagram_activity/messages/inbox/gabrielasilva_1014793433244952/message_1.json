@@ -1,0 +1,149 @@
+{
+  "participants": [
+    {
+      "name": "Gabriela Silva"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675791000656,
+      "content": "pois \u00c3\u00a9, queria bastante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1675731788855,
+      "content": "Seria legal vc curtir com a gente l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1675731780756,
+      "content": "Poxa, que triste\u00f0\u009f\u0098\u00a2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675720426949,
+      "content": "\u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675720424017,
+      "content": "Mas me mudei de BH",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675720418223,
+      "content": "Ahh eu queria bastante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1675720413266,
+      "content": "Eiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1675703054621,
+      "content": "Bora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1675703051096,
+      "content": "Vou ir l\u00c3\u00a1 curtir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1675703046665,
+      "content": "Eu lembro de ti na hype",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1675703040646,
+      "content": "Eii Richard!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1675702964065,
+      "content": "Gabriela shared a story.",
+      "share": {
+        "original_content_owner": "vemprahype"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673779322687,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1673712758823,
+      "content": "tadinhaa",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3015147437786110025"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1673712729786,
+      "content": "KKKKKKKKKKK",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3015147437786110025"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673214358361,
+      "content": "haha s\u00c3\u00b3 as vergonhas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Silva",
+      "timestamp_ms": 1673175389996,
+      "content": "T\u00c3\u00b4 amaandoo seus vlogs\u00f0\u009f\u0098\u00b9\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3010790232730683604"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriela Silva",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabrielasilva_1014793433244952",
+  "magic_words": [
+    
+  ]
+}

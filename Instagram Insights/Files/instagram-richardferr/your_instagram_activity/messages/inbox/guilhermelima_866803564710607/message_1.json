@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Guilherme Lima"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guilherme Lima",
+      "timestamp_ms": 1673220268628,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1673214488361,
+      "content": "hahahah humilhante",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Guilherme Lima",
+          "timestamp": 1673220268
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guilherme Lima",
+      "timestamp_ms": 1673149239373,
+      "content": "Bem vindo ao clube hahah",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3010915243005826430"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guilherme Lima",
+  "is_still_participant": true,
+  "thread_path": "inbox/guilhermelima_866803564710607",
+  "magic_words": [
+    
+  ]
+}

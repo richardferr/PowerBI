@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Guilherme Fonseca"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guilherme Fonseca",
+      "timestamp_ms": 1644775059702,
+      "content": "Obrigado, lind\u00c3\u00a3o \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1644776768
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644774869038,
+      "content": "lindo demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640486274990,
+      "content": "\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guilherme Fonseca",
+      "timestamp_ms": 1640485698189,
+      "content": "Ahh obrigado, voc\u00c3\u00aa tamb\u00c3\u00a9m \u00c3\u00a9 lind\u00c3\u00a3o \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1640485657870,
+      "content": "que homem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guilherme Fonseca",
+  "is_still_participant": true,
+  "thread_path": "inbox/guilhermefonseca_802238171177692",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Rafael Aquino"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafael Aquino",
+      "timestamp_ms": 1644465002695,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1644459690397,
+      "content": "Haha era diveras",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rafael Aquino",
+          "timestamp": 1644465002
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Aquino",
+      "timestamp_ms": 1644458890783,
+      "content": "Bons tempos!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafael Aquino",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafaelaquino_758379075553057",
+  "magic_words": [
+    
+  ]
+}

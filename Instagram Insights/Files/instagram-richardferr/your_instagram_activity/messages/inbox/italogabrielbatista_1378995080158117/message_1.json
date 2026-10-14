@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Italo Gabriel Batista"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1784239017741,
+      "content": "Kkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3942608069070737139"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1764715105291,
+      "content": "Mas vai d\u00c3\u00a1 certo kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1764715078316,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1764715058681,
+      "content": "N\u00c3\u00a3o vai ser t\u00c3\u00a3o cedo kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1764698428970,
+      "content": "Quando vai ser o seu ?kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1764698394843,
+      "content": "Oo vlw Richard Tmj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1764694491058,
+      "content": "Felicidades \u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u0089\u00f0\u009f\u008d\u00be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1752268941071,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/italogabrielbatista_1378995080158117/audio/1269234824796425.mp4",
+          "creation_timestamp": 1752268938
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1752268926239,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/italogabrielbatista_1378995080158117/audio/1236162558012648.mp4",
+          "creation_timestamp": 1752268923
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1752261927513,
+      "content": "Fala, meu bom.\nPassando para desejar um feliz anivers\u00c3\u00a1rio, tudo de bom para voc\u00c3\u00aa.\nSucesso!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Gabriel Batista",
+      "timestamp_ms": 1720719467511,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/italogabrielbatista_1378995080158117/audio/843566943867897.mp4",
+          "creation_timestamp": 1720719464
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1720719419291,
+      "content": "Feliz anivers\u00c3\u00a1rio, tudo de bom para voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Italo Gabriel Batista",
+  "is_still_participant": true,
+  "thread_path": "inbox/italogabrielbatista_1378995080158117",
+  "magic_words": [
+    
+  ]
+}

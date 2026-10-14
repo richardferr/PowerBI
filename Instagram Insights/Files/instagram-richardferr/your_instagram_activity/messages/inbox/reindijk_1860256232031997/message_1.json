@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Rein Dijk"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1771451235475,
+      "content": "Bowling",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rein Dijk",
+      "timestamp_ms": 1771448529022,
+      "content": "What game?",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3834885106351997820"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rein Dijk",
+      "timestamp_ms": 1771278383347,
+      "content": "47",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rein Dijk",
+      "timestamp_ms": 1771278381140,
+      "content": "Hope i am not to old",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1771278348014,
+      "content": "Thanks :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1771278344351,
+      "content": "Hey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rein Dijk",
+      "timestamp_ms": 1771278251669,
+      "content": "You cute haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rein Dijk",
+      "timestamp_ms": 1771278248061,
+      "content": "Hey there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rein Dijk",
+  "is_still_participant": true,
+  "thread_path": "inbox/reindijk_1860256232031997",
+  "magic_words": [
+    
+  ]
+}

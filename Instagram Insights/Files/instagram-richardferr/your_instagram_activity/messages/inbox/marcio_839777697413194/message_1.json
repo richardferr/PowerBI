@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "marcio"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "marcio",
+      "timestamp_ms": 1667186274235,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2960774580878016580"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marcio",
+      "timestamp_ms": 1664029525821,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2934404726625287428"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marcio",
+      "timestamp_ms": 1657040343301,
+      "content": "lindooo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2875781154650177101"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marcio",
+      "timestamp_ms": 1654620764606,
+      "content": "mano onde tu compra suas roupas ???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marcio",
+      "timestamp_ms": 1654619718838,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2855350636597730568"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "marcio",
+      "timestamp_ms": 1654450825361,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2853527812339299890"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "marcio",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcio_839777697413194",
+  "magic_words": [
+    
+  ]
+}

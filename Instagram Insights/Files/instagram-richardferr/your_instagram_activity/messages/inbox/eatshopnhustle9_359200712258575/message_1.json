@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "eatshopnhustle9"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "eatshopnhustle9",
+      "timestamp_ms": 1647217448041,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1647218155
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2793337779818330244"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1627598691293,
+      "content": "Ahh eu quero sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "eatshopnhustle9",
+      "timestamp_ms": 1627598305750,
+      "content": "Se quiser te mando ele depois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1627592272376,
+      "content": "Bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "eatshopnhustle9",
+      "timestamp_ms": 1627586498865,
+      "content": "Esse \u00c3\u00a9\nAjuda d mais em opera\u00c3\u00a7\u00c3\u00a3o ativa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1627567761614,
+      "content": "Ohh esse funil \u00c3\u00a9 top hein",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "eatshopnhustle9",
+  "is_still_participant": true,
+  "thread_path": "inbox/eatshopnhustle9_359200712258575",
+  "magic_words": [
+    
+  ]
+}

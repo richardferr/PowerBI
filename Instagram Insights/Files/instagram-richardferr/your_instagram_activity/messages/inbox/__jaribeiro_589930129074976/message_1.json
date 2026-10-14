@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "__jaribeiro"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1548666977079,
+      "content": "Foi massa rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "__jaribeiro",
+      "timestamp_ms": 1548642446720,
+      "content": "afe, queria tanto ter ido \u00f0\u009f\u0092\u0094",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/1966209180948664370"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "__jaribeiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/__jaribeiro_589930129074976",
+  "magic_words": [
+    
+  ]
+}

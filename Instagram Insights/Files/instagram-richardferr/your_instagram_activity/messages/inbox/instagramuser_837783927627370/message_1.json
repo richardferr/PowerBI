@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1659887732813,
+      "content": "Oiiiiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659887720025,
+      "content": "https://www.sympla.com.br/evento/batalha-de-djs-temporada-praya/1668424",
+      "share": {
+        "link": "https://www.sympla.com.br/evento/batalha-de-djs-temporada-praya/1668424",
+        "share_text": "Compre ingressos para BATALHA DE DJs - TEMPORADA PRAYA em Belo Horizonte dia 7 de agosto. Confira os melhores eventos de 2022 na Sympla!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659887715955,
+      "content": "Tem off",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659887713420,
+      "content": "Dduck hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1659887709683,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_837783927627370",
+  "magic_words": [
+    
+  ]
+}

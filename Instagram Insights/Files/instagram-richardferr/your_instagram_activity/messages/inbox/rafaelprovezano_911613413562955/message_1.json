@@ -1,0 +1,419 @@
+{
+  "participants": [
+    {
+      "name": "Rafael Provezano"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1683840848415,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1683840846824,
+      "content": "Obrigadooo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1683842016
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1683840834019,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1683840833513,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1683840814879,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683840694712,
+      "content": "nossa, voc\u00c3\u00aa est\u00c3\u00a1 lindo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rafael Provezano",
+          "timestamp": 1683840834
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683840660041,
+      "content": "nossa, voc\u00c3\u00aa est\u00c3\u00a1 lindo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rafael Provezano",
+          "timestamp": 1683840833
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1683506907264,
+      "content": "Feliz anivers\u00c3\u00a1rio \u00f0\u009f\u008e\u0082\u00f0\u009f\u008e\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rafael Provezano",
+          "timestamp": 1683840814
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1678900003691,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1678895466924,
+      "content": "EJA KKKKK",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3058538727863066653"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1678895463292,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/3058538727863066653"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665875838281,
+      "content": "showww",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665875709674,
+      "content": ":)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665875705386,
+      "content": "Vou!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665874425783,
+      "content": "voc\u00c3\u00aa vai na veep?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665873365352,
+      "content": "Vamos sair!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665873363113,
+      "content": "Deixo ningu\u00c3\u00a9m de fora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665872990721,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rafaelprovezano_911613413562955/photos/5844710928892589.jpg",
+          "creation_timestamp": 1665872990
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665872983301,
+      "content": "me deixaram de fora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665872523214,
+      "content": "Pq",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665872519300,
+      "content": "\u00f0\u009f\u0098\u0090",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665872509669,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665864451125,
+      "content": "falsos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665864443645,
+      "content": "haha obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rafael Provezano",
+          "timestamp": 1665872509
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1665860767116,
+      "content": "Que bigode lindooo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2949751762308932302"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1664318626717,
+      "content": "haha obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1664300597830,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2936628567174083285"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1664300596559,
+      "content": "Parab\u00c3\u00a9ns",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2936628567174083285"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1664300594568,
+      "content": "Lenda! \u00f0\u009f\u0098\u008d\u00f0\u009f\u00a4\u008c",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2936628567174083285"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662682825409,
+      "content": "sou vegetariano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662668834936,
+      "content": "Vc \u00c3\u00a9 veg??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662600865399,
+      "content": "eu vou por causa dos hamb\u00c3\u00bargueres veg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662600851136,
+      "content": "simmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662600399632,
+      "content": "L\u00c3\u00a1 \u00c3\u00a9 muito bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662600389207,
+      "content": "Amo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662600385884,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662585138663,
+      "content": "a gnt estava pensando em ir no aeroburguer",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rafael Provezano",
+          "timestamp": 1662600385
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662585129047,
+      "content": "nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662580138042,
+      "content": "Voc\u00c3\u00aa vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662580122081,
+      "content": "Da minha v\u00c3\u00b3***",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662580117732,
+      "content": "Vou pra casa da minha m\u00c3\u00a3e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662580112462,
+      "content": "Hoje n\u00c3\u00a3o\u00f0\u009f\u00a5\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662575039708,
+      "content": "vai fazer alguma coisa hoje a noite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662530597155,
+      "content": "cheguei sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662530492045,
+      "content": "Chegou bem a\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662530484485,
+      "content": "Obrigado pela carona \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Provezano",
+      "timestamp_ms": 1662530478485,
+      "content": "Cheguei!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1662530457298,
+      "content": "Chegou?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rafael Provezano",
+  "is_still_participant": true,
+  "thread_path": "inbox/rafaelprovezano_911613413562955",
+  "magic_words": [
+    
+  ]
+}

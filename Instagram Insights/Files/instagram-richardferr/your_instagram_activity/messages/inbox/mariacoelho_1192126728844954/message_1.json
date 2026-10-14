@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Maria Coelho"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria Coelho",
+      "timestamp_ms": 1698331754713,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1698326293939,
+      "content": "Simmm, eu amo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Maria Coelho",
+          "timestamp": 1698331754
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Coelho",
+      "timestamp_ms": 1698318113102,
+      "content": "M\u00c3\u00basica maravilhosa \u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Coelho",
+      "timestamp_ms": 1696721467005,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria Coelho",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariacoelho_1192126728844954",
+  "magic_words": [
+    
+  ]
+}

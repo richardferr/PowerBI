@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Jo\u00c3\u00a3o Braga"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo\u00c3\u00a3o Braga",
+      "timestamp_ms": 1647214723055,
+      "content": "Gato",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2793337779818330244"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo\u00c3\u00a3o Braga",
+  "is_still_participant": true,
+  "thread_path": "message_requests/joaobraga_842586930472619",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

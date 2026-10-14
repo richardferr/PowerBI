@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Martins\u00f0\u009f\u008c\u009b\u00f0\u009f\u008c\u0091\u00f0\u009f\u008c\u009c"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gustavo Martins\u00f0\u009f\u008c\u009b\u00f0\u009f\u008c\u0091\u00f0\u009f\u008c\u009c",
+      "timestamp_ms": 1657498035144,
+      "content": "Kkkkkkik",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657496865230,
+      "content": "\u00f0\u009f\u0098\u00b1\u00f0\u009f\u0098\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657496856676,
+      "content": "at\u00c3\u00a9 a franja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657496853310,
+      "content": "tem uma menina id\u00c3\u00aantica a ela, juro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Martins\u00f0\u009f\u008c\u009b\u00f0\u009f\u008c\u0091\u00f0\u009f\u008c\u009c",
+      "timestamp_ms": 1657496767291,
+      "content": "N\u00c3\u00a3o, Dduck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1657496388761,
+      "content": "gnt, essa menina estava no Night Market ontem? \u00f0\u009f\u0098\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustavo Martins\u00f0\u009f\u008c\u009b\u00f0\u009f\u008c\u0091\u00f0\u009f\u008c\u009c",
+  "is_still_participant": true,
+  "thread_path": "inbox/gustavomartins_933912001342617",
+  "magic_words": [
+    
+  ]
+}

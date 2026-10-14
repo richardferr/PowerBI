@@ -1,0 +1,193 @@
+{
+  "participants": [
+    {
+      "name": "Joery"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756588490960,
+      "content": "And what are you going to do? On a trip as well?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756588388494,
+      "content": "Ahh cool!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756416485736,
+      "content": "I had holidays last month and I\u00e2\u0080\u0099ll have it on the next month as well",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756416449777,
+      "content": "Ohh so cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756411874120,
+      "content": "You have/had any holidays this summer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756411846596,
+      "content": "the first week I\u00e2\u0080\u0099ll stay here and the second week I go to Gran Canaria:)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756376870389,
+      "content": "Are you going travel?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756376860561,
+      "content": "Ohh it\u00e2\u0080\u0099s cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756365367070,
+      "content": "last days of working before my holidays start",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756365344426,
+      "content": "Doing fine too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756365340566,
+      "content": "Good to hear!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1756318000244,
+      "content": "All good and you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756317668189,
+      "content": "How are you doing?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1756317655970,
+      "content": "Heyy there! Sorry for the late answer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755470953876,
+      "content": "Ohh this is necessary, but unfortunately tomorrow is Sunday :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755470916005,
+      "content": "No, they went yesterday. They had hot days here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1755416932491,
+      "content": "All good here! This weekend only beach / pool days haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1755416846253,
+      "content": "Are they still here? Hope they are surviving the heat a bit \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1755416818981,
+      "content": "Ah that\u00e2\u0080\u0099s nice!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1755416801212,
+      "content": "Heyy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755214049705,
+      "content": "What about you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755214041012,
+      "content": "It was very busy, my portuguese and brazilian friends are here, then I was showing the city for them",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1755193019202,
+      "content": "How is your day going?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joery",
+      "timestamp_ms": 1755193007493,
+      "content": "Hey man!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1755172143550,
+      "content": "Hey, there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joery",
+  "is_still_participant": true,
+  "thread_path": "inbox/joery_1698601314864157",
+  "magic_words": [
+    
+  ]
+}

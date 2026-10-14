@@ -1,0 +1,21 @@
+{
+  "timestamp": 1732977059,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Message",
+      "value": "In-app Message 1231951304188140"
+    },
+    {
+      "label": "Click type",
+      "value": "Dismiss Click"
+    },
+    {
+      "label": "Count",
+      "value": "1"
+    }
+  ],
+  "fbid": "1231951304188140:17841410129415609:dis"
+}

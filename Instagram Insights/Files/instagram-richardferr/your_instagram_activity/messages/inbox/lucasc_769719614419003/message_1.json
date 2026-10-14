@@ -1,0 +1,1827 @@
+{
+  "participants": [
+    {
+      "name": "Lucas C"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1680484737200,
+      "content": "haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1680483067397,
+      "content": "Hahahahaha mdsss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666870151408,
+      "content": "Eu sempre kkkkkkkk",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2958242253081968436"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666127283223,
+      "content": "Entendi errado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666127279065,
+      "content": "Ata kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125900808,
+      "content": "Por imagens",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125894244,
+      "content": "N\u00c3\u00a3o ver sua rola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125891464,
+      "content": "Eu disse que preciso te ver para isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125886172,
+      "content": "N\u00c3\u00a3o voc\u00c3\u00aa n\u00c3\u00a3o entendeu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666125873569,
+      "content": "eu mostro u\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125499561,
+      "content": "Mas para isso tenho que te ver n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666125444358,
+      "content": "rsrs ent\u00c3\u00a3o me mama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125377062,
+      "content": "Sobre voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125373758,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125372113,
+      "content": "Te digo o mesmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666125359782,
+      "content": "vc \u00c3\u00a9 paia demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666125356182,
+      "content": "Kkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125145407,
+      "content": "Aiaiai n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666125137091,
+      "content": "Eu pedi primeiro rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666125066937,
+      "content": "Por que eu pedi e voc\u00c3\u00aa nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124701162,
+      "content": "Ent\u00c3\u00a3o nem vem",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Richard",
+          "timestamp": 1666125055
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124570728,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124512130,
+      "content": "Eu j\u00c3\u00a1 tinha falado isso ano passado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124502140,
+      "content": "Nada nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124495450,
+      "content": "eu pedi primeiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124368944,
+      "content": "Uai por que n\u00c3\u00a3o d\u00c3\u00a1 a sua para mim ent\u00c3\u00a3o ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124283156,
+      "content": "para de ser ego\u00c3\u00adsta e d\u00c3\u00a1 sua bunda para mim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124235476,
+      "content": "Tu t\u00c3\u00a1 querendo algo imposs\u00c3\u00advel Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124224235,
+      "content": "Que te dar menino kkk \nEu n\u00c3\u00a3o dou para ningu\u00c3\u00a9m nao",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124203373,
+      "content": "se prometer que vai me dar, a gnt desembola f\u00c3\u00a1cil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124186120,
+      "content": "vc quem n\u00c3\u00a3o marca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124176584,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124098970,
+      "content": "Para tu n\u00c3\u00a3o marcar nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124089353,
+      "content": "Vou mandar nude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124082354,
+      "content": "cad\u00c3\u00aa os nudes hein?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124075594,
+      "content": "ai ai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666124073853,
+      "content": "Kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124041606,
+      "content": "E nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124039896,
+      "content": "Pagar de pomba lesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124031833,
+      "content": "Al\u00c3\u00a9m de correr o risco de voc\u00c3\u00aa n\u00c3\u00a3o ir n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666124012647,
+      "content": "Verdade apenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666123984375,
+      "content": "Kkkkkk para",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123881852,
+      "content": "At\u00c3\u00a9 l\u00c3\u00a1 voc\u00c3\u00aa v\u00c3\u00aa a mensagem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123875250,
+      "content": "Tem que mandar msg te chamando para ir em janeiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123867159,
+      "content": "Como tu demora a responder",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666123847935,
+      "content": "hmm podia me convidar para essas coisas hein",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123599647,
+      "content": "Fumar se caso algum dia der vontade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123586262,
+      "content": "Beber",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123584047,
+      "content": "Transar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123577364,
+      "content": "Tudo ! Tomar banho de sol nu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666123543333,
+      "content": "hmm que tipo de coisas seriam essas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123481272,
+      "content": "Para eu poder fazer coisas nela haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123475773,
+      "content": "Mas em um apto com varanda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123468747,
+      "content": "Ainda no centro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666123462267,
+      "content": "onde voc\u00c3\u00aa vai morar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666123456492,
+      "content": "me manda no wpp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123410836,
+      "content": "E voc\u00c3\u00aa n\u00c3\u00a3o foi onde moro ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123403436,
+      "content": "Eu to me mudando de apto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123394207,
+      "content": "Que o insta n\u00c3\u00a3o consegue acessar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123387128,
+      "content": "Est\u00c3\u00a3o na minha galeria de ocultos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666123375096,
+      "content": "cad\u00c3\u00aa os nudes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666123368955,
+      "content": "Kkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123208444,
+      "content": "Dois anos depois",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123189568,
+      "content": "Haaa claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1666123187311,
+      "content": "Kkkkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1666122379555,
+      "content": "vc merece me mamar, isso sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665922908002,
+      "content": "Presente *",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665922900586,
+      "content": "Mere\u00c3\u00a7o um beijo e uma mamada de lreeente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665922891721,
+      "content": "Haaaaa muito obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665922614533,
+      "content": "feliz anivers\u00c3\u00a1rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665922611400,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665884056971,
+      "content": "Mas j\u00c3\u00a1 estou hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665884052928,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665884051428,
+      "content": "Amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665883948561,
+      "content": "\u00c3\u00a9 hoje seu anivers\u00c3\u00a1rio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665868707740,
+      "content": "Mentira estou saindo tbm indo comemorar meu anivers\u00c3\u00a1rio \u00f0\u009f\u0099\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665868687496,
+      "content": "Kkkkkkk se tivesse aqui cmg n\u00c3\u00a3o estaria assim",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2949838026286555148"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665858654782,
+      "content": "Hahahahaha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1665859022
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2949754098263068650"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665239241693,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665237182520,
+      "content": "haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174513448,
+      "content": "Talvez uma mam* rola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174486721,
+      "content": "Complicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174483495,
+      "content": "\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665174465439,
+      "content": "pena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174448261,
+      "content": "E nem voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174443255,
+      "content": "N\u00c3\u00a3o n\u00c3\u00a3o kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665174434681,
+      "content": "vai dar pra mim?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665174429568,
+      "content": "kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174414390,
+      "content": "Por que n\u00c3\u00a3o acredito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174409586,
+      "content": "Kkkkkk por isso n\u00c3\u00a3o acontece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665174390382,
+      "content": "kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665174055627,
+      "content": "E a transa \u00c3\u00a9 um milagre n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665173643553,
+      "content": "nem o beijo e nem a transa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665148956486,
+      "content": "Kkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665148950431,
+      "content": "Por isso que o beijo n\u00c3\u00a3o rolou ainda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665148943292,
+      "content": "Voce so enrola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1665148506909,
+      "content": "me bj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1665147901585,
+      "content": "Tao lindo \u00f0\u009f\u0098\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1664672086408,
+      "content": "Eu j\u00c3\u00a1 estou nesse projeto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1664672037249,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1664671595754,
+      "content": "Kkkkkkkkkkkkkk isso mesmo",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2939794860945495182"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1663665660535,
+      "content": "Huuuuu \u00f0\u009f\u0094\u00a5\u00f0\u009f\u00a5\u00b5",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2931157729476021585"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652479006006,
+      "content": "Amanh\u00c3\u00a3 To em Bh depois das 12:00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652478994843,
+      "content": "Olha quem apareceu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652478975812,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lucasc_769719614419003/audio/542705717247890.mp4",
+          "creation_timestamp": 1652478975
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652439715748,
+      "content": "no m\u00c3\u00a1ximo 13:00 j\u00c3\u00a1 estou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652439703065,
+      "content": "Volto para BH amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652439665797,
+      "content": "fim de semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652424607342,
+      "content": "Bora resolver isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652424602163,
+      "content": "Quando ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652415436673,
+      "content": "vamooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652385494067,
+      "content": "\u00f0\u009f\u0096\u00a4\u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652385489441,
+      "content": "Da vontade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1652385453367,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1652377425485,
+      "content": "Aff \u00f0\u009f\u0091\u0080\u00f0\u009f\u008c\u009a",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2836668598544068723"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1650296792392,
+      "content": "voc\u00c3\u00aa haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1650296713747,
+      "content": "Gostoso",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2819213421737602815"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1649001913111,
+      "content": "Augusto de Lima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1649001908894,
+      "content": "No centro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1649001023955,
+      "content": "Vc mora onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648966504306,
+      "content": "Nem para subir aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648966500023,
+      "content": "Tava aqui perto de casa em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648963301877,
+      "content": "Hahahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648948849952,
+      "content": "Conta a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648948848270,
+      "content": "Sei n\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648946786725,
+      "content": "\u00f0\u009f\u0098\u008f\u00f0\u009f\u00a4\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648946780503,
+      "content": "Haha imagina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648928631720,
+      "content": "\u00f0\u009f\u00a4\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648927137707,
+      "content": "Me conte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648927135905,
+      "content": "Como ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648927103777,
+      "content": "eu poderia te ajudar com esse fogo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648927094070,
+      "content": "por qu\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926796444,
+      "content": "Ent\u00c3\u00a3o n\u00c3\u00a3o seria uma boa ideia dormir na mesma cama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926782990,
+      "content": "To no fogo danado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926779308,
+      "content": "apesar que esses dias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926769097,
+      "content": "Kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648926755294,
+      "content": "demais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648926752879,
+      "content": "A\u00c3\u00ad daria bom demaid",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648926746715,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926666670,
+      "content": "Mas a cama t\u00c3\u00a1 aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926663051,
+      "content": "A gente da a desculpa do colch\u00c3\u00a3o infl\u00c3\u00a1vel n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926653743,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648926638697,
+      "content": "Achei que ia me chamar pra sua cama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926544555,
+      "content": "Tem um colch\u00c3\u00a3o infl\u00c3\u00a1vel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926540526,
+      "content": "Se tivesse tarde para ir embora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926533099,
+      "content": "Pois \u00c3\u00a9 ! Podia ter at\u00c3\u00a9 dormido aqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648926485411,
+      "content": "Aff perdi a oportunidade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926398386,
+      "content": "A gente bebia algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926392634,
+      "content": "Era ontem a noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648926386763,
+      "content": "N\u00c3\u00a3o n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648926355538,
+      "content": "era*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648926352365,
+      "content": "Kkkkkk achei que ers hj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648919563766,
+      "content": "Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648919560704,
+      "content": "Te chamei para vir para c\u00c3\u00a1 ontem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648919549410,
+      "content": "Estou com visitas em casa hj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648919544187,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648919323262,
+      "content": "\u00f0\u009f\u0091\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648865832438,
+      "content": "Vem c\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648865830729,
+      "content": "Em casa tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648864116602,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648864113185,
+      "content": "Em casa kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648863030383,
+      "content": "T\u00c3\u00a1 a onde ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648582730062,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1648586579
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2804771213647966061"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648512777457,
+      "content": "Hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648512775986,
+      "content": "Que nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648501685864,
+      "content": "vc gostoso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648501150180,
+      "content": "Gostoso",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2804119587761446737"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648252615759,
+      "content": "Sei n\u00c3\u00a3o kkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648242614355,
+      "content": "Vc sabe bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224885497,
+      "content": "Ta querendo o que ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224876762,
+      "content": "Kkkkkkkk eita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224805173,
+      "content": "Ent\u00c3\u00a3o me mostra pessoalmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224781575,
+      "content": "Ate por que como eu disse nem tiro foto assim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224753639,
+      "content": "Ahhhhh \u00f0\u009f\u0098\u00bf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224741436,
+      "content": "Gente gente e eu nem tiro foto da bunda Kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224699791,
+      "content": "Mostra pra mim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224691985,
+      "content": "\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224681785,
+      "content": "Bunda que \u00c3\u00a9 reta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224671040,
+      "content": "A bunda eu n\u00c3\u00a3o vi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224664868,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224650168,
+      "content": "Eu j\u00c3\u00a1 t\u00c3\u00b4 nu no perfil n\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224634090,
+      "content": "S\u00c3\u00b3 eu que n\u00c3\u00a3o vi nada :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224624034,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224613524,
+      "content": "De cueca j\u00c3\u00a1 dava para ter uma no\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224596363,
+      "content": "Nem precisava ser nu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224591451,
+      "content": "Tipo o corpo todo que digo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224586681,
+      "content": "O conjunto da obra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224575395,
+      "content": "Eu j\u00c3\u00a1 te mandei no wpp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224564949,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224555683,
+      "content": "Inclusive t\u00c3\u00a1 \u00c3\u00b3timo por sinal pelo o que eu imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224545573,
+      "content": "Acredito que j\u00c3\u00a1 seja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1648224532331,
+      "content": "preciso, tenho que ficar gostoso pelado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1648224362484,
+      "content": "Nem precisa de academia",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2801829600659861903"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647795823312,
+      "content": "Kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647791240330,
+      "content": "Hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647791208786,
+      "content": "Mostra a bunda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647790420934,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647790042419,
+      "content": "Mostra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647789845889,
+      "content": "Uai \u00c3\u00a9 \nTa bem quente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647789597108,
+      "content": "\u00f0\u009f\u0098\u0088",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647789585997,
+      "content": "hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647789432534,
+      "content": "So ta muito vestido tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647789424369,
+      "content": "Sou espa\u00c3\u00a7oso em",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647788826456,
+      "content": "com certeza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647788327472,
+      "content": "Tem que saber se tem espa\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647787549852,
+      "content": "S\u00c3\u00b3 vem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647787449656,
+      "content": "Me da um espa\u00c3\u00a7o ai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647787443942,
+      "content": "Haaaa Que nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647787022788,
+      "content": "Haha voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647786917378,
+      "content": "Que del\u00c3\u00adcia \u00f0\u009f\u00a4\u00a4",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2798155979508267162"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1647212072447,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1647212345
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2793337779818330244"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1647117723167,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646882471872,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646668181562,
+      "content": "Vou chamar !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646667963040,
+      "content": "Chama l\u00c3\u00a1 rs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646667959899,
+      "content": "31973634587",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646667938905,
+      "content": "Perfeito quer me chamar no WhatsApp?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646667652345,
+      "content": "Eu espero rsrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646667647721,
+      "content": "De boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646667451470,
+      "content": "Devo demorar umas tr\u00c3\u00aas horas para fazer as tattos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646667395620,
+      "content": "\u00c3\u0093timo, hor\u00c3\u00a1rio bom",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646667374015,
+      "content": "As 19 tenho tatto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646667369351,
+      "content": "S\u00c3\u00b3 tem que ser depois das 22;00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646667364276,
+      "content": "Ent\u00c3\u00a3o estava querendo sair para tomar uma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646666397608,
+      "content": "O que quer fazer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646666388811,
+      "content": "Acho que rola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646657172048,
+      "content": "Que v\u00c3\u00aa ! Bora sair sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646657163228,
+      "content": "Kkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646656984015,
+      "content": "Ohh kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646655285844,
+      "content": "Claro que \u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646655282406,
+      "content": "Kkkkkkkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646655198385,
+      "content": "N\u00c3\u00a3o \u00c3\u00a9 assim tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646655194561,
+      "content": "Kkkkk para",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646579345589,
+      "content": "E algo sem chance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646579338783,
+      "content": "Caso algum dia passe na minha cabe\u00c3\u00a7a de te chamar pra sair",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646579274405,
+      "content": "Haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646578323377,
+      "content": "Bom saber que pesamos da mesma forma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646578241216,
+      "content": "Morro de pregui\u00c3\u00a7a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646578237968,
+      "content": "Kkkk eu sou tipo assim tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646525768322,
+      "content": "Agora eu vir para casa e ter que sair para ver algu\u00c3\u00a9m e algo imposs\u00c3\u00advel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646525754227,
+      "content": "Por exemplo trabalho no Santo Agostinho quer me ver me chama para sair depois do trabalho por que j\u00c3\u00a1 estou na rua",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646525726242,
+      "content": "No meu caso a pessoa tem que me pegar em um dia que estou meio animado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646525695137,
+      "content": "Sou mega assim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646525692477,
+      "content": "Nem me fale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1646525601229,
+      "content": "Hahahaha bem eu na vida ! Pregui\u00c3\u00a7a t\u00c3\u00a1 reinando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1646027463348,
+      "content": "\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1645992472957,
+      "content": "\u00f0\u009f\u0098\u00bb\u00f0\u009f\u0098\u00bb\u00f0\u009f\u0098\u00bb\u00f0\u009f\u0098\u00bb\u00f0\u009f\u0098\u00bb",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2783107931984541799"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas C",
+      "timestamp_ms": 1645907352093,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2782394631650982612"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas C",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasc_769719614419003",
+  "magic_words": [
+    
+  ]
+}

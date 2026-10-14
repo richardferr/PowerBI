@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Pluguiazzi\u00e2\u008f\u00ba\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pluguiazzi\u00e2\u008f\u00ba\u00ef\u00b8\u008f",
+      "timestamp_ms": 1553881955990,
+      "content": "BEM VINDO A PLUGUIAZZI \u00e2\u009d\u00a4\u00ef\u00b8\u008f\nUma produtora de moda sem padr\u00c3\u00a3o, que est\u00c3\u00a1 sempre a procura de pessoas que queira entrar no ramo de modelo.\nSe voc\u00c3\u00aa recebeu esta mensagem, ent\u00c3\u00a3o ficamos interessados em seu perfil \u00f0\u009f\u0098\u008d\nquer saber mais?\nn\u00c3\u00b3s mande uma mensagem aqui no direct! \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1546654606094,
+      "content": "Mandei l\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pluguiazzi\u00e2\u008f\u00ba\u00ef\u00b8\u008f",
+      "timestamp_ms": 1546654359475,
+      "content": "Pluguiazzi\u00e2\u008f\u00ba\u00ef\u00b8\u008f sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/smayk.alves.54"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pluguiazzi\u00e2\u008f\u00ba\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/pluguiazzi_553725672687429",
+  "magic_words": [
+    
+  ]
+}

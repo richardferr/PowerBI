@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Guilherme Almeida"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guilherme Almeida",
+      "timestamp_ms": 1651926529642,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651925199154,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guilherme Almeida",
+      "timestamp_ms": 1651894301517,
+      "content": "Oii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guilherme Almeida",
+  "is_still_participant": true,
+  "thread_path": "inbox/guilhermealmeida_880927766639448",
+  "magic_words": [
+    
+  ]
+}

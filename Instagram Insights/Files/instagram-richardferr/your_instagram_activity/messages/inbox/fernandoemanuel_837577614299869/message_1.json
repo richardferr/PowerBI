@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Emanuel"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernando Emanuel",
+      "timestamp_ms": 1654217636845,
+      "content": "Bem  tbm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1654217202414,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Emanuel",
+      "timestamp_ms": 1654181536680,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Emanuel",
+      "timestamp_ms": 1654181530934,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando Emanuel",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandoemanuel_837577614299869",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,2502 @@
+{
+  "participants": [
+    {
+      "name": "Oscar Miguel Leit\u00c3\u00a3o"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787499663590,
+      "content": "Sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787499482348,
+      "content": "Quando volta para Espanha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787482367185,
+      "content": "Um pouco entediado, ent\u00c3\u00a3o estou batendo uma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787482286837,
+      "content": "Agora. Leio e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787481781518,
+      "content": "O que faz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787481771408,
+      "content": "Trabalhando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787481748725,
+      "content": "Como conseguir essas maravilhosas f\u00c3\u00a9rias?  N\u00c3\u00a3o  fica barato.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787481711186,
+      "content": "Casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787479583903,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787478107807,
+      "content": "Estou no hotel agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787478098425,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787477756316,
+      "content": "Cidade fant\u00c3\u00a1stica",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787477727730,
+      "content": "Em Berlin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787475531715,
+      "content": "Que cidade?\nEu Portugal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787475360694,
+      "content": "Alemanha e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787473630912,
+      "content": "Est\u00c3\u00a1 onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787473614530,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1787472917639,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787413764370,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787413762370,
+      "content": "Oiiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1787093748133,
+      "content": "Oscar sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DcJLYz8PQLL/?id=3965751030426960587_12902047732",
+        "share_text": "\u00f0\u009f\u008e\u0099\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f Mais uma tradu\u00c3\u00a7\u00c3\u00a3o para matar a saudade de grandes hist\u00c3\u00b3rias contadas atrav\u00c3\u00a9s da m\u00c3\u00basica.\n\nLan\u00c3\u00a7ada em 1980, The Winner Takes It All, do ABBA, \u00c3\u00a9 daquelas can\u00c3\u00a7\u00c3\u00b5es que conseguem transformar uma dor de amor em m\u00c3\u00basica.\n\nCom uma interpreta\u00c3\u00a7\u00c3\u00a3o emocionante de Agnetha F\u00c3\u00a4ltskog, a can\u00c3\u00a7\u00c3\u00a3o fala sobre o fim de um relacionamento, a perda, a saudade e aquela sensa\u00c3\u00a7\u00c3\u00a3o de que, no amor, nem sempre existe um vencedor.\n\nE quem acompanhava o saudoso Um Toque de Amor, na R\u00c3\u00a1dio Cidade, certamente vai lembrar de quantas vezes m\u00c3\u00basicas como essa fizeram companhia a quem estava apaixonado, vivendo uma despedida ou simplesmente ouvindo o r\u00c3\u00a1dio em busca de uma can\u00c3\u00a7\u00c3\u00a3o que traduzisse exatamente o que estava sentindo.\n\n\u00c3\u0089 essa mem\u00c3\u00b3ria que quero resgatar com mais uma tradu\u00c3\u00a7\u00c3\u00a3o.\n\nAumente o volume, acompanhe comigo e deixe The Winner Takes It All trazer de volta alguma lembran\u00c3\u00a7a especial. Porque algumas m\u00c3\u00basicas passam pelo tempo\u00e2\u0080\u00a6 mas nunca passam pelo cora\u00c3\u00a7\u00c3\u00a3o. \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u008e\u00b6\n\nBoa semana! \n\n#abba #thewinnertakesitall #recifepe #tradu\u00c3\u00a7\u00c3\u00a3odemusicas #rhaldneysantosoficial",
+        "original_content_owner": "rhaldneysantosoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786882734007,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1786880132672,
+      "content": "Obrigado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Oscar Miguel Leit\u00c3\u00a3o"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786880116065,
+      "content": "Continua\u00c3\u00a7\u00c3\u00a3o  de boas f\u00c3\u00a9rias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786880106555,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786667219630,
+      "content": "N\u00c3\u00a3o  falou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786667206385,
+      "content": "!!!!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786667201931,
+      "content": "Sumiu!!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786667197172,
+      "content": "Ol\u00c3\u00a1 tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786469532755,
+      "content": "Ainda est\u00c3\u00a1 em viagem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786469524581,
+      "content": "Ol\u00c3\u00a1 tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786228963810,
+      "content": "Oscar sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DbwNJ_rB4fq/?id=3958721933906249706_63932367936",
+        "share_text": "\"Ainda Bem\" \u00c3\u00a9 daquelas can\u00c3\u00a7\u00c3\u00b5es que transformam a simplicidade em emo\u00c3\u00a7\u00c3\u00a3o. Lan\u00c3\u00a7ada por Marisa Monte em 2011 no \u00c3\u00a1lbum O Que Voc\u00c3\u00aa Quer Saber de Verdade, a m\u00c3\u00basica fala sobre o encontro com um amor capaz de renovar a esperan\u00c3\u00a7a de quem j\u00c3\u00a1 havia se acostumado com a solid\u00c3\u00a3o. Com uma melodia leve e uma interpreta\u00c3\u00a7\u00c3\u00a3o delicada, a can\u00c3\u00a7\u00c3\u00a3o transmite gratid\u00c3\u00a3o por algu\u00c3\u00a9m que chega para mudar a vida e devolver a vontade de acreditar.\n\nComposta por Marisa Monte em parceria com Arnaldo Antunes, \"Ainda Bem\" rapidamente se tornou um dos maiores sucessos da carreira da cantora e uma das m\u00c3\u00basicas mais lembradas da MPB contempor\u00c3\u00a2nea. Sua mensagem positiva, unida \u00c3\u00a0 sensibilidade da interpreta\u00c3\u00a7\u00c3\u00a3o, faz dela uma escolha frequente para momentos especiais, celebra\u00c3\u00a7\u00c3\u00b5es de amor e declara\u00c3\u00a7\u00c3\u00b5es sinceras. Uma can\u00c3\u00a7\u00c3\u00a3o que lembra que, \u00c3\u00a0s vezes, basta a pessoa certa chegar para transformar completamente a nossa hist\u00c3\u00b3ria.",
+        "original_content_owner": "rennanxavieryt"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786176019572,
+      "content": "POr onde anda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786176010669,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786176004045,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1786050391640,
+      "content": "E voc\u00c3\u00aa deseja pretende quer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785955339024,
+      "content": "Sim, acredito que possa ser vivida se ambos quiserem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785954656850,
+      "content": "Voc\u00c3\u00aa que acha da fidelidade?\nD\u00c3\u00a1  pessoa ser fiel absolutamente a outra. \n Acha isso poss\u00c3\u00advel para voc\u00c3\u00aa?\nHoje \u00c3\u00a9 \"quase\" tudo rela\u00c3\u00a7\u00c3\u00b5es abertas.\nCome\u00c3\u00a7am por serem fi\u00c3\u00a9is  e passado pouco tempo j\u00c3\u00a1  s\u00c3\u00a3o rela\u00c3\u00a7\u00c3\u00b5es abertas...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785953708586,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785874819461,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785874127783,
+      "content": "Posso te fazer uma pergunta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785829172239,
+      "content": "Relacionar, fazer sexo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785788886247,
+      "content": "O que \u00c3\u00a9  para voc\u00c3\u00aa ficar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774844930,
+      "content": "Ficaria comigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774815407,
+      "content": "Integra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774809374,
+      "content": "Pessoa sincera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774803483,
+      "content": "S\u00c3\u00b3  precisa de ser tamb\u00c3\u00a9m interiormente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774790095,
+      "content": "Vc \u00c3\u00a9  lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774763930,
+      "content": "N\u00c3\u00a3o  sou velho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774756446,
+      "content": "Vc \u00c3\u00a9  novo e bonito. Fico com d\u00c3\u00bavidas  se poder\u00c3\u00a1 gostar d pessoas mais velhas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774706659,
+      "content": "Tem raz\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774698101,
+      "content": "Eu tamb\u00c3\u00a9m j\u00c3\u00a1 te disse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774679114,
+      "content": "J\u00c3\u00a1  disse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774662270,
+      "content": "30 e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774644958,
+      "content": "Que idade voc\u00c3\u00aa tem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774636203,
+      "content": "Eu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774570948,
+      "content": "Voc\u00c3\u00aa n\u00c3\u00a3o quer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774557520,
+      "content": "Arranja quem quer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774548405,
+      "content": "Voc\u00c3\u00aa  \u00c3\u00a9  muito bonito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774544103,
+      "content": "Mas posso voltar em breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774535349,
+      "content": "Sim, \u00c3\u00a9 mesmo uma pena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774523288,
+      "content": "O que voc\u00c3\u00aa est\u00c3\u00a1 fazendo agora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774513028,
+      "content": "E estou batendo uma para relaxar, depois vou tirar um cochilo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774490591,
+      "content": "Estava mesmo cansado, vim ao hotel para relaxar um pouco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774486506,
+      "content": "Como \u00c3\u00a9 a Bulg\u00c3\u00a1ria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774474644,
+      "content": "Acabei de chegar na Bulgaria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774474616,
+      "content": "Pena mesmo n\u00c3\u00a3o  nos termos encontrado  em Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774465855,
+      "content": "Estou sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774454271,
+      "content": "E  voc\u00c3\u00aa  est\u00c3\u00a1  a gostar da viagem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774275249,
+      "content": "Que bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774267551,
+      "content": "Visitei a Costa Almafitana.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774254632,
+      "content": "Achei que tinha sido ontem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774242227,
+      "content": "J\u00c3\u00a1 disse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785774198217,
+      "content": "E o que fez hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774141499,
+      "content": "Lind\u00c3\u00adssima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774141109,
+      "content": "Fui \u00c3\u00a0  Costa almafitana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785774140478,
+      "content": "Maravilha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785754529411,
+      "content": "Agora vou para Bulgaria e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785754518596,
+      "content": "Bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785665900147,
+      "content": "Que",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785665895831,
+      "content": "Vale mesmo visitar e voc\u00c3\u00aa  wue visita hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785665869424,
+      "content": "Muito bonita a ilha!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785620648283,
+      "content": "E o que achou de l\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785620641352,
+      "content": "Amanh\u00c3\u00a3 acho que vou visitar outra cidade e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785612690903,
+      "content": "Amanh\u00c3\u00a3 que faz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785612684474,
+      "content": "Tamb\u00c3\u00a9m estou cansado.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785612671339,
+      "content": "Visite a ilha dei Capri!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785612656303,
+      "content": "Sim muito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785533100956,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785454025506,
+      "content": "Passeou muito tamb\u00c3\u00a9m?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785454015691,
+      "content": "Estou muito casado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785454011394,
+      "content": "Estou sim, acabei de chegar de um passeio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785446751118,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785442501221,
+      "content": "Correu bem a viagem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785442484683,
+      "content": "Polonia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785442470967,
+      "content": "E voc\u00c3\u00aa j\u00c3\u00a1  est\u00c3\u00a1  na Polo?  Em que cidade?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785442445435,
+      "content": "Visitei a cidades de N\u00c3\u00a1poles.  Gostei muito.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785360083774,
+      "content": "Tirou fotos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785360080319,
+      "content": "Eu fui dar um passeio tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785359620507,
+      "content": "E dei um passeio ao final da tarde por N\u00c3\u00a1poles  e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785359594883,
+      "content": "Viajei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785358295702,
+      "content": "E o que fez a\u00c3\u00ad hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785358289450,
+      "content": "Eu imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785353904149,
+      "content": "Aqui est\u00c3\u00a1 muito calor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785353898620,
+      "content": "Maravilha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785350365860,
+      "content": "Amanh\u00c3\u00a3 cedo vou a Pol\u00c3\u00b4nia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785350357854,
+      "content": "Croacia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785343938138,
+      "content": "E voc\u00c3\u00aa onde est\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785343930010,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785309976281,
+      "content": "J\u00c3\u00a1 chegou a It\u00c3\u00a1lia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785309970115,
+      "content": "Polonia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785282478486,
+      "content": "E depois oara onde vais?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785271771167,
+      "content": "At\u00c3\u00a9 quinta feira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785268691206,
+      "content": "Cro\u00c3\u00a1cia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785268679263,
+      "content": "Est\u00c3\u00a1  ai na ctoacua at\u00c3\u00a9 quando?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785259006645,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785258975266,
+      "content": "Melhor seria com sua companhia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785258967800,
+      "content": "Estou sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785258920480,
+      "content": "E est\u00c3\u00a1  a gostar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785258912237,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785258901332,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785258892464,
+      "content": "Com o grupo de viagens. Colegas de trabalho. \nVoc\u00c3\u00aa  est\u00c3\u00a1  a viajar sozinho?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785258035495,
+      "content": "Vai sozinho?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785258028987,
+      "content": "Ainda n\u00c3\u00a3o estive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785257593700,
+      "content": "N\u00c3\u00a1poles!\nConhece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785253651029,
+      "content": "Que cidade?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785253647477,
+      "content": "Final de agosto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785252462409,
+      "content": "Quando volta a Espanha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785252407149,
+      "content": "It\u00c3\u00a1lia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785252395024,
+      "content": "Onde voc\u00c3\u00aa vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785252268638,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785252251786,
+      "content": "Arrumando a mala  para viajar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785252205341,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785252202098,
+      "content": "O que est\u00c3\u00a1 fazendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785252152632,
+      "content": "Maravilha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785252133704,
+      "content": "Estou na Cro\u00c3\u00a1cia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785252120630,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785251993383,
+      "content": "J\u00c3\u00a1  est\u00c3\u00a1  em casa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785251980550,
+      "content": "Ol\u00c3\u00a1 tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785071742448,
+      "content": "Vou embora amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785071737874,
+      "content": "Ah bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785069616560,
+      "content": "Voc\u00c3\u00aa  viaja  quando de Paris?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785069595069,
+      "content": "Gisto muit\u00c3\u00adssimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785069589274,
+      "content": "Paris \u00c3\u00a9 a minha cidade de elei\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785069572824,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1785069569952,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785024936431,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785024933715,
+      "content": "Estou em Paris agora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1785024929321,
+      "content": "Estava viajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784844339100,
+      "content": "Tudo de Bom para voc\u00c3\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784844331003,
+      "content": "E esqueceu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784844326844,
+      "content": "Encontrou algu\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784844320448,
+      "content": "Sumiu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784844318268,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784812045275,
+      "content": "Ai est\u00c3\u00a1 muito calor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784812029438,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784812027147,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784762412267,
+      "content": "The mentalist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784762392184,
+      "content": "Que s\u00c3\u00a9rie?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784762386397,
+      "content": "Estive falando  com familiares  no brasil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784761853572,
+      "content": "O que voc\u00c3\u00aa est\u00c3\u00a1 fazendo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784761848789,
+      "content": "Que nada, estou aqui assistindo uma s\u00c3\u00a9rie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784761711392,
+      "content": "J\u00c3\u00a1  est\u00c3\u00a1 com saudades de Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784761694963,
+      "content": "Durmiu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784761688856,
+      "content": "J\u00c3\u00a1  furmiu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784761404626,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784761335347,
+      "content": "Ol\u00c3\u00a1 boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750856579,
+      "content": "Sim. \nMas agora vou yer de sair. \nFalamos depois das onze?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750633719,
+      "content": "Quer ver?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750630721,
+      "content": "Vou tirar sem expirar ent\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750584913,
+      "content": "Tranquilo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750582284,
+      "content": "Acrediro que sejado neu celular",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750555936,
+      "content": "Por qu\u00c3\u00aa n\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750553125,
+      "content": "E Deus permita que seja tamb\u00c3\u00a9m  interiormente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750536431,
+      "content": "Voc\u00c3\u00aa  \u00c3\u00a9  lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750526940,
+      "content": "N\u00c3\u00a3o  consegui ver outra vez.  Mas sem problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750472306,
+      "content": "Se entretanto  voc\u00c3\u00aa  n\u00c3\u00a3o  arrranjar algu\u00c3\u00a9m  e sair. E ai j\u00c3\u00a1 n\u00c3\u00a3o me d\u00c3\u00a1  import\u00c3\u00a2ncia \nEh eh eh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750443142,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750413382,
+      "content": "Fakamos depois das onze. Ok?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750394916,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750380348,
+      "content": "Era foto do quarto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750355887,
+      "content": "Ok?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750348424,
+      "content": "Depois das onze falamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750333426,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750329585,
+      "content": "+351960244550",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750310425,
+      "content": "Mas de o seu numero e mais logo falamos  por whstsap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750291364,
+      "content": "N\u00c3\u00a3o  vi a foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750282048,
+      "content": "Airbnb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750275444,
+      "content": "Viu, estou sozinho (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750269684,
+      "content": "Vou, estou sozinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750259654,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750257820,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750255306,
+      "content": "Est\u00c3\u00a1  num hostal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750246119,
+      "content": "N\u00c3\u00a3o  combinou coisas ai com gente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750241155,
+      "content": "Sim, estou",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750231636,
+      "content": "Voc\u00c3\u00aa  est\u00c3\u00a1  si sozinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750222310,
+      "content": "Tenho dificuldade  em acreditar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750207985,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750199531,
+      "content": "Est\u00c3\u00a1  ai sozinho??????",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750189352,
+      "content": "Seja sincero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750183763,
+      "content": "A s\u00c3\u00a9rio????",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750146317,
+      "content": "Aqu\u00c3\u00ad estou sozinho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784750141278,
+      "content": "Estava com amigos em Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750035439,
+      "content": "V\u00c3\u00a3o  sair at\u00c3\u00a9  tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750028761,
+      "content": "Est\u00c3\u00a1  com amigos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784750022533,
+      "content": "Eh eh eh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784749989316,
+      "content": "Pois \u00c3\u00a9, vou ter que dormir pelado, porque n\u00c3\u00a3o tem ar condicionado nesse quarto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784749951531,
+      "content": "Ou ent\u00c3\u00a3o voc\u00c3\u00aa vai me visitar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784749944272,
+      "content": "Fica para a pr\u00c3\u00b3xima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784749906891,
+      "content": "Bbem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784749903157,
+      "content": "Voc\u00c3\u00aa  preferiu  os amigos e vem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784749891160,
+      "content": "Pena n\u00c3\u00a3o  termos encontrado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784749879044,
+      "content": "Aqui tamb\u00c3\u00a9m",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784749866323,
+      "content": "Faz muito calor aqui hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784749861176,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784749835195,
+      "content": "At\u00c3\u00a9 dia 24",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784749785099,
+      "content": "Vai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784749778854,
+      "content": "Quanto tempo ai csi ficar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784743501311,
+      "content": "Vem para Faro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784743493389,
+      "content": "Provavelmente n\u00c3\u00a3o esse m\u00c3\u00aas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784743037132,
+      "content": "Ainda volta a Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784743027643,
+      "content": "Boas f\u00c3\u00a9rias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784735421490,
+      "content": "J\u00c3\u00a1 sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784734318957,
+      "content": "Ol\u00c3\u00a1 boa tarde!\nJ\u00c3\u00a1  est\u00c3\u00a1 no Algarve?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784722457589,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784641210656,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784640869805,
+      "content": "Voc\u00c3\u00aa  viaja hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784640862848,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784627859257,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784627653088,
+      "content": "Tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784627651117,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784592218491,
+      "content": "Boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784592208867,
+      "content": "Desculpe, sa\u00c3\u00ad para jantar com amigos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784587804901,
+      "content": "Se voc\u00c3\u00aa quiser convido voc\u00c3\u00aa  para almo\u00c3\u00a7armos. Seria um gosto. Se n\u00c3\u00a3o  wuiser tudo bem. Pe\u00c3\u00a7o  \u00c3\u00a9  wue responda.  Uma boa noite e bom descanso.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784587731393,
+      "content": "Desejo que esteja tudo bem com voc\u00c3\u00aa! Pareceu primeiro t\u00c3\u00a3o  interessado em nos conhecermos.  Mas depois sumiu.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784578077107,
+      "content": "\u00c3\u0089 uma cidade bonita@",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784578042274,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784572938230,
+      "content": "Mais logo est\u00c3\u00a1  ocupado?\nYomariamos um copo se chegar  cedo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784571746370,
+      "content": "Pensei que estaria dispon\u00c3\u00advel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784571669280,
+      "content": "Um pouco, por qu\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784571470815,
+      "content": "Ocupado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784571465888,
+      "content": "Oiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784569369977,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784569192927,
+      "content": "Est\u00c3\u00a1  em casa de amigos.\nMesmo em Taveiro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784566475260,
+      "content": "Vou a tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784566469450,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784566466158,
+      "content": "N\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784563022549,
+      "content": "Viaja amanh\u00c3\u00a3 de manh\u00c3\u00a3?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784562903350,
+      "content": "Voc\u00c3\u00aa  est\u00c3\u00a1  de carro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784561713183,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784560407996,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784560380256,
+      "content": "Voc\u00c3\u00aa  quer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784560354524,
+      "content": "Voc\u00c3\u00aa n\u00c3\u00a3o quer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784560330660,
+      "content": "Vc t\u00c3\u00aam  quem quiser. \u00c3\u0089 jovem. Bonito simp\u00c3\u00a1tico( me parece). Inteligente.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784560174116,
+      "content": "Pq faz essa pergunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559967277,
+      "content": "Pegaria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559944023,
+      "content": "E as que tem s\u00c3\u00a3o antigas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559934851,
+      "content": "Pena que voc\u00c3\u00aa quase n\u00c3\u00a3o tem fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559929392,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559894554,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559885683,
+      "content": "Voc\u00c3\u00aa  \u00c3\u00a9  lindo! A sorrir fica muito mais.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559860677,
+      "content": "H\u00c3\u00a1  fotos onde vc est\u00c3\u00a1  s\u00c3\u00a9rio  de mais..... noutras sorri",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559847107,
+      "content": "voc\u00c3\u00aa pode beijar meu pesco\u00c3\u00a7o na amizade",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Oscar Miguel Leit\u00c3\u00a3o"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559829827,
+      "content": "De Amizade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559827006,
+      "content": "haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559819712,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559810452,
+      "content": "Esperaria a retribui\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559759054,
+      "content": "N\u00c3\u00a3o entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559742704,
+      "content": "Eh eh eh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559732126,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559714736,
+      "content": "N\u00c3\u00a3o  me envia um imogi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559581879,
+      "content": "Bh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559553615,
+      "content": "De onde vc \u00c3\u00a9  em MG",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559525270,
+      "content": "Reacted \u00f0\u009f\u0098\u00a2 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559500392,
+      "content": "Certo.   A amizade  \u00c3\u00a9  das coisas mais belas da vida! Quando \u00c3\u00a9  verdadeira e aut\u00c3\u00aantica.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559466206,
+      "content": "Pena morarmos longe",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Oscar Miguel Leit\u00c3\u00a3o"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559457839,
+      "content": "amigos tamb\u00c3\u00a9m podem se divertir juntos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559435060,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559412618,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559403458,
+      "content": "Voc\u00c3\u00aa  me parece um doce de pessoa. Espero estar certo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559381746,
+      "content": "Entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559333451,
+      "content": "Richard voc\u00c3\u00aa  \u00c3\u00a9  um rapaz bonito,  mas estou para Amizade.   Voc\u00c3\u00aa  vive em Espanha. Ter\u00c3\u00a1 l\u00c3\u00a1  muita gente bonita  atr\u00c3\u00a1s  de voc\u00c3\u00aa.  Deve ser seletivo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559259049,
+      "content": "Trabalho e moro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559196753,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559194362,
+      "content": "L\u00c3\u00a1  fsz o que?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559174417,
+      "content": "Gosto muito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784559168976,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559037829,
+      "content": "Conhece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784559035270,
+      "content": "Valencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558941288,
+      "content": "Onde Mora em Espanha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558914644,
+      "content": "Sim conhe\u00c3\u00a7o . BH   e Montes Claros  e S\u00c3\u00a3o Jo\u00c3\u00a3o Del Rei",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558880164,
+      "content": "O que mais voc\u00c3\u00aa gostaria de fazer al\u00c3\u00a9m de tomar um copo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558864426,
+      "content": "Conhece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558850309,
+      "content": "Minas Gerais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558798098,
+      "content": "De  que regi\u00c3\u00a3o voc\u00c3\u00aa  \u00c3\u00a9 do brasil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558756007,
+      "content": "A mensagem ficou pendente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558752478,
+      "content": "Bacana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558748704,
+      "content": "N\u00c3\u00a3o disse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558737932,
+      "content": "Na \u00c3\u00a1rea  da educa\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558705940,
+      "content": "J\u00c3\u00a1 disse.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558690875,
+      "content": "Inform\u00c3\u00a1tico e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558673869,
+      "content": "N\u00c3\u00a3o.   E voc\u00c3\u00aa?   \nVoc\u00c3\u00aa em que trabalha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558470416,
+      "content": "Voc\u00c3\u00aa \u00c3\u00a9 comprometido?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558462537,
+      "content": "Agora estou em Taveiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784558411926,
+      "content": "S\u00c3\u00a3o Martinho  e vc est\u00c3\u00a1 onde?\nEu estou fora. S\u00c3\u00b3  logo estou.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784558202468,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557900287,
+      "content": "Onde mora em Coimbra e o que  faz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557891120,
+      "content": "Hm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557824488,
+      "content": "Vc me apareceu como solicita\u00c3\u00a7\u00c3\u00a3o  de seguir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557783015,
+      "content": "N\u00c3\u00a3o  tinha dado conta que pediu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557763957,
+      "content": "Ah ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557759239,
+      "content": "Aprovar a solicita\u00c3\u00a7\u00c3\u00a3o no Instagram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557744756,
+      "content": "N\u00c3\u00a3o  percebi.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557723698,
+      "content": "Aprove",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557709896,
+      "content": "Onde voc\u00c3\u00aa quiser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557687674,
+      "content": "Tem outra sugest\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557673649,
+      "content": "Na pra\u00c3\u00a7a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557617711,
+      "content": "Onde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557575640,
+      "content": "As fotos enganam \u00c3\u00a0s vezes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557551415,
+      "content": "Tomamos um copo e nos conhecemos  pessoalmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557525962,
+      "content": "No instagram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557462546,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557407829,
+      "content": "49",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557376473,
+      "content": "Tenho 30 e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557358964,
+      "content": "Sim.\nQuantos anos voc\u00c3\u00aa t\u00c3\u00aam?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557290374,
+      "content": "E que idade tem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557286123,
+      "content": "Voc\u00c3\u00aa tem mais fotos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557251603,
+      "content": "Muiyo bem!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557237979,
+      "content": "Depois vou para Faro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557233260,
+      "content": "Fico em Coimbra at\u00c3\u00a9 amanh\u00c3\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784557218305,
+      "content": "Sou do Brasil, mas moro na Espanha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784557158997,
+      "content": "Amizade! Voc\u00c3\u00aa  \u00c3\u00a9  de que regi\u00c3\u00a3o  do Brasil? Quando volta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784556959066,
+      "content": "O que voc\u00c3\u00aa est\u00c3\u00a1 a fim?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784556946867,
+      "content": "Estou visitando amigos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784556876314,
+      "content": "Est\u00c3\u00a1  com familia ou amigos?\nSe quiser puder logo \u00c3\u00a0  noite tomariamos um copo  e fal\u00c3\u00a1vamos.  Viajo habitualmente para S\u00c3\u00a3o Paulo  onde tenho fam\u00c3\u00adlia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784556794868,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784556742982,
+      "content": "Ainda estaem Coimbra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784556704064,
+      "content": "Portugal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784556577673,
+      "content": "Sou do Brasil e voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784331452192,
+      "content": "Em Coimbra de onde \u00c3\u00a9s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784331407929,
+      "content": "E voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784331405303,
+      "content": "Nesse momento em Coimbra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784331391262,
+      "content": "De onde falas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784331385273,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784330590865,
+      "content": "Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784329763638,
+      "content": "E por ai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784329759351,
+      "content": "Sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1784329459348,
+      "content": "Tudo bem e com voc\u00c3\u00aa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Miguel Leit\u00c3\u00a3o",
+      "timestamp_ms": 1784328785998,
+      "content": "Ol\u00c3\u00a1 tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Oscar Miguel Leit\u00c3\u00a3o",
+  "is_still_participant": true,
+  "thread_path": "inbox/oscarmiguelleitao_1513787963409834",
+  "magic_words": [
+    
+  ]
+}

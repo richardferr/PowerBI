@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Sergio Filipe Bento"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1715674998801,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Filipe Bento",
+      "timestamp_ms": 1715665033551,
+      "content": "Boas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sergio Filipe Bento",
+  "is_still_participant": true,
+  "thread_path": "inbox/sergiofilipebento_1404618134272612",
+  "magic_words": [
+    
+  ]
+}

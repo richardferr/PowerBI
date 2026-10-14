@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigues Telles Bruno"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigues Telles Bruno",
+      "timestamp_ms": 1659890421409,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1661135240
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2899229150653734799"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigues Telles Bruno",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodriguestellesbruno_928153295246098",
+  "magic_words": [
+    
+  ]
+}

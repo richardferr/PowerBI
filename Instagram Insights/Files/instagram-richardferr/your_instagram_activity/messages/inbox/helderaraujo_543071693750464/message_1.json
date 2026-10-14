@@ -1,0 +1,129 @@
+{
+  "participants": [
+    {
+      "name": "Helder Ara\u00c3\u00bajo"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1663680903483,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2931157729476021585"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1578091988469,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1578091666334,
+      "content": "\u00f0\u009f\u0098\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Helder Ara\u00c3\u00bajo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1578089483713,
+      "content": "Vc tmb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1578089481288,
+      "content": "Obrigado uai",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1578089476965,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1577854794632,
+      "content": "Bonit\u00c3\u00a3o vc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Helder Ara\u00c3\u00bajo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1577841835829,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1577841828498,
+      "content": "T\u00c3\u00b4 tranquilo tmb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1577841808219,
+      "content": "Tranquilo e vc?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Helder Ara\u00c3\u00bajo"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helder Ara\u00c3\u00bajo",
+      "timestamp_ms": 1577841291352,
+      "content": "Blza?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1577838926524,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Helder Ara\u00c3\u00bajo",
+  "is_still_participant": true,
+  "thread_path": "inbox/helderaraujo_543071693750464",
+  "magic_words": [
+    
+  ]
+}

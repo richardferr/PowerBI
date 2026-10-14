@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Anderson Albuquerque"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1697012651936,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anderson Albuquerque",
+      "timestamp_ms": 1697012444748,
+      "content": "Oi, bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anderson Albuquerque",
+  "is_still_participant": true,
+  "thread_path": "inbox/andersonalbuquerque_1194232548634372",
+  "magic_words": [
+    
+  ]
+}

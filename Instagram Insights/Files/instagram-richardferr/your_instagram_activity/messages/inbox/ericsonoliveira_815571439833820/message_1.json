@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ericson Oliveira"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651683066412,
+      "content": "boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1651615204331,
+      "content": "boa noite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ericson Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/ericsonoliveira_815571439833820",
+  "magic_words": [
+    
+  ]
+}

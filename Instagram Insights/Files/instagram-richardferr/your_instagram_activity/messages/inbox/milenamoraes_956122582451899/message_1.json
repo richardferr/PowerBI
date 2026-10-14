@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Milena Moraes"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1658802248644,
+      "content": "vamo nessaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1658802245163,
+      "content": "https://www.instagram.com/reel/CfkPE25AJMx/?igshid=MDJmNzVkMjY=",
+      "share": {
+        "link": "https://www.instagram.com/reel/CfkPE25AJMx/?igshid=MDJmNzVkMjY%3D",
+        "share_text": "KVSH, Schillist, Ray X Ben \u00e2\u0080\u00a2 Be Someone"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Milena Moraes",
+  "is_still_participant": true,
+  "thread_path": "inbox/milenamoraes_956122582451899",
+  "magic_words": [
+    
+  ]
+}

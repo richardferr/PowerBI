@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "EDDIE BURGER"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "EDDIE BURGER",
+      "timestamp_ms": 1636233254745,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Richard",
+          "timestamp": 1636260358
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1636232788790,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2701238850805448213"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "EDDIE BURGER",
+  "is_still_participant": true,
+  "thread_path": "inbox/eddieburger_695534695170829",
+  "magic_words": [
+    
+  ]
+}

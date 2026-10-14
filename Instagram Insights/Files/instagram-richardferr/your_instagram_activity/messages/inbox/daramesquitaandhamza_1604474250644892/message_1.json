@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Dara Mesquita"
+    },
+    {
+      "name": "Richard"
+    },
+    {
+      "name": "Hamza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hamza",
+      "timestamp_ms": 1778187533450,
+      "content": "Hamza sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DXrP2XLjg9S/?id=3885268809976516434_33390446720",
+        "share_text": "Puta que pariu pisa no freio veio \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 #react #com\u00c3\u00a9dia #cortes #videosengracados cr\u00c3\u00a9ditos ao @embrazado_01",
+        "original_content_owner": "mlkcomedy_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dara Mesquita",
+      "timestamp_ms": 1777736129084,
+      "content": "Dara sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DX1pgFsDbEr/?carousel_share_child_media_id=3888196370482198162_73252334474",
+        "share_text": "",
+        "original_content_owner": "dalefunk_es"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hamza",
+      "timestamp_ms": 1777306676626,
+      "content": "Hamza sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dara Mesquita"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Richard"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DXhadKbjKPq/?id=3882500707043812330_42041392806",
+        "share_text": "Lo adoptar\u00c3\u00adas ? \u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7 #fyp #brasil #cats #gatos #humor",
+        "original_content_owner": "catman.exe"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dara Mesquita and Hamza",
+  "is_still_participant": true,
+  "thread_path": "inbox/daramesquitaandhamza_1604474250644892",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

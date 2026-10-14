@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "LukasRuiz"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575594934359,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2192571461554618960"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1575591722809,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1573956891336,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2178830587926504474"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1561942251504,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2078044664335462931"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LukasRuiz",
+  "is_still_participant": true,
+  "thread_path": "inbox/lukasruiz_526183875439246",
+  "magic_words": [
+    
+  ]
+}

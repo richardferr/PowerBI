@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Ferraz Martins"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1780753932911,
+      "content": "Vou sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1780753928628,
+      "content": "Ah sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Ferraz Martins",
+      "timestamp_ms": 1780749472640,
+      "content": "Vai com galera?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Ferraz Martins",
+      "timestamp_ms": 1780749469969,
+      "content": "Eu vou ficar mais por ruzafa hoje msm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Ferraz Martins",
+      "timestamp_ms": 1780749465201,
+      "content": "Aaah boaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1780749390263,
+      "content": "Ah bacana, hoje t\u00c3\u00b4 pensando em ir para Akuarela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Ferraz Martins",
+      "timestamp_ms": 1780749028962,
+      "content": "E tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Ferraz Martins",
+      "timestamp_ms": 1780749026560,
+      "content": "Caraaa poss\u00c3\u00advel de ir para o Liverpool hoje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Ferraz Martins",
+      "timestamp_ms": 1780749019123,
+      "content": "Fala mano Blz e aiii?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1780747922963,
+      "content": "Tem planos para hoje a noite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1780747913043,
+      "content": "E a\u00c3\u00ad, blz?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Ferraz Martins",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasferrazmartins_4610701155921180",
+  "magic_words": [
+    
+  ]
+}

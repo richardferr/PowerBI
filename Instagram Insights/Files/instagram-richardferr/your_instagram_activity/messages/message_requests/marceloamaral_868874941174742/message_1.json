@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Marcelo Amaral"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcelo Amaral",
+      "timestamp_ms": 1651256875738,
+      "content": "Est\u00c3\u00a1 em Mariana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Amaral",
+      "timestamp_ms": 1651256871903,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Amaral",
+      "timestamp_ms": 1651256869395,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcelo Amaral",
+  "is_still_participant": true,
+  "thread_path": "message_requests/marceloamaral_868874941174742",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

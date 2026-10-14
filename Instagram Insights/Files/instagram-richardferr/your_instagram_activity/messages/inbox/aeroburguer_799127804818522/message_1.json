@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Aero Burguer"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aero Burguer",
+      "timestamp_ms": 1642816676158,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aero Burguer",
+      "timestamp_ms": 1642816642266,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642815328570,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2756457105746664633"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1642813097273,
+      "share": {
+        "link": "https://www.instagram.com/stories/richardferr.ra/2756438385930518898"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aero Burguer",
+  "is_still_participant": true,
+  "thread_path": "inbox/aeroburguer_799127804818522",
+  "magic_words": [
+    
+  ]
+}

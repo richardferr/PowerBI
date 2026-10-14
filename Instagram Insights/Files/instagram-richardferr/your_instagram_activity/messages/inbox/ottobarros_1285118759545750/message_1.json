@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Otto Barros"
+    },
+    {
+      "name": "Richard"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Otto Barros",
+      "timestamp_ms": 1717890209071,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1710086837172,
+      "content": "De boa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Otto Barros",
+      "timestamp_ms": 1710086819191,
+      "content": "N\u00c3\u00a3o t\u00c3\u00b4 a fim ksksjjj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1710086788134,
+      "content": "Ia falar pra mamar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1710085416638,
+      "content": "Hmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Otto Barros",
+      "timestamp_ms": 1710085339952,
+      "content": "Agora indo tomar banho kkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1710085328079,
+      "content": "O que est\u00c3\u00a1 fazendo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Otto Barros",
+      "timestamp_ms": 1710085301753,
+      "content": "Oioi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard",
+      "timestamp_ms": 1710081587119,
+      "content": "E a\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Otto Barros",
+  "is_still_participant": true,
+  "thread_path": "inbox/ottobarros_1285118759545750",
+  "magic_words": [
+    
+  ]
+}
